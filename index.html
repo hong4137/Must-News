@@ -43,7 +43,21 @@
   .multi {
     background: rgba(102,126,234,.15); color: #a5b4fc; border-radius: 4px;
     padding: 1px 7px; font-weight: 600;
+    border: 0; font-family: inherit; font-size: inherit; cursor: pointer;
   }
+  .multi:hover { background: rgba(102,126,234,.3); color: #c7d2fe; }
+  .multi[aria-expanded="true"] { background: rgba(102,126,234,.35); color: #e0e7ff; }
+  .multi .caret { display: inline-block; margin-left: 3px; font-size: .7em; }
+  .multi[aria-expanded="true"] .caret { transform: rotate(180deg); }
+
+  .related { margin-top: 10px; border-top: 1px solid rgba(255,255,255,.08); padding-top: 8px; }
+  .related[hidden] { display: none; }
+  .related li { list-style: none; margin: 5px 0; font-size: .84rem; line-height: 1.45; }
+  .related a { color: #b8c4e8; text-decoration: none; }
+  .related a:hover { color: #fff; text-decoration: underline; }
+  .related .rsrc { color: #667eea; font-weight: 600; margin-right: 6px; }
+  .related .more { margin-top: 7px; font-size: .8rem; }
+  .related .more a { color: #8fa6ff; }
   .vs { color: #555; }
   .placement { color: #ff8c42; }
   footer { text-align: center; margin-top: 36px; color: #666; font-size: .85rem; }
@@ -52,6 +66,9 @@
   @media (max-width: 480px) {
     .item { padding: 12px; gap: 10px; }
     .title a { font-size: .92rem; }
+    /* 데스크톱에선 20px이라 손가락으로 누르기 어렵다 — 터치 타깃을 키운다 */
+    .multi { padding: 6px 11px; min-height: 32px; display: inline-flex; align-items: center; }
+    .related li { margin: 8px 0; }
   }
 </style>
 </head>
@@ -86,11 +103,43 @@
         '<span class="dot">●</span>' + esc(data.updated) + ' 갱신 · 최근 ' + esc(data.window_hours) + '시간';
 
       var html = '';
-      (data.articles || []).forEach(function (a) {
-        var multi = (a.sources && a.sources.length > 1)
-          ? '<span class="multi">' + a.sources.length + '개 매체</span>' : '';
+      (data.articles || []).forEach(function (a, idx) {
+        // 매체 수는 outlets(네이버 집계 우선)를 쓴다. sources.length는 우리가 수집한
+        // 매체만 세므로 과소 표시된다 — 실측: SKT 기사가 4개로 뜨는데 실제 16곳.
+        var n = a.outlets || (a.sources ? a.sources.length : 1);
+        var members = a.members || [];
+        var panelId = 'rel' + idx;
+
+        var multi = '';
+        if (n > 1) {
+          multi = members.length
+            ? '<button type="button" class="multi" aria-expanded="false" aria-controls="' + panelId + '"'
+              + ' data-panel="' + panelId + '">' + n + '개 매체<span class="caret">▾</span></button>'
+            : '<span class="multi">' + n + '개 매체</span>';
+        }
+
         var placement = a.placement
-          ? '<span class="placement">네이버 ' + (a.placement === 'hero' ? 'TOP3' : a.placement === 'featured' ? '랭킹 상위' : '랭킹') + '</span>' : '';
+          ? '<span class="placement">네이버 ' + (a.placement === 'hero' ? 'TOP3'
+              : a.placement === 'featured' ? '랭킹 상위'
+              : a.placement === 'section' ? 'IT섹션' : '랭킹') + '</span>' : '';
+
+        var related = '';
+        if (members.length) {
+          related = '<ul class="related" id="' + panelId + '" hidden>';
+          members.forEach(function (m) {
+            related += '<li><span class="rsrc">' + esc(m.source) + '</span>'
+              + '<a href="' + esc(m.url) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a></li>';
+          });
+          // 우리가 가진 것보다 네이버 집계가 크면 나머지는 네이버에서 볼 수 있게 안내
+          var shown = members.length + 1;
+          if (a.naverCluster && n > shown) {
+            related += '<li class="more"><a href="https://news.naver.com/cluster/'
+              + esc(a.naverCluster) + '/section/105" target="_blank" rel="noopener">'
+              + '네이버에서 ' + n + '곳 전체 보기 →</a></li>';
+          }
+          related += '</ul>';
+        }
+
         html += '<div class="item' + (a.rank <= 3 ? ' top3' : '') + '">'
           + '<div class="rank">' + a.rank + '</div>'
           + '<div class="body">'
@@ -98,10 +147,22 @@
           + '<div class="meta"><span class="src">' + esc(a.source) + '</span>' + multi + placement
           + '<span>' + esc((a.publishedAt || '').slice(5, 16)) + '</span>'
           + '<span class="vs">VS ' + esc(a.vs) + '</span></div>'
+          + related
           + '</div></div>';
       });
-      document.getElementById('list').innerHTML =
-        html || '<p class="state">최근 기사가 없습니다.</p>';
+      var list = document.getElementById('list');
+      list.innerHTML = html || '<p class="state">최근 기사가 없습니다.</p>';
+
+      // 펼치기 — 항목마다 리스너를 달지 않고 위임 하나로 처리한다
+      list.addEventListener('click', function (ev) {
+        var btn = ev.target.closest ? ev.target.closest('.multi[data-panel]') : null;
+        if (!btn) return;
+        var panel = document.getElementById(btn.getAttribute('data-panel'));
+        if (!panel) return;
+        var open = btn.getAttribute('aria-expanded') === 'true';
+        btn.setAttribute('aria-expanded', open ? 'false' : 'true');
+        panel.hidden = open;
+      });
     })
     .catch(function (e) {
       document.getElementById('list').innerHTML =
