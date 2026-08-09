@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Must News — 주간 국내 IT 랭킹</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: linear-gradient(180deg, #0a0a0f 0%, #12121a 100%);
+    color: #e0e0e0; min-height: 100vh; line-height: 1.6;
+  }
+  .container { max-width: 760px; margin: 0 auto; padding: 36px 16px 60px; }
+  header { text-align: center; margin-bottom: 24px; }
+  .badge {
+    display: inline-block; background: linear-gradient(135deg, #f59e0b, #d97706);
+    padding: 6px 18px; border-radius: 20px; font-size: .85rem; font-weight: 600;
+    margin-bottom: 14px; color: #fff;
+  }
+  h1 { font-size: 1.5rem; color: #fff; margin-bottom: 6px; }
+  .range { color: #888; font-size: .85rem; }
+
+  .weekbar { display: flex; gap: 8px; justify-content: center; align-items: center; margin: 18px 0 26px; flex-wrap: wrap; }
+  .weekbar select {
+    background: rgba(255,255,255,.06); color: #e0e0e0; border: 1px solid rgba(255,255,255,.15);
+    border-radius: 8px; padding: 7px 12px; font-family: inherit; font-size: .85rem; cursor: pointer;
+  }
+  .weekbar .hint { color: #666; font-size: .8rem; }
+
+  .item {
+    display: flex; gap: 14px; align-items: flex-start;
+    background: rgba(255,255,255,.03); border: 1px solid rgba(255,255,255,.08);
+    border-radius: 10px; padding: 14px 16px; margin-bottom: 10px;
+  }
+  .item:hover { background: rgba(255,255,255,.06); border-color: rgba(245,158,11,.35); }
+  .rank {
+    min-width: 2.1em; text-align: center; font-weight: 800; font-size: 1.05rem;
+    color: #f59e0b; padding-top: 1px;
+  }
+  .item.top3 .rank { color: #fbbf24; font-size: 1.2rem; }
+  .item.top3 { background: rgba(245,158,11,.06); border-color: rgba(245,158,11,.25); }
+  .body { flex: 1; min-width: 0; }
+  .title a { color: #fff; text-decoration: none; font-weight: 600; font-size: .98rem; }
+  .title a:hover { color: #fcd34d; text-decoration: underline; }
+  .meta { margin-top: 6px; font-size: .78rem; color: #888; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .src { color: #f59e0b; font-weight: 600; }
+  .chip {
+    background: rgba(245,158,11,.14); color: #fcd34d; border-radius: 4px;
+    padding: 1px 7px; font-weight: 600;
+    border: 0; font-family: inherit; font-size: inherit;
+  }
+  .chip.tap { cursor: pointer; }
+  .chip.tap:hover { background: rgba(245,158,11,.3); }
+  .chip[aria-expanded="true"] { background: rgba(245,158,11,.35); color: #fff; }
+  .chip .caret { display: inline-block; margin-left: 3px; font-size: .7em; }
+  .chip[aria-expanded="true"] .caret { transform: rotate(180deg); }
+  .dim { color: #555; }
+
+  .related { margin-top: 10px; border-top: 1px solid rgba(255,255,255,.08); padding-top: 8px; }
+  .related[hidden] { display: none; }
+  .related li { list-style: none; margin: 5px 0; font-size: .84rem; line-height: 1.45; }
+  .related a { color: #c8bda8; text-decoration: none; }
+  .related a:hover { color: #fff; text-decoration: underline; }
+  .related .rsrc { color: #f59e0b; font-weight: 600; margin-right: 6px; }
+  .related .more { margin-top: 7px; font-size: .8rem; }
+  .related .more a { color: #fcd34d; }
+
+  footer { text-align: center; margin-top: 36px; color: #666; font-size: .85rem; }
+  footer a { color: #f59e0b; text-decoration: none; }
+  .state { text-align: center; color: #888; padding: 50px 0; }
+  @media (max-width: 480px) {
+    .item { padding: 12px; gap: 10px; }
+    .title a { font-size: .92rem; }
+    .chip.tap { padding: 6px 11px; min-height: 32px; display: inline-flex; align-items: center; }
+    .related li { margin: 8px 0; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="badge">📅 주간 랭킹</div>
+    <h1>이번 주 국내 IT 뉴스</h1>
+    <p class="range" id="range">불러오는 중…</p>
+  </header>
+
+  <div class="weekbar" id="weekbar" hidden>
+    <select id="weekSelect"></select>
+    <span class="hint" id="weekHint"></span>
+  </div>
+
+  <main id="list"><p class="state">주간 랭킹을 불러오는 중입니다…</p></main>
+
+  <footer>
+    <p>매주 일요일 18시 발행 · 12시간 랭킹 스냅샷을 한 주간 집계</p>
+    <p style="margin-top:6px">
+      <a href="./">일간 랭킹</a> ·
+      <a href="https://hong4137.github.io/briefing/">외신 브리핑</a>
+    </p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var esc = function (s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  };
+  var listEl = document.getElementById('list');
+  var bust = function (u) { return u + (u.indexOf('?') === -1 ? '?' : '&') + 't=' + Date.now(); };
+
+  function render(data) {
+    document.getElementById('range').textContent =
+      data.window_start + ' ~ ' + data.window_end + ' · ' + data.editions + '개 회차 집계';
+
+    var html = '';
+    (data.stories || []).forEach(function (s, idx) {
+      var pid = 'wrel' + idx;
+      var members = s.members || [];
+
+      var chips = '<span class="chip">보도 ' + s.outlets + '곳</span>';
+      if (s.days > 1) chips += '<span class="chip">' + s.days + '일간</span>';
+      chips += '<span class="chip">최고 ' + s.bestRank + '위</span>';
+
+      var expand = members.length
+        ? '<button type="button" class="chip tap" aria-expanded="false" data-panel="' + pid + '">'
+          + '다른 보도 ' + members.length + '건<span class="caret">▾</span></button>'
+        : '';
+
+      var related = '';
+      if (members.length) {
+        related = '<ul class="related" id="' + pid + '" hidden>';
+        members.forEach(function (m) {
+          related += '<li><span class="rsrc">' + esc(m.source) + '</span>'
+            + '<a href="' + esc(m.url) + '" target="_blank" rel="noopener">' + esc(m.title) + '</a></li>';
+        });
+        if (s.naverCluster && s.outlets > members.length + 1) {
+          related += '<li class="more"><a href="https://news.naver.com/cluster/'
+            + esc(s.naverCluster) + '/section/105" target="_blank" rel="noopener">'
+            + '네이버에서 ' + s.outlets + '곳 전체 보기 →</a></li>';
+        }
+        related += '</ul>';
+      }
+
+      html += '<div class="item' + (s.rank <= 3 ? ' top3' : '') + '">'
+        + '<div class="rank">' + s.rank + '</div>'
+        + '<div class="body">'
+        + '<div class="title"><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + '</a></div>'
+        + '<div class="meta"><span class="src">' + esc(s.source) + '</span>' + chips + expand
+        + '<span class="dim">' + esc(s.firstSeen) + ' 첫 등장</span></div>'
+        + related
+        + '</div></div>';
+    });
+    listEl.innerHTML = html || '<p class="state">이번 주 집계된 기사가 없습니다.</p>';
+  }
+
+  listEl.addEventListener('click', function (ev) {
+    var btn = ev.target.closest ? ev.target.closest('.chip[data-panel]') : null;
+    if (!btn) return;
+    var panel = document.getElementById(btn.getAttribute('data-panel'));
+    if (!panel) return;
+    var open = btn.getAttribute('aria-expanded') === 'true';
+    btn.setAttribute('aria-expanded', open ? 'false' : 'true');
+    panel.hidden = open;
+  });
+
+  function loadWeek(week) {
+    fetch(bust('data/weekly/' + week + '.json'))
+      .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(render)
+      .catch(function (e) {
+        listEl.innerHTML = '<p class="state">' + esc(week) + ' 주간판을 불러오지 못했습니다 (' + esc(e.message) + ')</p>';
+      });
+  }
+
+  // 목록을 먼저 읽어 주차 선택을 만든다. 목록이 없으면 아직 발행 전이다.
+  fetch(bust('data/weekly/index.json'))
+    .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function (idx) {
+      var weeks = idx.weeks || [];
+      if (!weeks.length) throw new Error('empty');
+
+      var sel = document.getElementById('weekSelect');
+      weeks.forEach(function (w, i) {
+        var o = document.createElement('option');
+        o.value = w.week;
+        o.textContent = w.week + (i === 0 ? ' (최신)' : '');
+        sel.appendChild(o);
+      });
+      document.getElementById('weekbar').hidden = false;
+      document.getElementById('weekHint').textContent = '총 ' + weeks.length + '주';
+      sel.addEventListener('change', function () { loadWeek(sel.value); });
+
+      var want = (location.hash || '').replace('#', '');
+      var pick = weeks.filter(function (w) { return w.week === want; })[0] || weeks[0];
+      sel.value = pick.week;
+      loadWeek(pick.week);
+    })
+    .catch(function () {
+      document.getElementById('range').textContent = '';
+      listEl.innerHTML = '<p class="state">아직 발행된 주간판이 없습니다.<br>'
+        + '매주 일요일 18시에 한 주간의 랭킹이 집계됩니다.<br>'
+        + '<a href="./" style="color:#f59e0b">일간 랭킹 보기 →</a></p>';
+    });
+})();
+</script>
+</body>
+</html>
