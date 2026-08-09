@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-10 00:57",
+ "updated": "2026-08-10 01:17",
  "window_hours": 36,
  "articles": [
   {
@@ -19,12 +19,105 @@
     "매일경제IT"
    ],
    "outlets": 9,
+   "members": [
+    {
+     "title": "SK하이닉스, 4조원대 中 충칭공장 지분 매각설",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167650",
+     "source": "IT조선"
+    },
+    {
+     "title": "블룸버그 “SK하닉, 중국 충칭 패키징공장 지분매각 검토”",
+     "url": "https://www.dt.co.kr/article/12077145?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“SK하이닉스, ‘4조원대’ 중국 충칭 패키징공장 지분매각 검토”",
+     "url": "https://www.mk.co.kr/article/12121909",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "\"SK하이닉스, 中 충칭 패키징공장 지분매각 등 검토\"",
+     "url": "http://www.inews24.com/view/1993152",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "\"SK하이닉스, 중국 충칭 패키징공장 지분매각 등 검토\"",
+     "url": "https://www.yna.co.kr/view/AKR20260808045500009?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "“SK하이닉스, 중국 충칭 패키징공장 지분매각 등 검토”",
+     "url": "https://www.etnews.com/20260809000033",
+     "source": "전자신문"
+    },
+    {
+     "title": "블룸버그 “SK하이닉스, 中 충칭 공장 지분 매각 검토”",
+     "url": "https://biz.chosun.com/it-science/ict/2026/08/08/LFOXAKWDWZEMFOFEUO3ABLM3JQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    },
+    {
+     "title": "블룸버그 \"SK하이닉스, 中 충칭 패키징 공장 지분 매각 검토\"",
+     "url": "https://www.hankyung.com/article/2026080820317",
+     "source": "한국경제IT"
+    },
+    {
+     "title": "SK하이닉스, 4조원대 中 충칭공장 지분 매각 검토",
+     "url": "https://www.hankyung.com/article/202608092701i",
+     "source": "한국경제IT"
+    },
+    {
+     "title": "4조 규모 中 충칭공장… SK 하닉, 지분매각 추진",
+     "url": "https://www.hankyung.com/article/2026080928001",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": "hero",
    "vs": 7,
    "publishedAt": "2026-08-09 09:39"
   },
   {
    "rank": 2,
+   "title": "CEO가 직접 인사...SKT, 장기가입자 400명에 셰프 요리 대접",
+   "url": "https://zdnet.co.kr/view/?no=20260809085350",
+   "source": "ZDNet Korea",
+   "sources": [
+    "전자신문",
+    "IT조선",
+    "TV조선",
+    "ZDNet Korea",
+    "파이낸셜뉴스"
+   ],
+   "outlets": 16,
+   "members": [
+    {
+     "title": "SKT, ‘테이블 데이’ 서울 행사 성료",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167641",
+     "source": "IT조선"
+    },
+    {
+     "title": "SKT, 10년 장기고객 초청 '테이블 데이' 서울 개최",
+     "url": "https://n.news.naver.com/mnews/article/448/0000632394",
+     "source": "TV조선"
+    },
+    {
+     "title": "SKT, 장기고객 대상 '테이블 데이' 개최…정재헌 CEO 호스트 맡아",
+     "url": "https://www.etnews.com/20260809000009",
+     "source": "전자신문"
+    },
+    {
+     "title": "SKT, 장기고객 초청 미식 행사 개최…정재헌 대표가 직접 맞아",
+     "url": "https://n.news.naver.com/mnews/article/014/0005558924",
+     "source": "파이낸셜뉴스"
+    }
+   ],
+   "naverCluster": "c_202608090840_00000001",
+   "placement": "featured",
+   "vs": 6,
+   "publishedAt": "2026-08-09 08:53"
+  },
+  {
+   "rank": 3,
    "title": "삼성전자, 美 국립연구소와 영하 30도 극저온 난방 기술 개발",
    "url": "https://zdnet.co.kr/view/?no=20260809113855",
    "source": "ZDNet Korea",
@@ -37,12 +130,40 @@
     "디지털데일리"
    ],
    "outlets": 6,
+   "members": [
+    {
+     "title": "“영하 30도서도 끄떡없다” 삼성전자, 美 에너지부와 차세대 난방 기술 개발",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167640",
+     "source": "IT조선"
+    },
+    {
+     "title": "삼성전자, 美 국립연구소와 한랭지 히트펌프 기술 개발…알래스카서 실...",
+     "url": "https://www.ddaily.co.kr/page/view/2026080909442724848",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "삼성전자, 美 국립연구소와 차세대 난방 기술 개발한다",
+     "url": "https://www.etnews.com/20260809000036",
+     "source": "전자신문"
+    },
+    {
+     "title": "삼성전자, 美 국립연구소와 ‘영하 30도’ 견디는 차세대 난방기술 개발",
+     "url": "https://biz.chosun.com/it-science/ict/2026/08/09/BYSVGZZHUND6RNB5C2Z3QZYBTA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    },
+    {
+     "title": "삼성전자, 美 국립연구소와 '차세대 난방 기술' 협력",
+     "url": "https://www.hankyung.com/article/2026080927961",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": "featured",
    "vs": 6,
    "publishedAt": "2026-08-09 12:02"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "title": "롯데, 신선식품 경쟁력에 오카도 자동화 결합…'제타' CFC 부산 가동",
    "url": "https://www.bloter.net/news/articleView.html?idxno=670440",
    "source": "블로터",
@@ -53,12 +174,30 @@
     "IT조선"
    ],
    "outlets": 4,
+   "members": [
+    {
+     "title": "롯데마트, 부산서 AI·로봇 물류센터 가동… 영남권 400만 세대 배송",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167649",
+     "source": "IT조선"
+    },
+    {
+     "title": "AI가 수요예측부터 배송까지…롯데마트, '제타 스마트센터 부산' 가동",
+     "url": "https://www.etnews.com/20260809000038",
+     "source": "전자신문"
+    },
+    {
+     "title": "롯데마트, AI 물류로 온라인 장보기 승부수…'제타 스마트센터 부산' 본격 가동",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154126",
+     "source": "테크M"
+    }
+   ],
+   "naverCluster": null,
    "placement": "featured",
    "vs": 5.86,
    "publishedAt": "2026-08-09 11:00"
   },
   {
-   "rank": 4,
+   "rank": 5,
    "title": "모건스탠리 \"메모리주 가파른 조정 끝났다\"⋯하닉 목표가 260만원 유지",
    "url": "http://www.inews24.com/view/1993267",
    "source": "아이뉴스24",
@@ -68,27 +207,59 @@
     "매일경제IT"
    ],
    "outlets": 3,
+   "members": [
+    {
+     "title": "모건스탠리 “메모리주 급락 끝났다”…“지금이 재진입 기회”",
+     "url": "https://www.mk.co.kr/article/12122366",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "모건스탠리 \"메모리주 가파른 조정 끝났다…재진입 매력적\"",
+     "url": "https://www.yna.co.kr/view/AKR20260809046000008?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": "hero",
    "vs": 5.8,
    "publishedAt": "2026-08-09 21:58"
   },
   {
-   "rank": 5,
+   "rank": 6,
    "title": "제2우주센터 건립지로 전남광주통합시·제주도 경쟁",
    "url": "https://zdnet.co.kr/view/?no=20260807180304",
    "source": "ZDNet Korea",
    "sources": [
     "전자신문",
     "ZDNet Korea",
+    "서울경제",
     "서울신문"
    ],
    "outlets": 29,
+   "members": [
+    {
+     "title": "제2우주센터 유치 2파전…전남광주·제주 맞대결",
+     "url": "https://n.news.naver.com/mnews/article/011/0004649995",
+     "source": "서울경제"
+    },
+    {
+     "title": "나로우주센터 뒤이을 제2우주센터는 어디로? 10월 중순 결정",
+     "url": "https://n.news.naver.com/mnews/article/081/0003668734",
+     "source": "서울신문"
+    },
+    {
+     "title": "제2우주센터 건립지 공모에 전남광주·제주 등 2곳 지원",
+     "url": "https://www.etnews.com/20260809000027",
+     "source": "전자신문"
+    }
+   ],
+   "naverCluster": "c_202608091210_00000003",
    "placement": "ranking",
    "vs": 5.5,
    "publishedAt": "2026-08-09 12:00"
   },
   {
-   "rank": 6,
+   "rank": 7,
    "title": "SK하이닉스 새 통합노조 추진…성과급 갈등에 3500명 모였다",
    "url": "https://www.ddaily.co.kr/page/view/2026080910465442065",
    "source": "디지털데일리",
@@ -102,12 +273,45 @@
     "매일경제IT"
    ],
    "outlets": 7,
+   "members": [
+    {
+     "title": "‘성과급 불만’ SK하이닉스 통합노조 신설 추진",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167644",
+     "source": "IT조선"
+    },
+    {
+     "title": "‘성과급 불만’ SK하이닉스, 새 통합노조 출범 임박",
+     "url": "https://www.dt.co.kr/article/12077171?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“성과급 그대로”…SK하이닉스도 ‘통합노조’ 추진",
+     "url": "https://www.mk.co.kr/article/12121906",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "SK하이닉스 통합노조 신설 추진…구성원간 성과급 불만 확산",
+     "url": "https://www.yna.co.kr/view/AKR20260807147900003?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "“성과급 약속 지켜라”… SK하이닉스, 생산·사무직 ‘통합노조’ 추진",
+     "url": "https://biz.chosun.com/it-science/ict/2026/08/09/7GK5NNXS6BB3JINEX6KDDDO46U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    },
+    {
+     "title": "[속보]SK하이닉스 통합노조 신설 추진",
+     "url": "https://magazine.hankyung.com/business/article/202608092305b",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": "featured",
    "vs": 5.42,
    "publishedAt": "2026-08-09 11:14"
   },
   {
-   "rank": 7,
+   "rank": 8,
    "title": "\"계좌 정보 까지 털렸다\"…삼프로TV 앱 46만건 유출",
    "url": "https://www.ddaily.co.kr/page/view/2026080917003780400",
    "source": "디지털데일리",
@@ -120,12 +324,45 @@
     "디지털타임스"
    ],
    "outlets": 6,
+   "members": [
+    {
+     "title": "경제·증권정보 플랫폼 ‘삼프로TV’ 앱서 46만명 개인정보 유출",
+     "url": "https://www.dt.co.kr/article/12077295?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "[속보] 삼프로TV 개인정보 46만여건 유출…일부 계좌·카드 정보 포함",
+     "url": "https://www.mk.co.kr/article/12122298",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "삼프로TV 개인정보 46만여건 유출…일부 계좌·카드 정보 포함",
+     "url": "https://www.yna.co.kr/view/AKR20260809039800017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "삼프로TV, 앱 개인정보 46만건 유출... 계좌·카드정보도 포함",
+     "url": "https://www.etnews.com/20260809000092",
+     "source": "전자신문"
+    },
+    {
+     "title": "삼프로TV도 털렸다···계좌 정보 등 앱 회원 46만여건 유출",
+     "url": "https://magazine.hankyung.com/business/article/202608092754b",
+     "source": "한국경제IT"
+    },
+    {
+     "title": "삼프로TV 개인정보 '46만여건' 유출…계좌·카드 정보 포함",
+     "url": "https://www.hankyung.com/article/2026080929047",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": "featured",
    "vs": 5.42,
    "publishedAt": "2026-08-09 17:03"
   },
   {
-   "rank": 8,
+   "rank": 9,
    "title": "수학 난제 풀었다 홍보했는데…오픈AI '아스트라' 개발 보류 발표, 왜[팩플]",
    "url": "https://n.news.naver.com/mnews/article/025/0003543202",
    "source": "중앙일보",
@@ -133,43 +370,109 @@
     "중앙일보"
    ],
    "outlets": 19,
+   "members": [],
+   "naverCluster": "c_202608080800_00000043",
    "placement": "section",
    "vs": 5,
    "publishedAt": "2026-08-09 18:32"
   },
   {
-   "rank": 9,
-   "title": "SKT, 10년 장기고객 초청 '테이블 데이' 서울 개최",
-   "url": "https://n.news.naver.com/mnews/article/448/0000632394",
-   "source": "TV조선",
+   "rank": 10,
+   "title": "\"2년 안에 세계 기업 절반이 中 AI 쓴다\"",
+   "url": "https://n.news.naver.com/mnews/article/029/0003041449",
+   "source": "디지털타임스",
    "sources": [
-    "전자신문",
-    "IT조선",
-    "TV조선",
-    "파이낸셜뉴스"
+    "조선비즈",
+    "디지털타임스"
    ],
-   "outlets": 16,
+   "outlets": 11,
+   "members": [
+    {
+     "title": "\"2년 안에 세계 기업 절반이 中 AI 쓴다\"",
+     "url": "https://www.dt.co.kr/article/12077314?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“틱톡 모회사 中 바이트댄스, ‘미토스급’ 초대형 AI 개발 착수”",
+     "url": "https://biz.chosun.com/it-science/ict/2026/08/09/HA5WPBG5SVGWNLT26WHGVTV7OE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    }
+   ],
+   "naverCluster": "c_202608071150_00001295",
    "placement": "section",
    "vs": 5,
-   "publishedAt": "2026-08-09 14:10"
+   "publishedAt": "2026-08-09 19:32"
   },
   {
-   "rank": 10,
+   "rank": 11,
+   "title": "더 가볍고 얇게…진화하는 스마트폰, '폴더블 대전' 열린다[트렌드 경제]",
+   "url": "https://n.news.naver.com/mnews/article/088/0001022712",
+   "source": "매일신문",
+   "sources": [
+    "한국경제IT",
+    "매일신문"
+   ],
+   "outlets": 9,
+   "members": [
+    {
+     "title": "\"아재폰? 이번엔 잘 나왔다\"…BTS·리센느도 쓰더니 '대반전' [유지희의...",
+     "url": "https://www.hankyung.com/article/202608070431i",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": "c_202607260910_00000017",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-09 12:22"
+  },
+  {
+   "rank": 12,
    "title": "오픈AI, 차세대 AI '아스트라' 출시 연기… 사이버 보안 '최고 위험' 등급 비상",
    "url": "https://n.news.naver.com/mnews/article/469/0000946981",
    "source": "한국일보",
    "sources": [
     "전자신문",
     "뉴스1",
-    "한국일보"
+    "한국일보",
+    "조선비즈",
+    "테크M",
+    "이데일리"
    ],
-   "outlets": 5,
+   "outlets": 6,
+   "members": [
+    {
+     "title": "챗GPT 무료 이용자도 최신 AI 모델 무제한 채팅",
+     "url": "https://n.news.naver.com/mnews/article/421/0009104038",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"챗GPT 무료 이용 한도 없앤다\"… 오픈AI, 주간 이용자 10억명 돌파에 승부수",
+     "url": "https://n.news.naver.com/mnews/article/018/0006347559",
+     "source": "이데일리"
+    },
+    {
+     "title": "오픈AI, 챗GPT 무료도 최신 모델 무한 지원…'아스트라' 출시 연기",
+     "url": "https://www.etnews.com/20260809000015",
+     "source": "전자신문"
+    },
+    {
+     "title": "“사이버 공격 위험 우려”… 오픈AI, 차세대 AI ‘아스트라’ 출시 연기",
+     "url": "https://n.news.naver.com/mnews/article/366/0001185074",
+     "source": "조선비즈"
+    },
+    {
+     "title": "[글로벌] 오픈AI, 챗GPT 무료 이용자에 텍스트 채팅 무제한 제공",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154122",
+     "source": "테크M"
+    }
+   ],
+   "naverCluster": "c_202608071040_00000303",
    "placement": "section",
    "vs": 5,
    "publishedAt": "2026-08-09 13:48"
   },
   {
-   "rank": 11,
+   "rank": 13,
    "title": "깜깜이 데이터 수집은 차단하되, 혁신의 길은 열어야 [김현아의 IT세상읽기]",
    "url": "https://n.news.naver.com/mnews/article/018/0006348359",
    "source": "이데일리",
@@ -178,12 +481,20 @@
     "이데일리"
    ],
    "outlets": 4,
+   "members": [
+    {
+     "title": "공공정보 규제에 비대면 금융 '퇴행'…업계 금융위에 대책 요구",
+     "url": "https://www.etnews.com/20260807000171",
+     "source": "전자신문"
+    }
+   ],
+   "naverCluster": "c_202608091830_00000001",
    "placement": "section",
    "vs": 5,
    "publishedAt": "2026-08-09 19:07"
   },
   {
-   "rank": 12,
+   "rank": 14,
    "title": "AI 팩토리' 네이버, 'AI 대중화' 카카오⋯서로 다른 AI 행보 [IT돋보기]",
    "url": "http://www.inews24.com/view/1993132",
    "source": "아이뉴스24",
@@ -195,12 +506,35 @@
     "IT조선"
    ],
    "outlets": 5,
+   "members": [
+    {
+     "title": "LGU+, 브로드컴과 홈 네트워크 AI 자동 복구 기술 검증",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=213696",
+     "source": "AI타임스"
+    },
+    {
+     "title": "LG유플러스 “와이파이 8 엣지 AI로 네트워크 자가복구 검증”",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167638",
+     "source": "IT조선"
+    },
+    {
+     "title": "라운지엑스, AI가 주문·제조·매장 운영까지…‘AI Driven Retail’ 실증 나선다",
+     "url": "https://www.venturesquare.net/1104707/",
+     "source": "벤처스퀘어"
+    },
+    {
+     "title": "LG유플러스-브로드컴, '엣지 AI' 홈 네트워크 기술 검증",
+     "url": "https://www.etnews.com/20260808000041",
+     "source": "전자신문"
+    }
+   ],
+   "naverCluster": null,
    "placement": "ranking",
    "vs": 4.9,
    "publishedAt": "2026-08-09 07:01"
   },
   {
-   "rank": 13,
+   "rank": 15,
    "title": "엔비디아, 전력 기업 랜시엄에 4.2조 투자…AI 인프라 선점 속도",
    "url": "https://www.etnews.com/20260809000034",
    "source": "전자신문",
@@ -214,12 +548,45 @@
     "조선비즈"
    ],
    "outlets": 11,
+   "members": [
+    {
+     "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=213711",
+     "source": "AI타임스"
+    },
+    {
+     "title": "‘AI 인프라 주목’ 엔비디아, 전력업체 랜시움에 4조 투자",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167646",
+     "source": "IT조선"
+    },
+    {
+     "title": "엔비디아, 美 전력업체 랜시엄에 4.2조 투자...AI 인프라 확보",
+     "url": "http://www.inews24.com/view/1993173",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "AI 인프라에 주목하는 엔비디아…전력업체 랜시엄에 4조원 투자",
+     "url": "https://www.yna.co.kr/view/AKR20260809001600075?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "GPU 다음은 전력… 엔비디아, 랜시엄에 4조원 투자",
+     "url": "https://biz.chosun.com/it-science/ict/2026/08/09/SFG235QEQRFTRBFT4NVCTGWMQE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    },
+    {
+     "title": "엔비디아, 전력 업체 랜시엄에 4조 투자",
+     "url": "https://www.hankyung.com/article/2026080927651",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": "c_202608090500_00000008",
    "placement": "ranking",
    "vs": 4.6,
    "publishedAt": "2026-08-09 10:22"
   },
   {
-   "rank": 14,
+   "rank": 16,
    "title": "中 희토류 수출 조이자…美·日 '탈중국 공급망' 속도",
    "url": "http://www.inews24.com/view/1993233",
    "source": "아이뉴스24",
@@ -228,37 +595,17 @@
     "아이뉴스24"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "中희토류 상반기 대일수출 반토막…日, ODA로 공급망 다변화 대응",
+     "url": "https://www.yna.co.kr/view/AKR20260809027600073?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": "hero",
    "vs": 4.3,
    "publishedAt": "2026-08-09 17:10"
-  },
-  {
-   "rank": 15,
-   "title": "\"2년 안에 세계 기업 절반이 中 AI 쓴다\"",
-   "url": "https://www.dt.co.kr/article/12077314?ref=naver",
-   "source": "디지털타임스",
-   "sources": [
-    "조선비즈",
-    "디지털타임스"
-   ],
-   "outlets": 11,
-   "placement": null,
-   "vs": 4,
-   "publishedAt": "2026-08-09 19:32"
-  },
-  {
-   "rank": 16,
-   "title": "\"아재폰? 이번엔 잘 나왔다\"…BTS·리센느도 쓰더니 '대반전' [유지희의...",
-   "url": "https://www.hankyung.com/article/202608070431i",
-   "source": "한국경제IT",
-   "sources": [
-    "연합뉴스IT",
-    "한국경제IT"
-   ],
-   "outlets": 9,
-   "placement": null,
-   "vs": 4,
-   "publishedAt": "2026-08-09 13:01"
   },
   {
    "rank": 17,
@@ -272,6 +619,39 @@
     "IT조선"
    ],
    "outlets": 4,
+   "members": [
+    {
+     "title": "SK하이닉스 영업비밀 中 회사에 유출한 전 직원 2심서도 실형",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167645",
+     "source": "IT조선"
+    },
+    {
+     "title": "中 회사에 기술 유출… SK하이닉스 전 직원 2심도 실형",
+     "url": "https://www.dt.co.kr/article/12077193?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“중국 회사로 이직하려고”…SK하이닉스 영업비밀 빼돌린 직원, 2심도...",
+     "url": "https://www.mk.co.kr/article/12121888",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "中에 SK하이닉스 첨단기술 유출한 전 직원, 2심도 실형",
+     "url": "https://www.mk.co.kr/article/12121928",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "중국 회사로 이직'…하이닉스 영업비밀 유출 직원 2심서 1년 6개월형",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211217",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "SK하이닉스 영업비밀 中회사에 유출…前직원 2심도 징역1년6개월",
+     "url": "https://www.yna.co.kr/view/AKR20260807152300004?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": null,
    "vs": 4,
    "publishedAt": "2026-08-09 17:52"
@@ -288,27 +668,35 @@
     "한국경제IT"
    ],
    "outlets": 4,
+   "members": [
+    {
+     "title": "조국 “김정관 ‘996 노동제’는 중국도 불법…시대착오적 발상”",
+     "url": "https://www.dt.co.kr/article/12077198?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "조국 “김정관, 중국 ‘996 노동제’ 칭송? 반인권적·시대착오적 발상...",
+     "url": "https://www.mk.co.kr/article/12121897",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "조국 \"김정관 '중국 996 노동제' 칭송은 반인권적\"",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5211227",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "조국 \"김정관, 中 '996 노동제' 칭송은 반인권·시대착오적\"",
+     "url": "https://www.yna.co.kr/view/AKR20260809018100001?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": null,
    "vs": 4,
    "publishedAt": "2026-08-09 17:37"
   },
   {
    "rank": 19,
-   "title": "한미, 양자+AI 사업…지역혁신 프로그램 교류",
-   "url": "https://zdnet.co.kr/view/?no=20260809124643",
-   "source": "ZDNet Korea",
-   "sources": [
-    "매일경제IT",
-    "전자신문",
-    "ZDNet Korea"
-   ],
-   "outlets": 3,
-   "placement": null,
-   "vs": 4,
-   "publishedAt": "2026-08-09 14:00"
-  },
-  {
-   "rank": 20,
    "title": "삼성전자, 美 테일러팹 첫 인턴 뽑는다…가동 앞두고 인재 확보 속도",
    "url": "https://biz.chosun.com/it-science/ict/2026/08/09/WUC7BTLJMFESDLVDJWFKD6VILI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
    "source": "조선비즈",
@@ -318,12 +706,25 @@
     "조선비즈"
    ],
    "outlets": 3,
+   "members": [
+    {
+     "title": "삼성전자, 미국 테일러팹 첫 인턴십 모집…파운드리 증설 속도전",
+     "url": "https://www.yna.co.kr/view/AKR20260806144200003?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "삼성전자, 미국 테일러 파운드리 팹 첫 인턴십 모집",
+     "url": "https://www.etnews.com/20260809000031",
+     "source": "전자신문"
+    }
+   ],
+   "naverCluster": null,
    "placement": null,
    "vs": 4,
    "publishedAt": "2026-08-09 10:59"
   },
   {
-   "rank": 21,
+   "rank": 20,
    "title": "롯데마트, 오카도 손잡고 AI 물류센터 가동…2000억원 투자 효율은 ‘과...",
    "url": "https://www.ddaily.co.kr/page/view/2026080911240359453",
    "source": "디지털데일리",
@@ -332,12 +733,20 @@
     "한국경제IT"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "롯데마트, 英오카도와 손잡고 ' AI 물류' 승부수",
+     "url": "https://www.hankyung.com/article/2026080927941",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": "featured",
    "vs": 3.92,
    "publishedAt": "2026-08-09 11:57"
   },
   {
-   "rank": 22,
+   "rank": 21,
    "title": "㈜한화, 인적분할 후 부채비율 275%...4.8조 차입금 존속법인에",
    "url": "https://www.bloter.net/news/articleView.html?idxno=670418",
    "source": "블로터",
@@ -345,12 +754,14 @@
     "블로터"
    ],
    "outlets": 1,
+   "members": [],
+   "naverCluster": null,
    "placement": "hero",
    "vs": 3.74,
    "publishedAt": "2026-08-09 17:00"
   },
   {
-   "rank": 23,
+   "rank": 22,
    "title": "SK온, 美 리밸런싱 'ESS 전환'으로 답 찾았다",
    "url": "https://www.bloter.net/news/articleView.html?idxno=670334",
    "source": "블로터",
@@ -358,12 +769,14 @@
     "블로터"
    ],
    "outlets": 1,
+   "members": [],
+   "naverCluster": null,
    "placement": "hero",
    "vs": 3.74,
    "publishedAt": "2026-08-09 16:00"
   },
   {
-   "rank": 24,
+   "rank": 23,
    "title": "외형 주춤해도 수익성 높인 그라비티…판관비 줄이고 300억 배당 추진",
    "url": "https://www.bloter.net/news/articleView.html?idxno=670425",
    "source": "블로터",
@@ -371,12 +784,14 @@
     "블로터"
    ],
    "outlets": 1,
+   "members": [],
+   "naverCluster": null,
    "placement": "hero",
    "vs": 3.74,
    "publishedAt": "2026-08-09 07:00"
   },
   {
-   "rank": 25,
+   "rank": 24,
    "title": "AI 데이터센터, 전력반도체 업계 '새 먹거리' 급부상",
    "url": "https://www.etnews.com/20260807000243",
    "source": "전자신문",
@@ -385,12 +800,20 @@
     "전자신문"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "“데이터 속도 맞춰 기억·연산을 동시에”…차세대 AI 반도체 소자 구...",
+     "url": "https://www.dt.co.kr/article/12077138?ref=naver",
+     "source": "디지털타임스"
+    }
+   ],
+   "naverCluster": null,
    "placement": "featured",
    "vs": 3.3,
    "publishedAt": "2026-08-09 17:00"
   },
   {
-   "rank": 26,
+   "rank": 25,
    "title": "삼성전자, 美 테일러팹 첫 인턴 뽑는다…TSMC와 현지 인재 확보 경쟁",
    "url": "https://www.dt.co.kr/article/12077172?ref=naver",
    "source": "디지털타임스",
@@ -399,12 +822,20 @@
     "아이뉴스24"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "삼성전자, 美 테일러팹 인턴 선발…대만 TSMC와 '인재 쟁탈전'",
+     "url": "http://www.inews24.com/view/1993204",
+     "source": "아이뉴스24"
+    }
+   ],
+   "naverCluster": null,
    "placement": "featured",
    "vs": 3.1,
    "publishedAt": "2026-08-09 08:56"
   },
   {
-   "rank": 27,
+   "rank": 26,
    "title": "\" AI 의 생산성 대폭발 초입\"",
    "url": "https://www.mk.co.kr/article/12122213",
    "source": "매일경제IT",
@@ -413,12 +844,20 @@
     "매일경제IT"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "\"음성 대화하며 문서 분석까지\"...오픈AI, GPT-라이브 기능 대폭 확장",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=213716",
+     "source": "AI타임스"
+    }
+   ],
+   "naverCluster": null,
    "placement": null,
    "vs": 2.5,
    "publishedAt": "2026-08-09 17:35"
   },
   {
-   "rank": 28,
+   "rank": 27,
    "title": "오픈AI, 한국에 챗GPT 광고팀 신설…시장 공략 시작",
    "url": "https://www.dt.co.kr/article/12077290?ref=naver",
    "source": "디지털타임스",
@@ -427,12 +866,20 @@
     "디지털타임스"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "오픈AI, 한국에 챗GPT 광고팀 꾸렸다…시장 공략 본격화",
+     "url": "https://www.yna.co.kr/view/AKR20260807155900017?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": null,
    "vs": 2.5,
    "publishedAt": "2026-08-09 17:04"
   },
   {
-   "rank": 29,
+   "rank": 28,
    "title": "아마존, 데이터센터용 화석연료 발전소 투자…\"최대 규모 오염원\"",
    "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5211228",
    "source": "매일경제IT",
@@ -441,12 +888,20 @@
     "매일경제IT"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "아마존 데이터센터 발전소 투자에 시끌…\"美최대 오염원 될 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20260809004500075?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "naverCluster": null,
    "placement": null,
    "vs": 2.5,
    "publishedAt": "2026-08-09 15:03"
   },
   {
-   "rank": 30,
+   "rank": 29,
    "title": "컴투스, ‘제우스: 오만의 신’ 26일 출시…“부담 없이 즐길 MMORPG”",
    "url": "https://www.dt.co.kr/article/12077238?ref=naver",
    "source": "디지털타임스",
@@ -455,9 +910,39 @@
     "디지털타임스"
    ],
    "outlets": 2,
+   "members": [
+    {
+     "title": "컴투스 '제우스: 오만의 신' 26일 출격…“모두가 즐기는 경쟁 MMORPG”",
+     "url": "https://www.etnews.com/20260808000034",
+     "source": "전자신문"
+    }
+   ],
+   "naverCluster": null,
    "placement": null,
    "vs": 2.5,
    "publishedAt": "2026-08-09 14:57"
+  },
+  {
+   "rank": 30,
+   "title": "홈플러스 여파… 2분기 대형마트 판매 9.4% 줄어",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167652",
+   "source": "IT조선",
+   "sources": [
+    "연합뉴스IT",
+    "IT조선"
+   ],
+   "outlets": 2,
+   "members": [
+    {
+     "title": "홈플 사태에 2분기 대형마트 판매 9.4%↓…역대 최대 감소",
+     "url": "https://www.yna.co.kr/view/AKR20260808044600002?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "naverCluster": null,
+   "placement": null,
+   "vs": 2.5,
+   "publishedAt": "2026-08-09 14:30"
   }
  ]
 }
