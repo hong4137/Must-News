@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Must News — 국내 IT 랭킹</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: linear-gradient(180deg, #0a0a0f 0%, #12121a 100%);
+    color: #e0e0e0; min-height: 100vh; line-height: 1.6;
+  }
+  .container { max-width: 760px; margin: 0 auto; padding: 36px 16px 60px; }
+  header { text-align: center; margin-bottom: 28px; }
+  .badge {
+    display: inline-block; background: linear-gradient(135deg, #667eea, #764ba2);
+    padding: 6px 18px; border-radius: 20px; font-size: .85rem; font-weight: 600;
+    margin-bottom: 14px; color: #fff;
+  }
+  h1 { font-size: 1.5rem; color: #fff; margin-bottom: 6px; }
+  .updated { color: #888; font-size: .85rem; }
+  .updated .dot { color: #22c55e; margin-right: 4px; }
+
+  .item {
+    display: flex; gap: 14px; align-items: flex-start;
+    background: rgba(255,255,255,.03); border: 1px solid rgba(255,255,255,.08);
+    border-radius: 10px; padding: 14px 16px; margin-bottom: 10px;
+    transition: background .2s, border-color .2s;
+  }
+  .item:hover { background: rgba(255,255,255,.06); border-color: rgba(102,126,234,.35); }
+  .rank {
+    min-width: 2.1em; text-align: center; font-weight: 800; font-size: 1.05rem;
+    color: #667eea; padding-top: 1px;
+  }
+  .item.top3 .rank { color: #ff8c42; font-size: 1.15rem; }
+  .item.top3 { background: rgba(255,140,66,.05); border-color: rgba(255,140,66,.2); }
+  .body { flex: 1; min-width: 0; }
+  .title a { color: #fff; text-decoration: none; font-weight: 600; font-size: .98rem; }
+  .title a:hover { color: #8fa6ff; text-decoration: underline; }
+  .meta { margin-top: 6px; font-size: .78rem; color: #888; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+  .src { color: #667eea; font-weight: 600; }
+  .multi {
+    background: rgba(102,126,234,.15); color: #a5b4fc; border-radius: 4px;
+    padding: 1px 7px; font-weight: 600;
+  }
+  .vs { color: #555; }
+  .placement { color: #ff8c42; }
+  footer { text-align: center; margin-top: 36px; color: #666; font-size: .85rem; }
+  footer a { color: #667eea; text-decoration: none; }
+  .state { text-align: center; color: #888; padding: 50px 0; }
+  @media (max-width: 480px) {
+    .item { padding: 12px; gap: 10px; }
+    .title a { font-size: .92rem; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="badge">📡 Must News</div>
+    <h1>지금 중요한 국내 IT 뉴스</h1>
+    <p class="updated" id="updated">불러오는 중…</p>
+  </header>
+
+  <main id="list"><p class="state">랭킹을 불러오는 중입니다…</p></main>
+
+  <footer>
+    <p>매일 08시·18시 자동 갱신 · 13개 매체 교차 채점</p>
+    <p style="margin-top:6px"><a href="https://hong4137.github.io/briefing/">외신 브리핑</a> · <a href="https://hong4137.github.io/briefing/archive.html">아카이브</a></p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  var esc = function (s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  };
+
+  fetch('data/ranking.json?t=' + Date.now())
+    .then(function (r) { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function (data) {
+      document.getElementById('updated').innerHTML =
+        '<span class="dot">●</span>' + esc(data.updated) + ' 갱신 · 최근 ' + esc(data.window_hours) + '시간';
+
+      var html = '';
+      (data.articles || []).forEach(function (a) {
+        var multi = (a.sources && a.sources.length > 1)
+          ? '<span class="multi">' + a.sources.length + '개 매체</span>' : '';
+        var placement = a.placement
+          ? '<span class="placement">네이버 ' + (a.placement === 'hero' ? 'TOP3' : a.placement === 'featured' ? '랭킹 상위' : '랭킹') + '</span>' : '';
+        html += '<div class="item' + (a.rank <= 3 ? ' top3' : '') + '">'
+          + '<div class="rank">' + a.rank + '</div>'
+          + '<div class="body">'
+          + '<div class="title"><a href="' + esc(a.url) + '" target="_blank" rel="noopener">' + esc(a.title) + '</a></div>'
+          + '<div class="meta"><span class="src">' + esc(a.source) + '</span>' + multi + placement
+          + '<span>' + esc((a.publishedAt || '').slice(5, 16)) + '</span>'
+          + '<span class="vs">VS ' + esc(a.vs) + '</span></div>'
+          + '</div></div>';
+      });
+      document.getElementById('list').innerHTML =
+        html || '<p class="state">최근 기사가 없습니다.</p>';
+    })
+    .catch(function (e) {
+      document.getElementById('list').innerHTML =
+        '<p class="state">랭킹을 불러오지 못했습니다 (' + esc(e.message) + ')<br>첫 발행 전이라면 scoreAndPublishKr() 실행 후 2~3분 뒤 새로고침하세요.</p>';
+      document.getElementById('updated').textContent = '';
+    });
+})();
+</script>
+</body>
+</html>
