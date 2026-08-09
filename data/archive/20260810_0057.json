@@ -1,0 +1,463 @@
+{
+ "updated": "2026-08-10 00:57",
+ "window_hours": 36,
+ "articles": [
+  {
+   "rank": 1,
+   "title": "\"SK하이닉스, 4조원대 中 충칭공장 지분 매각 검토\"",
+   "url": "https://zdnet.co.kr/view/?no=20260809084027",
+   "source": "ZDNet Korea",
+   "sources": [
+    "연합뉴스IT",
+    "아이뉴스24",
+    "조선비즈",
+    "한국경제IT",
+    "디지털타임스",
+    "전자신문",
+    "ZDNet Korea",
+    "IT조선",
+    "매일경제IT"
+   ],
+   "outlets": 9,
+   "placement": "hero",
+   "vs": 7,
+   "publishedAt": "2026-08-09 09:39"
+  },
+  {
+   "rank": 2,
+   "title": "삼성전자, 美 국립연구소와 영하 30도 극저온 난방 기술 개발",
+   "url": "https://zdnet.co.kr/view/?no=20260809113855",
+   "source": "ZDNet Korea",
+   "sources": [
+    "전자신문",
+    "조선비즈",
+    "ZDNet Korea",
+    "IT조선",
+    "한국경제IT",
+    "디지털데일리"
+   ],
+   "outlets": 6,
+   "placement": "featured",
+   "vs": 6,
+   "publishedAt": "2026-08-09 12:02"
+  },
+  {
+   "rank": 3,
+   "title": "롯데, 신선식품 경쟁력에 오카도 자동화 결합…'제타' CFC 부산 가동",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670440",
+   "source": "블로터",
+   "sources": [
+    "전자신문",
+    "블로터",
+    "테크M",
+    "IT조선"
+   ],
+   "outlets": 4,
+   "placement": "featured",
+   "vs": 5.86,
+   "publishedAt": "2026-08-09 11:00"
+  },
+  {
+   "rank": 4,
+   "title": "모건스탠리 \"메모리주 가파른 조정 끝났다\"⋯하닉 목표가 260만원 유지",
+   "url": "http://www.inews24.com/view/1993267",
+   "source": "아이뉴스24",
+   "sources": [
+    "연합뉴스IT",
+    "아이뉴스24",
+    "매일경제IT"
+   ],
+   "outlets": 3,
+   "placement": "hero",
+   "vs": 5.8,
+   "publishedAt": "2026-08-09 21:58"
+  },
+  {
+   "rank": 5,
+   "title": "제2우주센터 건립지로 전남광주통합시·제주도 경쟁",
+   "url": "https://zdnet.co.kr/view/?no=20260807180304",
+   "source": "ZDNet Korea",
+   "sources": [
+    "전자신문",
+    "ZDNet Korea",
+    "서울신문"
+   ],
+   "outlets": 29,
+   "placement": "ranking",
+   "vs": 5.5,
+   "publishedAt": "2026-08-09 12:00"
+  },
+  {
+   "rank": 6,
+   "title": "SK하이닉스 새 통합노조 추진…성과급 갈등에 3500명 모였다",
+   "url": "https://www.ddaily.co.kr/page/view/2026080910465442065",
+   "source": "디지털데일리",
+   "sources": [
+    "연합뉴스IT",
+    "디지털타임스",
+    "한국경제IT",
+    "디지털데일리",
+    "IT조선",
+    "조선비즈",
+    "매일경제IT"
+   ],
+   "outlets": 7,
+   "placement": "featured",
+   "vs": 5.42,
+   "publishedAt": "2026-08-09 11:14"
+  },
+  {
+   "rank": 7,
+   "title": "\"계좌 정보 까지 털렸다\"…삼프로TV 앱 46만건 유출",
+   "url": "https://www.ddaily.co.kr/page/view/2026080917003780400",
+   "source": "디지털데일리",
+   "sources": [
+    "매일경제IT",
+    "연합뉴스IT",
+    "한국경제IT",
+    "디지털데일리",
+    "전자신문",
+    "디지털타임스"
+   ],
+   "outlets": 6,
+   "placement": "featured",
+   "vs": 5.42,
+   "publishedAt": "2026-08-09 17:03"
+  },
+  {
+   "rank": 8,
+   "title": "수학 난제 풀었다 홍보했는데…오픈AI '아스트라' 개발 보류 발표, 왜[팩플]",
+   "url": "https://n.news.naver.com/mnews/article/025/0003543202",
+   "source": "중앙일보",
+   "sources": [
+    "중앙일보"
+   ],
+   "outlets": 19,
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-09 18:32"
+  },
+  {
+   "rank": 9,
+   "title": "SKT, 10년 장기고객 초청 '테이블 데이' 서울 개최",
+   "url": "https://n.news.naver.com/mnews/article/448/0000632394",
+   "source": "TV조선",
+   "sources": [
+    "전자신문",
+    "IT조선",
+    "TV조선",
+    "파이낸셜뉴스"
+   ],
+   "outlets": 16,
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-09 14:10"
+  },
+  {
+   "rank": 10,
+   "title": "오픈AI, 차세대 AI '아스트라' 출시 연기… 사이버 보안 '최고 위험' 등급 비상",
+   "url": "https://n.news.naver.com/mnews/article/469/0000946981",
+   "source": "한국일보",
+   "sources": [
+    "전자신문",
+    "뉴스1",
+    "한국일보"
+   ],
+   "outlets": 5,
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-09 13:48"
+  },
+  {
+   "rank": 11,
+   "title": "깜깜이 데이터 수집은 차단하되, 혁신의 길은 열어야 [김현아의 IT세상읽기]",
+   "url": "https://n.news.naver.com/mnews/article/018/0006348359",
+   "source": "이데일리",
+   "sources": [
+    "전자신문",
+    "이데일리"
+   ],
+   "outlets": 4,
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-09 19:07"
+  },
+  {
+   "rank": 12,
+   "title": "AI 팩토리' 네이버, 'AI 대중화' 카카오⋯서로 다른 AI 행보 [IT돋보기]",
+   "url": "http://www.inews24.com/view/1993132",
+   "source": "아이뉴스24",
+   "sources": [
+    "전자신문",
+    "벤처스퀘어",
+    "아이뉴스24",
+    "AI타임스",
+    "IT조선"
+   ],
+   "outlets": 5,
+   "placement": "ranking",
+   "vs": 4.9,
+   "publishedAt": "2026-08-09 07:01"
+  },
+  {
+   "rank": 13,
+   "title": "엔비디아, 전력 기업 랜시엄에 4.2조 투자…AI 인프라 선점 속도",
+   "url": "https://www.etnews.com/20260809000034",
+   "source": "전자신문",
+   "sources": [
+    "연합뉴스IT",
+    "전자신문",
+    "AI타임스",
+    "IT조선",
+    "아이뉴스24",
+    "한국경제IT",
+    "조선비즈"
+   ],
+   "outlets": 11,
+   "placement": "ranking",
+   "vs": 4.6,
+   "publishedAt": "2026-08-09 10:22"
+  },
+  {
+   "rank": 14,
+   "title": "中 희토류 수출 조이자…美·日 '탈중국 공급망' 속도",
+   "url": "http://www.inews24.com/view/1993233",
+   "source": "아이뉴스24",
+   "sources": [
+    "연합뉴스IT",
+    "아이뉴스24"
+   ],
+   "outlets": 2,
+   "placement": "hero",
+   "vs": 4.3,
+   "publishedAt": "2026-08-09 17:10"
+  },
+  {
+   "rank": 15,
+   "title": "\"2년 안에 세계 기업 절반이 中 AI 쓴다\"",
+   "url": "https://www.dt.co.kr/article/12077314?ref=naver",
+   "source": "디지털타임스",
+   "sources": [
+    "조선비즈",
+    "디지털타임스"
+   ],
+   "outlets": 11,
+   "placement": null,
+   "vs": 4,
+   "publishedAt": "2026-08-09 19:32"
+  },
+  {
+   "rank": 16,
+   "title": "\"아재폰? 이번엔 잘 나왔다\"…BTS·리센느도 쓰더니 '대반전' [유지희의...",
+   "url": "https://www.hankyung.com/article/202608070431i",
+   "source": "한국경제IT",
+   "sources": [
+    "연합뉴스IT",
+    "한국경제IT"
+   ],
+   "outlets": 9,
+   "placement": null,
+   "vs": 4,
+   "publishedAt": "2026-08-09 13:01"
+  },
+  {
+   "rank": 17,
+   "title": "하닉 영업비밀 中회사 유출 前직원, 2심도 징역 1년6월",
+   "url": "https://www.mk.co.kr/article/12122272",
+   "source": "매일경제IT",
+   "sources": [
+    "연합뉴스IT",
+    "매일경제IT",
+    "디지털타임스",
+    "IT조선"
+   ],
+   "outlets": 4,
+   "placement": null,
+   "vs": 4,
+   "publishedAt": "2026-08-09 17:52"
+  },
+  {
+   "rank": 18,
+   "title": "조국, 김정관 '996노동제' 칭송에 \"시대착오적 발상\"",
+   "url": "https://magazine.hankyung.com/business/article/202608092798b",
+   "source": "한국경제IT",
+   "sources": [
+    "디지털타임스",
+    "연합뉴스IT",
+    "매일경제IT",
+    "한국경제IT"
+   ],
+   "outlets": 4,
+   "placement": null,
+   "vs": 4,
+   "publishedAt": "2026-08-09 17:37"
+  },
+  {
+   "rank": 19,
+   "title": "한미, 양자+AI 사업…지역혁신 프로그램 교류",
+   "url": "https://zdnet.co.kr/view/?no=20260809124643",
+   "source": "ZDNet Korea",
+   "sources": [
+    "매일경제IT",
+    "전자신문",
+    "ZDNet Korea"
+   ],
+   "outlets": 3,
+   "placement": null,
+   "vs": 4,
+   "publishedAt": "2026-08-09 14:00"
+  },
+  {
+   "rank": 20,
+   "title": "삼성전자, 美 테일러팹 첫 인턴 뽑는다…가동 앞두고 인재 확보 속도",
+   "url": "https://biz.chosun.com/it-science/ict/2026/08/09/WUC7BTLJMFESDLVDJWFKD6VILI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선비즈",
+   "sources": [
+    "연합뉴스IT",
+    "전자신문",
+    "조선비즈"
+   ],
+   "outlets": 3,
+   "placement": null,
+   "vs": 4,
+   "publishedAt": "2026-08-09 10:59"
+  },
+  {
+   "rank": 21,
+   "title": "롯데마트, 오카도 손잡고 AI 물류센터 가동…2000억원 투자 효율은 ‘과...",
+   "url": "https://www.ddaily.co.kr/page/view/2026080911240359453",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리",
+    "한국경제IT"
+   ],
+   "outlets": 2,
+   "placement": "featured",
+   "vs": 3.92,
+   "publishedAt": "2026-08-09 11:57"
+  },
+  {
+   "rank": 22,
+   "title": "㈜한화, 인적분할 후 부채비율 275%...4.8조 차입금 존속법인에",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670418",
+   "source": "블로터",
+   "sources": [
+    "블로터"
+   ],
+   "outlets": 1,
+   "placement": "hero",
+   "vs": 3.74,
+   "publishedAt": "2026-08-09 17:00"
+  },
+  {
+   "rank": 23,
+   "title": "SK온, 美 리밸런싱 'ESS 전환'으로 답 찾았다",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670334",
+   "source": "블로터",
+   "sources": [
+    "블로터"
+   ],
+   "outlets": 1,
+   "placement": "hero",
+   "vs": 3.74,
+   "publishedAt": "2026-08-09 16:00"
+  },
+  {
+   "rank": 24,
+   "title": "외형 주춤해도 수익성 높인 그라비티…판관비 줄이고 300억 배당 추진",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670425",
+   "source": "블로터",
+   "sources": [
+    "블로터"
+   ],
+   "outlets": 1,
+   "placement": "hero",
+   "vs": 3.74,
+   "publishedAt": "2026-08-09 07:00"
+  },
+  {
+   "rank": 25,
+   "title": "AI 데이터센터, 전력반도체 업계 '새 먹거리' 급부상",
+   "url": "https://www.etnews.com/20260807000243",
+   "source": "전자신문",
+   "sources": [
+    "디지털타임스",
+    "전자신문"
+   ],
+   "outlets": 2,
+   "placement": "featured",
+   "vs": 3.3,
+   "publishedAt": "2026-08-09 17:00"
+  },
+  {
+   "rank": 26,
+   "title": "삼성전자, 美 테일러팹 첫 인턴 뽑는다…TSMC와 현지 인재 확보 경쟁",
+   "url": "https://www.dt.co.kr/article/12077172?ref=naver",
+   "source": "디지털타임스",
+   "sources": [
+    "디지털타임스",
+    "아이뉴스24"
+   ],
+   "outlets": 2,
+   "placement": "featured",
+   "vs": 3.1,
+   "publishedAt": "2026-08-09 08:56"
+  },
+  {
+   "rank": 27,
+   "title": "\" AI 의 생산성 대폭발 초입\"",
+   "url": "https://www.mk.co.kr/article/12122213",
+   "source": "매일경제IT",
+   "sources": [
+    "AI타임스",
+    "매일경제IT"
+   ],
+   "outlets": 2,
+   "placement": null,
+   "vs": 2.5,
+   "publishedAt": "2026-08-09 17:35"
+  },
+  {
+   "rank": 28,
+   "title": "오픈AI, 한국에 챗GPT 광고팀 신설…시장 공략 시작",
+   "url": "https://www.dt.co.kr/article/12077290?ref=naver",
+   "source": "디지털타임스",
+   "sources": [
+    "연합뉴스IT",
+    "디지털타임스"
+   ],
+   "outlets": 2,
+   "placement": null,
+   "vs": 2.5,
+   "publishedAt": "2026-08-09 17:04"
+  },
+  {
+   "rank": 29,
+   "title": "아마존, 데이터센터용 화석연료 발전소 투자…\"최대 규모 오염원\"",
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5211228",
+   "source": "매일경제IT",
+   "sources": [
+    "연합뉴스IT",
+    "매일경제IT"
+   ],
+   "outlets": 2,
+   "placement": null,
+   "vs": 2.5,
+   "publishedAt": "2026-08-09 15:03"
+  },
+  {
+   "rank": 30,
+   "title": "컴투스, ‘제우스: 오만의 신’ 26일 출시…“부담 없이 즐길 MMORPG”",
+   "url": "https://www.dt.co.kr/article/12077238?ref=naver",
+   "source": "디지털타임스",
+   "sources": [
+    "전자신문",
+    "디지털타임스"
+   ],
+   "outlets": 2,
+   "placement": null,
+   "vs": 2.5,
+   "publishedAt": "2026-08-09 14:57"
+  }
+ ]
+}
