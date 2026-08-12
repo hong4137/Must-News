@@ -1,9 +1,130 @@
 {
- "updated": "2026-08-12 08:20",
+ "updated": "2026-08-12 18:40",
  "window_hours": 36,
  "articles": [
   {
    "rank": 1,
+   "title": "유튜브로 돈벌기 어려워진다...신규 크리에이터 수익화 문턱 2배↑",
+   "url": "https://zdnet.co.kr/view/?no=20260811183525",
+   "source": "ZDNet Korea",
+   "sources": [
+    "IT조선",
+    "ZDNet Korea",
+    "머니투데이",
+    "뉴스1"
+   ],
+   "outlets": 24,
+   "members": [
+    {
+     "title": "유튜브 수익화 더 어려워진다… 수익 문턱 ‘두 배’",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167781",
+     "source": "IT조선"
+    },
+    {
+     "title": "쇼츠 1000만회 못 넘으면 돈 못받는다…유튜브 문턱 '껑충'",
+     "url": "https://n.news.naver.com/mnews/article/421/0009109103",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"영상 하나로 1000만 대박? 수익 0원\"...유튜브, 수익화 문턱 2배로",
+     "url": "https://n.news.naver.com/mnews/article/008/0005398758",
+     "source": "머니투데이"
+    }
+   ],
+   "naverCluster": "c_202608111110_00000017",
+   "placement": "hero",
+   "vs": 7,
+   "publishedAt": "2026-08-11 19:06"
+  },
+  {
+   "rank": 2,
+   "title": "AI로 신약개발 앞당긴다…LG CNS, 제약·바이오 AX 사업 속도",
+   "url": "https://zdnet.co.kr/view/?no=20260812091506",
+   "source": "ZDNet Korea",
+   "sources": [
+    "ZDNet Korea",
+    "디지털타임스",
+    "블로터",
+    "테크M",
+    "IT조선",
+    "바이라인네트워크",
+    "조선비즈",
+    "AI타임스",
+    "뉴시스",
+    "매일경제IT",
+    "디지털데일리",
+    "한국경제IT"
+   ],
+   "outlets": 33,
+   "members": [
+    {
+     "title": "유럽 독자 인프라 확장 나선 미스트랄, AI 플랫폼 사업자로 도약",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=213858",
+     "source": "AI타임스"
+    },
+    {
+     "title": "LG CNS, 동아쏘시오그룹 AI 신약개발 플랫폼 구축",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167935",
+     "source": "IT조선"
+    },
+    {
+     "title": "농협은행, 고객 상담에도 AI… ‘AI 컨택센터’ 구축",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168005",
+     "source": "IT조선"
+    },
+    {
+     "title": "LGU+,'ISEC 2026'서 통합 보안 포트폴리오 공개",
+     "url": "https://zdnet.co.kr/view/?no=20260811100025",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "GSMA: 모바일 산업, 2030년까지 아시아•태평양 경제에 1조 4,000억 달러 기여 전망… M360 아세안에서 디지털 신뢰, AI, 디지털 주권 및 회복탄력성 집중 조명",
+     "url": "https://zdnet.co.kr/view/?no=20260811201003",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "[AI 고속도로] 슈퍼마이크로, AI 인프라 호황에 매출 92%↑…내년 연매출 100조원 전망",
+     "url": "https://zdnet.co.kr/view/?no=20260812085853",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "LG CNS, 동아쏘시오그룹 'AI 신약개발 플랫폼' 구축",
+     "url": "https://n.news.naver.com/mnews/article/003/0014123376",
+     "source": "뉴시스"
+    },
+    {
+     "title": "\"신약 연구 데이터 통합\"…LG CNS, 동아쏘시오그룹 'AI 개발 플랫폼 ' 구...",
+     "url": "https://www.ddaily.co.kr/page/view/2026081209134466743",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "LG CNS, LG AI 연·LGU+ 손잡고 정부 ‘독자 보안 모델’ 사업 도전",
+     "url": "https://www.dt.co.kr/article/12077891?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "엔비디아, 5000억달러 AI인프라 금융플랫폼 구축",
+     "url": "https://www.dt.co.kr/article/12077624?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "LG CNS, 동아쏘시오그룹 AI 신약개발 플랫폼 구축",
+     "url": "https://www.dt.co.kr/article/12077849?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "AI로 신약 만든다...LG CNS, 동아쏘시오그룹과 특화 개발 플랫폼 구축",
+     "url": "https://www.mk.co.kr/article/12125080",
+     "source": "매일경제IT"
+    }
+   ],
+   "naverCluster": "c_202608121010_00000009",
+   "placement": "ranking",
+   "vs": 5.5,
+   "publishedAt": "2026-08-12 10:01"
+  },
+  {
+   "rank": 3,
    "title": "펄어비스, 2분기 영업익 676억원…전년比 7411.1%↑",
    "url": "https://zdnet.co.kr/view/?no=20260811193136",
    "source": "ZDNet Korea",
@@ -11,24 +132,44 @@
     "IT조선",
     "ZDNet Korea",
     "조선비즈",
+    "더팩트",
     "전자신문",
     "디일렉",
     "한국경제IT",
     "노컷뉴스",
     "국민일보",
     "뉴스1",
+    "뉴시스",
+    "머니투데이",
+    "한국일보",
     "테크M",
     "매일경제IT",
     "한국경제TV",
     "서울경제",
-    "이데일리"
+    "이데일리",
+    "매일신문"
    ],
-   "outlets": 23,
+   "outlets": 31,
    "members": [
     {
      "title": "CJ대한통운, 2분기 영업익 1016억… 전년比 11.9% 감소",
      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167778",
      "source": "IT조선"
+    },
+    {
+     "title": "KT, 2분기 영업익 6483억원…전년 比 36.1%↓",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167938",
+     "source": "IT조선"
+    },
+    {
+     "title": "쏘카, 2분기 영업익 68억원…전년比 271%↑",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167991",
+     "source": "IT조선"
+    },
+    {
+     "title": "컴투스, 2분기 영업익 72억원…전년比 420.7%↑",
+     "url": "https://zdnet.co.kr/view/?no=20260812100657",
+     "source": "ZDNet Korea"
     },
     {
      "title": "펄어비스, 2분기 영업이익 676억 원… ‘붉은사막’ 흥행에 흑자 전환",
@@ -51,6 +192,16 @@
      "source": "뉴스1"
     },
     {
+     "title": "붉은사막' 대박난 펄어비스…2분기 영업익 7411% 폭증",
+     "url": "https://n.news.naver.com/mnews/article/003/0014121261",
+     "source": "뉴시스"
+    },
+    {
+     "title": "네오위즈, 2분기 영업익 79억원…전년比 57%↓",
+     "url": "https://n.news.naver.com/mnews/article/629/0000523729",
+     "source": "더팩트"
+    },
+    {
      "title": "‘붉은사막’ 효과 펄어비스, 2분기 영업익 676억원…스위치2 출시 준비",
      "url": "https://www.thelec.kr/news/articleView.html?idxno=60814",
      "source": "디일렉"
@@ -59,83 +210,495 @@
      "title": "펄어비스, 2Q ‘붉은사막’ 글로벌 흥행 견조한 실적 ‘눈길’",
      "url": "https://n.news.naver.com/mnews/article/009/0005719719",
      "source": "매일경제IT"
-    },
-    {
-     "title": "펄어비스, 붉은사막 효과로 2분기도 날았다…영업이익 7411%↑",
-     "url": "https://n.news.naver.com/mnews/article/011/0004650771",
-     "source": "서울경제"
-    },
-    {
-     "title": "펄어비스, 영업이익 676억원…전년比 7411% '껑충'",
-     "url": "https://n.news.naver.com/mnews/article/018/0006349773",
-     "source": "이데일리"
-    },
-    {
-     "title": "펄어비스, '붉은사막' 흥행에 2분기 영업익 676억원... 매출 248%↑",
-     "url": "https://www.etnews.com/20260811000355",
-     "source": "전자신문"
-    },
-    {
-     "title": "시프트업, 2분기 영업익 281억원…전년比 59% 감소",
-     "url": "https://n.news.naver.com/mnews/article/366/0001185622",
-     "source": "조선비즈"
-    },
-    {
-     "title": "글로벌 시장 평정한 펄어비스 깜짝 실적...붉은사막 DLC·스위치2로 장기 흥행 노린다",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=154214",
-     "source": "테크M"
     }
    ],
    "naverCluster": "c_202608111820_00000002",
-   "placement": "featured",
-   "vs": 6,
+   "placement": "ranking",
+   "vs": 5.5,
    "publishedAt": "2026-08-11 19:31"
   },
   {
-   "rank": 2,
-   "title": "산업부장관 \"호남 반도체 클러스터 2029년 1차 완공 목표\"",
-   "url": "https://zdnet.co.kr/view/?no=20260811183837",
+   "rank": 4,
+   "title": "제미나이' 앱 사용자 10억 명 넘어…\"챗GPT 바짝 추격\"",
+   "url": "https://zdnet.co.kr/view/?no=20260812083157",
    "source": "ZDNet Korea",
    "sources": [
-    "연합뉴스IT",
-    "조선비즈",
     "ZDNet Korea",
-    "아이뉴스24"
+    "조선비즈"
    ],
-   "outlets": 4,
+   "outlets": 14,
    "members": [
     {
-     "title": "김정관 산업부 장관 \"호남 반도체 공장 '2029년 1차 완공' 목표\"",
-     "url": "http://www.inews24.com/view/1994036",
-     "source": "아이뉴스24"
-    },
-    {
-     "title": "산업장관 \"호남 반도체 팹 2029년 1차 완공 목표\"",
-     "url": "https://www.yna.co.kr/view/AKR20260811074100003?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "김정관 산업부 장관 “호남 반도체 공장, 2029년 1차 완공 목표”",
-     "url": "https://biz.chosun.com/policy/policy_sub/2026/08/11/CT253BIVVVDFHELACKC5N7UKUI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "제미나이 앱 사용자 10억명 돌파… 챗GPT 따라잡았다",
+     "url": "https://n.news.naver.com/mnews/article/366/0001185792",
      "source": "조선비즈"
     }
    ],
-   "naverCluster": null,
-   "placement": "featured",
-   "vs": 6,
-   "publishedAt": "2026-08-11 18:41"
+   "naverCluster": "c_202608121000_00000007",
+   "placement": "ranking",
+   "vs": 5.5,
+   "publishedAt": "2026-08-12 09:53"
   },
   {
-   "rank": 3,
-   "title": "매출 2배 뛴 엔씨…리니지 클래식 흥행·저스트플레이 편입 효과",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=670600",
+   "rank": 5,
+   "title": "\"비효율 구조 바꿔야\"...네이버 노조, 통합교섭 추진 본격화[현장+]",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670743",
    "source": "블로터",
+   "sources": [
+    "디지털타임스",
+    "IT조선",
+    "디지털데일리",
+    "블로터",
+    "테크M",
+    "강원도민일보",
+    "아시아경제",
+    "뉴스1",
+    "연합뉴스IT",
+    "서울경제",
+    "파이낸셜뉴스"
+   ],
+   "outlets": 32,
+   "members": [
+    {
+     "title": "네이버 노조, 20일 모든 계열사 통합교섭 추진",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167952",
+     "source": "IT조선"
+    },
+    {
+     "title": "네이버 노조, 계열사 통합교섭 추진…이달 말 사측에 공식 요구",
+     "url": "https://n.news.naver.com/mnews/article/654/0000194714",
+     "source": "강원도민일보"
+    },
+    {
+     "title": "네이버 노조 \"개별 교섭으로 연간 1000시간 낭비\"…통합교섭 추진",
+     "url": "https://n.news.naver.com/mnews/article/421/0009109814",
+     "source": "뉴스1"
+    },
+    {
+     "title": "개정 노조법 타고 '통합교섭' 띄운 네이버 노조…IT업계 확산될까",
+     "url": "https://www.ddaily.co.kr/page/view/2026081214475778588",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "네이버 노조, 계열사 아우른 통합교섭 추진…20일 선포식",
+     "url": "https://www.dt.co.kr/article/12077710?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "포스코, 원청 교섭 본격화…개정 노조법 시행 후 처음",
+     "url": "https://n.news.naver.com/mnews/article/011/0004650665",
+     "source": "서울경제"
+    },
+    {
+     "title": "네이버 노조, 통합교섭 추진…토론회 이어 20일 선포식 갖는다",
+     "url": "https://n.news.naver.com/mnews/article/277/0005801772",
+     "source": "아시아경제"
+    },
+    {
+     "title": "플랜트노조·포스코 교섭 상견례…\"하청노동자와 발주사 첫만남\"",
+     "url": "https://n.news.naver.com/mnews/article/001/0016245461",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "네이버는 통합교섭·카뱅은 준법투쟁...IT노조 '새판짜기'",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154241",
+     "source": "테크M"
+    },
+    {
+     "title": "네이버노조 \"본사가 계열사 '진짜 사용자'...통합교섭 진행해야\"",
+     "url": "https://n.news.naver.com/mnews/article/014/0005560596",
+     "source": "파이낸셜뉴스"
+    }
+   ],
+   "naverCluster": "c_202608110550_00000412",
+   "placement": "ranking",
+   "vs": 5.42,
+   "publishedAt": "2026-08-12 17:22"
+  },
+  {
+   "rank": 6,
+   "title": "시프트업, ‘니케’로 영업이익률 50% 회복…관건은 차기작 속도",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670665",
+   "source": "블로터",
+   "sources": [
+    "테크M",
+    "IT조선",
+    "블로터"
+   ],
+   "outlets": 13,
+   "members": [
+    {
+     "title": "스텔라 블레이드 기저효과… 시프트업, 2분기 실적 ‘반토막’",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167855",
+     "source": "IT조선"
+    },
+    {
+     "title": "시프트업, 2분기 영업이익 281억원...'니케' 롱런 속 '스텔라 블레이드' 차기작 준비 '착착'",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154208",
+     "source": "테크M"
+    }
+   ],
+   "naverCluster": "c_202608111630_00000003",
+   "placement": "ranking",
+   "vs": 5.42,
+   "publishedAt": "2026-08-12 10:01"
+  },
+  {
+   "rank": 7,
+   "title": "[반도체 온에어] 용인시, 국가산단 속도전…45번 국도 확장 입찰공고",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670686",
+   "source": "블로터",
+   "sources": [
+    "블로터",
+    "전자신문",
+    "한국경제IT"
+   ],
+   "outlets": 3,
+   "members": [
+    {
+     "title": "용인 반도체 길 넓어진다…국도45호선 턴키 입찰",
+     "url": "https://www.etnews.com/20260812000402",
+     "source": "전자신문"
+    },
+    {
+     "title": "용인 반도체 국가산단 '대동맥' 뚫는다…국도 45호선 8911억 확장 본격화",
+     "url": "https://www.hankyung.com/article/202608127469h",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": null,
+   "placement": "ranking",
+   "vs": 5.42,
+   "publishedAt": "2026-08-12 09:09"
+  },
+  {
+   "rank": 8,
+   "title": "SK하이닉스·삼성전자 노조 손잡는다…성과급·임금 현안 공동 대응",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=670737",
+   "source": "블로터",
+   "sources": [
+    "아이뉴스24",
+    "블로터"
+   ],
+   "outlets": 2,
+   "members": [
+    {
+     "title": "삼성전자 초기업노조, SK하이닉스 통합노조와 접촉⋯\"노사 현안 논의\"",
+     "url": "http://www.inews24.com/view/1994229",
+     "source": "아이뉴스24"
+    }
+   ],
+   "naverCluster": null,
+   "placement": "hero",
+   "vs": 5.24,
+   "publishedAt": "2026-08-12 14:43"
+  },
+  {
+   "rank": 9,
+   "title": "개인정보 위, 본인전송요구 대리인 사전협의 '3차 신청' 접수",
+   "url": "https://www.ddaily.co.kr/page/view/2026081112054362357",
+   "source": "디지털데일리",
+   "sources": [
+    "전자신문",
+    "디지털데일리",
+    "연합뉴스IT",
+    "뉴시스",
+    "한국경제IT",
+    "매일경제IT",
+    "이데일리"
+   ],
+   "outlets": 26,
+   "members": [
+    {
+     "title": "본인전송요구권 확대 앞두고…'스크래핑' 사업자 3차 사전협의 접수",
+     "url": "https://n.news.naver.com/mnews/article/003/0014120289",
+     "source": "뉴시스"
+    },
+    {
+     "title": "내 정보 전송 여부, 이젠 내가 정한다",
+     "url": "https://www.mk.co.kr/article/12124227",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "개인정보 본인전송요구 사전협의 700건…월말까지 추가 접수",
+     "url": "https://www.yna.co.kr/view/AKR20260811084100530?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "비대면 대출·계좌개설 '비상'…금융권 \"스크래핑 차단 신중해야\"",
+     "url": "https://n.news.naver.com/mnews/article/018/0006350185",
+     "source": "이데일리"
+    },
+    {
+     "title": "개인정보위, 31일까지 본인전송요구 대리인 사전협의 3차 접수",
+     "url": "https://www.etnews.com/20260811000264",
+     "source": "전자신문"
+    },
+    {
+     "title": "비대면 대출 조회 막히나…소득·납세·건보 개인정보 긁어오기 손본다",
+     "url": "https://www.hankyung.com/article/2026081150031",
+     "source": "한국경제IT"
+    },
+    {
+     "title": "무단 스크래핑 금지'에 세무 플랫폼 발등에 불?···\"개인정보 안전성...",
+     "url": "https://magazine.hankyung.com/business/article/202608114661b",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": "c_202608111120_00002188",
+   "placement": "section",
+   "vs": 5.2,
+   "publishedAt": "2026-08-11 12:17"
+  },
+  {
+   "rank": 10,
+   "title": "플리토, 2분기 매출 81억원 ‘숨고르기’…“글로벌 데이터 사업 성과 3분기 반영”",
+   "url": "https://n.news.naver.com/mnews/article/138/0002237346",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리"
+   ],
+   "outlets": 6,
+   "members": [],
+   "naverCluster": "c_202608110950_00000001",
+   "placement": "section",
+   "vs": 5.2,
+   "publishedAt": "2026-08-11 10:04"
+  },
+  {
+   "rank": 11,
+   "title": "설계에서 검증까지 AI가 맡는다…지멘스 EDA의 ‘AI-Native Design’",
+   "url": "https://www.venturesquare.net/1105293/",
+   "source": "벤처스퀘어",
+   "sources": [
+    "벤처스퀘어",
+    "디지털데일리"
+   ],
+   "outlets": 5,
+   "members": [
+    {
+     "title": "지멘스 EDA, 엔비디아와 자가 검증 에이전틱 AI 협력 확대",
+     "url": "https://n.news.naver.com/mnews/article/138/0002237382",
+     "source": "디지털데일리"
+    }
+   ],
+   "naverCluster": "c_202608111230_00000001",
+   "placement": "section",
+   "vs": 5.2,
+   "publishedAt": "2026-08-11 17:06"
+  },
+  {
+   "rank": 12,
+   "title": "“불꽃축제 어디서 볼까”… 카카오 T, 명소 추천하고 주차 예약까지",
+   "url": "https://www.ddaily.co.kr/page/view/2026081211135400237",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리",
+    "ZDNet Korea",
+    "디지털타임스"
+   ],
+   "outlets": 3,
+   "members": [
+    {
+     "title": "카카오모빌리티, 불꽃축제 '주차난' 줄인다",
+     "url": "https://zdnet.co.kr/view/?no=20260812135933",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "불꽃축제 관람 혼란 최소화… 카카오 모빌리티, 주변 명소·주차장 소개",
+     "url": "https://www.dt.co.kr/article/12077967?ref=naver",
+     "source": "디지털타임스"
+    }
+   ],
+   "naverCluster": null,
+   "placement": "ranking",
+   "vs": 5.09,
+   "publishedAt": "2026-08-12 11:15"
+  },
+  {
+   "rank": 13,
+   "title": "구글, 국내 앱 이용자 네이버 제쳤다",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=60806",
+   "source": "디일렉",
+   "sources": [
+    "한국경제IT",
+    "조선비즈",
+    "매일경제IT",
+    "아이뉴스24",
+    "전자신문",
+    "디지털타임스",
+    "IT조선",
+    "AI타임스",
+    "한국일보",
+    "시사저널",
+    "SBS",
+    "경향신문",
+    "문화일보",
+    "중앙일보",
+    "뉴시스",
+    "디일렉",
+    "서울경제"
+   ],
+   "outlets": 59,
+   "members": [
+    {
+     "title": "구글, '제미나이' 인기에 네이버 사용자 수 넘었다...\"AI 확장 결실\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=213866",
+     "source": "AI타임스"
+    },
+    {
+     "title": "AI 잘 쓰는 사람이 합격한다 [AI가 바꾼 채용시장②]",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167753",
+     "source": "IT조선"
+    },
+    {
+     "title": "네이버클라우드, 공공 협업툴 네이버웍스에 AI 기능 3종 추가",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167937",
+     "source": "IT조선"
+    },
+    {
+     "title": "구글, 국내 이용자 수 네이버 첫 추월…포털 지형 흔드나",
+     "url": "https://n.news.naver.com/mnews/article/055/0001379649",
+     "source": "SBS"
+    },
+    {
+     "title": "AI 검색 힘입어…구글 앱 이용자 수, 네이버 처음 제쳤다",
+     "url": "https://n.news.naver.com/mnews/article/032/0003463647",
+     "source": "경향신문"
+    },
+    {
+     "title": "검색 넘어 AI로…구글, 처음으로 네이버 월이용자 추월",
+     "url": "https://n.news.naver.com/mnews/article/003/0014120259",
+     "source": "뉴시스"
+    },
+    {
+     "title": "AI 검색 앞세운 구글, 韓서 첫 1위…AI에 네이버 아성 ‘흔들’ [짚어봅...",
+     "url": "https://www.dt.co.kr/article/12077731?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "[사설] 구글에 MAU 추월당한 네이버… AI 혁신 없인 안방도 못지킨다",
+     "url": "https://www.dt.co.kr/article/12077729?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "AI 검색 앞세운 구글, 韓서 첫 1위… AI에 네이버 아성 ‘흔들’ [짚어봅시다]",
+     "url": "https://n.news.naver.com/mnews/article/029/0003041865",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "통신·AI 구독 한 번에…KT, 구글 AI 품은 초이스 요금제 출시",
+     "url": "https://www.mk.co.kr/article/12123919",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "구글 앱 이용자 수, 한국서 처음으로 네이버 추월했다",
+     "url": "https://n.news.naver.com/mnews/article/009/0005719556",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "네이버의 ‘검색 왕국’ 시대 끝나나…‘이곳’에 처음으로 추월 당해",
+     "url": "https://n.news.naver.com/mnews/article/009/0005719423",
+     "source": "매일경제IT"
+    }
+   ],
+   "naverCluster": "c_202608110640_00000655",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-11 17:34"
+  },
+  {
+   "rank": 14,
+   "title": "KT 박윤영호 첫 성적표…2분기 영업익 전년比 36%↓(종합)",
+   "url": "https://www.ddaily.co.kr/page/view/2026081211365070790",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리",
+    "전자신문",
+    "아이뉴스24",
+    "조선일보",
+    "한국경제IT",
+    "머니투데이"
+   ],
+   "outlets": 56,
+   "members": [
+    {
+     "title": "KT, 2Q 영업익 6483억으로 전기比 36%↓…AX 매출은 22%↑",
+     "url": "https://n.news.naver.com/mnews/article/008/0005398829",
+     "source": "머니투데이"
+    },
+    {
+     "title": "이통 3사 2분기 실적 희비…SKT·LGU+ '반색' KT는 '기대'[종합]",
+     "url": "http://www.inews24.com/view/1994312",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "KT, 2분기 영업익 36% 감소…AX 매출 2배 키우고 자사주 7500억원 소각",
+     "url": "https://www.etnews.com/20260812000290",
+     "source": "전자신문"
+    },
+    {
+     "title": "KT, 2분기 영업익 6483억원...박윤영 CEO ‘첫 성적표’",
+     "url": "https://n.news.naver.com/mnews/article/023/0003992565",
+     "source": "조선일보"
+    },
+    {
+     "title": "KT, AX 매출 22% 급증…\"2028년엔 2배로 늘릴 것\"",
+     "url": "https://www.hankyung.com/article/2026081275021",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": "c_202608120940_00000007",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-12 11:47"
+  },
+  {
+   "rank": 15,
+   "title": "삼성전자, '폴더블 헤리티지' 전시",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=60775",
+   "source": "디일렉",
+   "sources": [
+    "연합뉴스IT",
+    "IT조선",
+    "디일렉",
+    "한국경제IT"
+   ],
+   "outlets": 55,
+   "members": [
+    {
+     "title": "삼성전자, 7년 폴더블 혁신 담은 '폴더블 헤리티지' 전시",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167787",
+     "source": "IT조선"
+    },
+    {
+     "title": "갤럭시 폴드' 어떻게 진화했나… 삼성, 폴더블 7년사 전시",
+     "url": "https://www.yna.co.kr/view/AKR20260811026300017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "주연 노린 '단역'의 반전…사전판매 500만대 터진 '삼성폰' [테크로그]",
+     "url": "https://n.news.naver.com/mnews/article/015/0005319441",
+     "source": "한국경제IT"
+    }
+   ],
+   "naverCluster": "c_202607260910_00000017",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-11 14:21"
+  },
+  {
+   "rank": 16,
+   "title": "컴투스, 2분기 영업익 전년비 420% 급증…비용 효율화 효과",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=60863",
+   "source": "디일렉",
    "sources": [
     "블로터",
     "데일리안",
     "테크M",
     "ZDNet Korea",
     "헤럴드경제",
+    "국민일보",
     "IT조선",
     "뉴스1",
     "서울경제",
@@ -144,7 +707,7 @@
     "아시아경제",
     "한국경제IT"
    ],
-   "outlets": 45,
+   "outlets": 47,
    "members": [
     {
      "title": "리니지 클래식·저스트플레이 쌍끌이… 엔씨 2Q 영업익 전년比 10배",
@@ -157,9 +720,24 @@
      "source": "IT조선"
     },
     {
+     "title": "한국앤컴퍼니, 2Q 영업익 1002억원… 전년比 35.6%↑",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167983",
+     "source": "IT조선"
+    },
+    {
      "title": "엔씨, 2분기 영업익 1053%↑…1739억원",
      "url": "https://zdnet.co.kr/view/?no=20260811140217",
      "source": "ZDNet Korea"
+    },
+    {
+     "title": "밸로프, 2분기 매출 124억·영업익 17억…3분기 연속 성장세",
+     "url": "https://zdnet.co.kr/view/?no=20260811110109",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "엔씨, 2분기 영업익 1739억원… 3분기 연속 계단 밟았다",
+     "url": "https://n.news.naver.com/mnews/article/005/0001866225",
+     "source": "국민일보"
     },
     {
      "title": "\"리니지 클래식의 힘\"…엔씨, 2분기에 작년보다 10배 벌었다",
@@ -182,356 +760,115 @@
      "source": "디일렉"
     },
     {
-     "title": "굳건한 ‘리니지 IP’…엔씨, 2분기 영업익 전년比 1053%↑",
-     "url": "https://n.news.naver.com/mnews/article/011/0004650592",
-     "source": "서울경제"
-    },
-    {
-     "title": "엔씨 \"상반기 성공적 턴어라운드…모바일 캐주얼 '새 성장축'\"[컨콜]",
-     "url": "https://n.news.naver.com/mnews/article/277/0005801716",
-     "source": "아시아경제"
-    },
-    {
-     "title": "엔씨, 2분기 영업익 1739억원 '10배' 껑충... 해외 매출 비중 52%",
-     "url": "https://www.etnews.com/20260811000356",
-     "source": "전자신문"
-    },
-    {
-     "title": "엔씨, 2Q 영업익 1053% 껑충...해외·PC 게임이 실적 견인",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=154196",
-     "source": "테크M"
-    },
-    {
-     "title": "결국 리니지가 '엔씨 부활' 이끌었다…영업익 1000% 폭증",
-     "url": "https://n.news.naver.com/mnews/article/015/0005319574",
-     "source": "한국경제IT"
-    }
-   ],
-   "naverCluster": "c_202608111410_00000002",
-   "placement": "featured",
-   "vs": 5.86,
-   "publishedAt": "2026-08-11 14:55"
-  },
-  {
-   "rank": 4,
-   "title": "[배터리 온에어] 삼성SDI, GM과 차세대 각형 배터리 공동개발",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=670599",
-   "source": "블로터",
-   "sources": [
-    "매일경제IT",
-    "전자신문",
-    "블로터"
-   ],
-   "outlets": 3,
-   "members": [
-    {
-     "title": "성균관대, 310억원 규모 과기부 사업 주관…차세대 배터리 기술 개발 나...",
-     "url": "https://www.mk.co.kr/article/12123878",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "성균관대, 310억 원 규모 과기정통부 국책사업 주관",
-     "url": "https://www.etnews.com/20260811000281",
-     "source": "전자신문"
-    }
-   ],
-   "naverCluster": null,
-   "placement": "featured",
-   "vs": 5.86,
-   "publishedAt": "2026-08-11 15:01"
-  },
-  {
-   "rank": 5,
-   "title": "SK하이닉스, 日키오시아 최대주주 등극",
-   "url": "https://zdnet.co.kr/view/?no=20260811094913",
-   "source": "ZDNet Korea",
-   "sources": [
-    "ZDNet Korea",
-    "한국경제IT",
-    "디지털타임스",
-    "블로터",
-    "IT조선",
-    "매일경제IT",
-    "아이뉴스24"
-   ],
-   "outlets": 7,
-   "members": [
-    {
-     "title": "SK하이닉스, 日 키옥시아 최대주주로…도시바 지분 축소 여파",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167837",
-     "source": "IT조선"
-    },
-    {
-     "title": "SK하이닉스, 키옥시아 영향력 확대하나…최대주주 지위 확보",
-     "url": "https://www.dt.co.kr/article/12077658?ref=naver",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "SK하이닉스, 日 키옥시아 최대 주주 올라서…도시바 지분 축소 영향",
-     "url": "https://www.mk.co.kr/article/12124290",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "SK하이닉스, 日 키옥시아 사실상 최대주주로",
-     "url": "https://www.mk.co.kr/article/12124245",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "도시바 밀어낸 SK하이닉스…키옥시아 최대주주 올라",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=670619",
+     "title": "매출 2배 뛴 엔씨…리니지 클래식 흥행·저스트플레이 편입 효과",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=670600",
      "source": "블로터"
     },
     {
-     "title": "SK하이닉스 투자 SPC, 키옥시아 최대주주로",
-     "url": "http://www.inews24.com/view/1994042",
-     "source": "아이뉴스24"
-    },
-    {
-     "title": "SK하이닉스, 日 키옥시아 최대주주 올라서",
-     "url": "https://magazine.hankyung.com/business/article/202608114415b",
-     "source": "한국경제IT"
-    },
-    {
-     "title": "SK하이닉스, 日 키옥시아 최대주주 됐지만…",
-     "url": "https://www.hankyung.com/article/2026081149331",
-     "source": "한국경제IT"
-    },
-    {
-     "title": "SK하이닉스, 키옥시아 최대 주주로 부상",
-     "url": "https://www.hankyung.com/article/202608115237i",
-     "source": "한국경제IT"
+     "title": "굳건한 ‘리니지 IP’…엔씨, 2분기 영업익 전년比 1053%↑",
+     "url": "https://n.news.naver.com/mnews/article/011/0004650592",
+     "source": "서울경제"
     }
    ],
-   "naverCluster": null,
-   "placement": "ranking",
-   "vs": 5.5,
-   "publishedAt": "2026-08-11 09:56"
-  },
-  {
-   "rank": 6,
-   "title": "유튜브로 돈벌기 어려워진다...신규 크리에이터 수익화 문턱 2배↑",
-   "url": "https://zdnet.co.kr/view/?no=20260811183525",
-   "source": "ZDNet Korea",
-   "sources": [
-    "IT조선",
-    "ZDNet Korea"
-   ],
-   "outlets": 2,
-   "members": [
-    {
-     "title": "유튜브 수익화 더 어려워진다… 수익 문턱 ‘두 배’",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167781",
-     "source": "IT조선"
-    }
-   ],
-   "naverCluster": null,
-   "placement": "hero",
-   "vs": 5.5,
-   "publishedAt": "2026-08-11 19:06"
-  },
-  {
-   "rank": 7,
-   "title": "병원 구축 넘어 '메디컬 OS'로…이지케어텍, 플랫폼으로 승부[현장+]",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=670646",
-   "source": "블로터",
-   "sources": [
-    "전자신문",
-    "블로터",
-    "한국경제IT"
-   ],
-   "outlets": 7,
-   "members": [
-    {
-     "title": "이지케어텍 '메디컬 OS'로 HIS 2막 연다…의료 플랫폼 사업 '승부수'",
-     "url": "https://www.etnews.com/20260811000338",
-     "source": "전자신문"
-    },
-    {
-     "title": "이지케어텍 \"올해 글로벌 매출 2배 키운다... 의료AI 플랫폼 사업자로 전환할 것\"",
-     "url": "https://n.news.naver.com/mnews/article/015/0005319650",
-     "source": "한국경제IT"
-    }
-   ],
-   "naverCluster": "c_202608111710_00000001",
-   "placement": "ranking",
-   "vs": 5.42,
-   "publishedAt": "2026-08-11 17:52"
-  },
-  {
-   "rank": 8,
-   "title": "플리토, 2분기 매출 81억원 ‘숨고르기’…“글로벌 데이터 사업 성과 3분기 반영”",
-   "url": "https://n.news.naver.com/mnews/article/138/0002237346",
-   "source": "디지털데일리",
-   "sources": [
-    "디지털데일리"
-   ],
-   "outlets": 6,
-   "members": [],
-   "naverCluster": "c_202608110950_00000001",
-   "placement": "section",
-   "vs": 5.2,
-   "publishedAt": "2026-08-11 10:04"
-  },
-  {
-   "rank": 9,
-   "title": "설계에서 검증까지 AI가 맡는다…지멘스 EDA의 ‘AI-Native Design’",
-   "url": "https://www.venturesquare.net/1105293/",
-   "source": "벤처스퀘어",
-   "sources": [
-    "벤처스퀘어",
-    "디지털데일리"
-   ],
-   "outlets": 5,
-   "members": [
-    {
-     "title": "지멘스 EDA, 엔비디아와 자가 검증 에이전틱 AI 협력 확대",
-     "url": "https://n.news.naver.com/mnews/article/138/0002237382",
-     "source": "디지털데일리"
-    }
-   ],
-   "naverCluster": "c_202608111230_00000001",
-   "placement": "section",
-   "vs": 5.2,
-   "publishedAt": "2026-08-11 17:06"
-  },
-  {
-   "rank": 10,
-   "title": "삼성전자, '폴더블 헤리티지' 전시",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=60775",
-   "source": "디일렉",
-   "sources": [
-    "연합뉴스IT",
-    "IT조선",
-    "디일렉",
-    "국민일보",
-    "아시아경제",
-    "한국경제IT"
-   ],
-   "outlets": 55,
-   "members": [
-    {
-     "title": "삼성전자, 7년 폴더블 혁신 담은 '폴더블 헤리티지' 전시",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167787",
-     "source": "IT조선"
-    },
-    {
-     "title": "아이폰 고객도 탐냈다… 1030·여심도 잡았다",
-     "url": "https://n.news.naver.com/mnews/article/005/0001866053",
-     "source": "국민일보"
-    },
-    {
-     "title": "\"이게 아닌데\" \"놀라울 정도로 멀쩡\"…'파괴왕'들도 '갤럭시 Z폴드8' 맷집에 당황",
-     "url": "https://n.news.naver.com/mnews/article/277/0005801189",
-     "source": "아시아경제"
-    },
-    {
-     "title": "갤럭시 폴드' 어떻게 진화했나… 삼성, 폴더블 7년사 전시",
-     "url": "https://www.yna.co.kr/view/AKR20260811026300017?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "주연 노린 '단역'의 반전…사전판매 500만대 터진 '삼성폰' [테크로그]",
-     "url": "https://n.news.naver.com/mnews/article/015/0005319441",
-     "source": "한국경제IT"
-    }
-   ],
-   "naverCluster": "c_202607260910_00000017",
+   "naverCluster": "c_202608111410_00000002",
    "placement": "section",
    "vs": 5,
-   "publishedAt": "2026-08-11 14:21"
+   "publishedAt": "2026-08-12 16:59"
   },
   {
-   "rank": 11,
-   "title": "구글, 韓 앱 이용자 수 네이버 첫 추월",
-   "url": "https://www.etnews.com/20260811000227",
-   "source": "전자신문",
+   "rank": 17,
+   "title": "위메이드, 2분기 영업손실 210억원…전년比 적자 폭 축소",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=60872",
+   "source": "디일렉",
    "sources": [
-    "IT조선",
-    "디지털타임스",
-    "한국경제IT",
-    "조선비즈",
-    "매일경제IT",
-    "아이뉴스24",
     "전자신문",
-    "MBN",
-    "한국일보",
-    "시사저널",
-    "SBS",
-    "경향신문",
-    "문화일보",
+    "ZDNet Korea",
+    "IT조선",
+    "연합뉴스IT",
     "디일렉",
-    "서울경제"
+    "벤처스퀘어",
+    "조선비즈",
+    "머니투데이",
+    "파이낸셜뉴스",
+    "테크M",
+    "매일신문",
+    "더팩트",
+    "디지털데일리",
+    "한국경제IT",
+    "SBS Biz",
+    "디지털타임스",
+    "이데일리"
    ],
-   "outlets": 54,
+   "outlets": 45,
    "members": [
     {
-     "title": "‘흔들리는 구글’ 위기인가, 새판짜기인가 [이승현의 AI 네이티브]",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167659",
+     "title": "웹툰엔터, 2Q 영업손실 234억원… 적자폭 77.7% 확대",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167756",
      "source": "IT조선"
     },
     {
-     "title": "AI 잘 쓰는 사람이 합격한다 [AI가 바꾼 채용시장②]",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167753",
+     "title": "NHN, 2Q 영업익 579억원… 역대 분기 최대",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167763",
      "source": "IT조선"
     },
     {
-     "title": "국내 검색 왕좌' 네이버 흔들⋯구글, 국내 이용자 수 첫 추월",
-     "url": "https://n.news.naver.com/mnews/article/057/0001963006",
-     "source": "MBN"
+     "title": "컬리, 2분기 영업이익 274억원…'역대 최대'",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167984",
+     "source": "IT조선"
     },
     {
-     "title": "구글, 국내 이용자 수 네이버 첫 추월…포털 지형 흔드나",
-     "url": "https://n.news.naver.com/mnews/article/055/0001379649",
-     "source": "SBS"
+     "title": "코스맥스, 2분기 영업익 737억 '역대 최대'…미국법인 첫 흑자",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167853",
+     "source": "IT조선"
     },
     {
-     "title": "AI 검색 힘입어…구글 앱 이용자 수, 네이버 처음 제쳤다",
-     "url": "https://n.news.naver.com/mnews/article/032/0003463647",
-     "source": "경향신문"
+     "title": "NHN클라우드, GPU 사업 글로벌 고객 계약 임박 [NHN 컨콜]",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167794",
+     "source": "IT조선"
     },
     {
-     "title": "구글, 국내 앱 이용자 네이버 제쳤다",
-     "url": "https://www.thelec.kr/news/articleView.html?idxno=60806",
+     "title": "NHN 2분기 영업익 164%↑…페이코·KCP 등 호조",
+     "url": "https://n.news.naver.com/mnews/article/374/0000526721",
+     "source": "SBS Biz"
+    },
+    {
+     "title": "웹툰엔터, 2분기 매출 5000억원...적자폭 확대",
+     "url": "https://zdnet.co.kr/view/?no=20260811063628",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "플리토, AI 통번역 성장에 2분기 영업익 '턴어라운드'",
+     "url": "https://zdnet.co.kr/view/?no=20260811113941",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "이베이, 韓 셀러 2분기 매출 역대 최대…취미·수집품 '쑥'",
+     "url": "https://zdnet.co.kr/view/?no=20260811104603",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "NHN, 2분기 영업익 579억원…전년比 164.1%↑",
+     "url": "https://n.news.naver.com/mnews/article/629/0000523326",
+     "source": "더팩트"
+    },
+    {
+     "title": "NHN, 분기 매출·영업익 최대…전년 동기比 영업익 164% 증가",
+     "url": "https://www.thelec.kr/news/articleView.html?idxno=60787",
      "source": "디일렉"
     },
     {
-     "title": "AI 검색 앞세운 구글, 韓서 첫 1위…AI에 네이버 아성 ‘흔들’ [짚어봅...",
-     "url": "https://www.dt.co.kr/article/12077731?ref=naver",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "AI 검색 앞세운 구글, 韓서 첫 1위… AI에 네이버 아성 ‘흔들’ [짚어봅시다]",
-     "url": "https://n.news.naver.com/mnews/article/029/0003041865",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "[사설] 구글에 MAU 추월당한 네이버… AI 혁신 없인 안방도 못지킨다",
-     "url": "https://www.dt.co.kr/article/12077729?ref=naver",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "통신·AI 구독 한 번에…KT, 구글 AI 품은 초이스 요금제 출시",
-     "url": "https://www.mk.co.kr/article/12123919",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "구글 앱 이용자 수, 한국서 처음으로 네이버 추월했다",
-     "url": "https://n.news.naver.com/mnews/article/009/0005719556",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "네이버의 ‘검색 왕국’ 시대 끝나나…‘이곳’에 처음으로 추월 당해",
-     "url": "https://n.news.naver.com/mnews/article/009/0005719423",
-     "source": "매일경제IT"
+     "title": "NHN, 2분기 매출·영업익 '역대 최대'…게임·AI 사업 성장",
+     "url": "https://www.ddaily.co.kr/page/view/2026081108343975173",
+     "source": "디지털데일리"
     }
    ],
-   "naverCluster": "c_202608110640_00000655",
-   "placement": "featured",
+   "naverCluster": "c_202608110840_00000006",
+   "placement": "section",
    "vs": 5,
-   "publishedAt": "2026-08-11 14:00"
+   "publishedAt": "2026-08-12 17:57"
   },
   {
-   "rank": 12,
+   "rank": 18,
    "title": "웹툰엔터, 1억弗에 게임사 인수",
    "url": "https://www.hankyung.com/article/2026081149431",
    "source": "한국경제IT",
@@ -605,185 +942,7 @@
    "publishedAt": "2026-08-11 17:35"
   },
   {
-   "rank": 13,
-   "title": "NHN, 분기 매출·영업익 최대…전년 동기比 영업익 164% 증가",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=60787",
-   "source": "디일렉",
-   "sources": [
-    "전자신문",
-    "ZDNet Korea",
-    "IT조선",
-    "연합뉴스IT",
-    "디일렉",
-    "벤처스퀘어",
-    "조선비즈",
-    "머니투데이",
-    "테크M",
-    "매일신문",
-    "디지털데일리",
-    "한국경제IT",
-    "SBS Biz"
-   ],
-   "outlets": 42,
-   "members": [
-    {
-     "title": "웹툰엔터, 2Q 영업손실 234억원… 적자폭 77.7% 확대",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167756",
-     "source": "IT조선"
-    },
-    {
-     "title": "NHN, 2Q 영업익 579억원… 역대 분기 최대",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167763",
-     "source": "IT조선"
-    },
-    {
-     "title": "코스맥스, 2분기 영업익 737억 '역대 최대'…미국법인 첫 흑자",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167853",
-     "source": "IT조선"
-    },
-    {
-     "title": "NHN클라우드, GPU 사업 글로벌 고객 계약 임박 [NHN 컨콜]",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167794",
-     "source": "IT조선"
-    },
-    {
-     "title": "NHN 2분기 영업익 164%↑…페이코·KCP 등 호조",
-     "url": "https://n.news.naver.com/mnews/article/374/0000526721",
-     "source": "SBS Biz"
-    },
-    {
-     "title": "웹툰엔터, 2분기 매출 5000억원...적자폭 확대",
-     "url": "https://zdnet.co.kr/view/?no=20260811063628",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "플리토, AI 통번역 성장에 2분기 영업익 '턴어라운드'",
-     "url": "https://zdnet.co.kr/view/?no=20260811113941",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "이베이, 韓 셀러 2분기 매출 역대 최대…취미·수집품 '쑥'",
-     "url": "https://zdnet.co.kr/view/?no=20260811104603",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "NHN, 2분기 매출·영업익 '역대 최대'…게임·AI 사업 성장",
-     "url": "https://www.ddaily.co.kr/page/view/2026081108343975173",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "NHN, 2분기 영업익 전년比 164%↑…역대 최대 실적에 15%대 급등",
-     "url": "https://n.news.naver.com/mnews/article/088/0001023044",
-     "source": "매일신문"
-    },
-    {
-     "title": "웹툰엔터, 2Q 영업손실 221억원…유료 콘텐츠 매출은 꾸준히 증가",
-     "url": "https://n.news.naver.com/mnews/article/008/0005398133",
-     "source": "머니투데이"
-    },
-    {
-     "title": "NC, 2분기 영업이익 1739억원…전년比 1053%↑",
-     "url": "https://n.news.naver.com/mnews/article/008/0005398401",
-     "source": "머니투데이"
-    }
-   ],
-   "naverCluster": "c_202608110840_00000006",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 11:32"
-  },
-  {
-   "rank": 14,
-   "title": "삼성SDS, 국가 AI 연구에 B300 푼다…GPUaaS 대외사업 확대",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=670564",
-   "source": "블로터",
-   "sources": [
-    "테크M",
-    "전자신문",
-    "IT조선",
-    "매일경제IT",
-    "AI타임스",
-    "서울경제",
-    "머니투데이",
-    "블로터",
-    "ZDNet Korea",
-    "이데일리",
-    "서울신문",
-    "조선비즈",
-    "연합뉴스IT",
-    "노컷뉴스",
-    "한국일보"
-   ],
-   "outlets": 34,
-   "members": [
-    {
-     "title": "삼성SDS·엘리스그룹, '국가 AI 연구용 GPU 컴퓨팅 서비스' 책임진다",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=213792",
-     "source": "AI타임스"
-    },
-    {
-     "title": "삼성SDS, 국가 AI 연구용 GPU 서비스 시작…B300 투입",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167758",
-     "source": "IT조선"
-    },
-    {
-     "title": "엘리스그룹, 대학·연구기관에 AI 연구용 GPU 자원 공급",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167805",
-     "source": "IT조선"
-    },
-    {
-     "title": "삼성SDS·엘리스그룹, 국가 AI 연구 인프라 책임진다…고성능 GPU 공급",
-     "url": "https://zdnet.co.kr/view/?no=20260811105745",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "국내 연구진 'AI 컴퓨팅' 부족?…'삼성SDS'가 해결사로 나서",
-     "url": "https://n.news.naver.com/mnews/article/079/0004177435",
-     "source": "노컷뉴스"
-    },
-    {
-     "title": "삼성SDS·엘리스그룹, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시",
-     "url": "https://www.mk.co.kr/article/12123920",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "\"AI 연구용 GPU 지원\"…엘리스그룹, 153억 규모 국책사업 선정",
-     "url": "https://n.news.naver.com/mnews/article/008/0005398627",
-     "source": "머니투데이"
-    },
-    {
-     "title": "삼성SDS, 국가 AI 연구에 '블랙웰 울트라' GPU 공급",
-     "url": "https://n.news.naver.com/mnews/article/008/0005398135",
-     "source": "머니투데이"
-    },
-    {
-     "title": "삼성SDS, 대학·출연연 AI 연구에 ‘B300 GPU’ 지원",
-     "url": "https://n.news.naver.com/mnews/article/011/0004650457",
-     "source": "서울경제"
-    },
-    {
-     "title": "삼성SDS, 국가 AI 연구에 블랙웰 GPU 공급",
-     "url": "https://n.news.naver.com/mnews/article/081/0003669607",
-     "source": "서울신문"
-    },
-    {
-     "title": "엘리스그룹, 국내 생성형 AI 연구에 GPU 자원 공급",
-     "url": "https://n.news.naver.com/mnews/article/001/0016244618",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "삼성SDS, 국가 AI 연구용 GPU 인프라 공급… B300 클러스터 최초 투입",
-     "url": "https://n.news.naver.com/mnews/article/018/0006349196",
-     "source": "이데일리"
-    }
-   ],
-   "naverCluster": "c_202608110820_00001929",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 10:13"
-  },
-  {
-   "rank": 15,
+   "rank": 19,
    "title": "삼성전자, 독일 '게임스컴 2026' 참가… '풀스택 게이밍 경험' 선보인다",
    "url": "https://www.etnews.com/20260811000088",
    "source": "전자신문",
@@ -793,10 +952,9 @@
     "ZDNet Korea",
     "IT조선",
     "디지털타임스",
-    "파이낸셜뉴스",
-    "서울경제"
+    "파이낸셜뉴스"
    ],
-   "outlets": 33,
+   "outlets": 32,
    "members": [
     {
      "title": "삼성전자, 게임스컴서 게이밍 장비 대거 공개",
@@ -812,11 +970,6 @@
      "title": "모바일부터 PC까지…삼성전자, 독일서 ‘풀스택 게이밍’ 경험 내세운다",
      "url": "https://n.news.naver.com/mnews/article/029/0003041740",
      "source": "디지털타임스"
-    },
-    {
-     "title": "붉은사막 성공기, 글로벌 개발진과 나눈다[오늘의 게임 업데이트]",
-     "url": "https://n.news.naver.com/mnews/article/011/0004650382",
-     "source": "서울경제"
     },
     {
      "title": "삼성전자, 게임스컴 참가… PC·콘솔·모바일 게이밍 경험 선보여",
@@ -835,10 +988,38 @@
    "publishedAt": "2026-08-11 10:10"
   },
   {
-   "rank": 16,
-   "title": "로봇이 24시간 실험해 ‘AI용 데이터’ 찍어낸다...자율실험실 산학연...",
-   "url": "https://www.mk.co.kr/article/12124210",
-   "source": "매일경제IT",
+   "rank": 20,
+   "title": "컴투스, KBO 인기로 2분기 ‘선방’…신작 ‘제우스: 오만의 신’ 출시로 도약",
+   "url": "https://n.news.naver.com/mnews/article/029/0003041998",
+   "source": "디지털타임스",
+   "sources": [
+    "이데일리",
+    "아시아경제",
+    "디지털타임스"
+   ],
+   "outlets": 25,
+   "members": [
+    {
+     "title": "컴투스, 2분기 매출 15% 감소한 1570억원…영업이익은 420% ↑",
+     "url": "https://n.news.naver.com/mnews/article/277/0005801993",
+     "source": "아시아경제"
+    },
+    {
+     "title": "\"야구로 살았다\" 컴투스, 2분기 영업이익 72억원",
+     "url": "https://n.news.naver.com/mnews/article/018/0006350104",
+     "source": "이데일리"
+    }
+   ],
+   "naverCluster": "c_202608121000_00000014",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-12 13:43"
+  },
+  {
+   "rank": 21,
+   "title": "과기부, AI 신약개발 혁신연구거점 출범…\"AI 실험 자동화 구조 마련\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=213862",
+   "source": "AI타임스",
    "sources": [
     "AI타임스",
     "ZDNet Korea",
@@ -870,6 +1051,11 @@
      "source": "뉴스1"
     },
     {
+     "title": "로봇이 24시간 실험해 ‘AI용 데이터’ 찍어낸다...자율실험실 산학연...",
+     "url": "https://www.mk.co.kr/article/12124210",
+     "source": "매일경제IT"
+    },
+    {
      "title": "24시간 멈추지 않는 국가 차원 ‘자율실험실’ 구축…산학연 협의체 출범",
      "url": "https://n.news.naver.com/mnews/article/082/0001393386",
      "source": "부산일보"
@@ -883,22 +1069,70 @@
    "naverCluster": "c_202608111010_00000004",
    "placement": "section",
    "vs": 5,
-   "publishedAt": "2026-08-11 17:27"
+   "publishedAt": "2026-08-12 17:14"
   },
   {
-   "rank": 17,
+   "rank": 22,
+   "title": "정부, SMR·핵융합·양자 등 '7대 SEED' 키운다…미래 먹거리 선점",
+   "url": "http://www.inews24.com/view/1994450",
+   "source": "아이뉴스24",
+   "sources": [
+    "아이뉴스24",
+    "머니투데이"
+   ],
+   "outlets": 23,
+   "members": [
+    {
+     "title": "2035년 한국 新 먹거리는 SMR·양자컴·달 착륙선",
+     "url": "https://n.news.naver.com/mnews/article/008/0005399118",
+     "source": "머니투데이"
+    }
+   ],
+   "naverCluster": "c_202608121550_00000136",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-12 17:55"
+  },
+  {
+   "rank": 23,
+   "title": "‘P의 거짓’, 닌텐도에서도 통할까…프랜차이즈 중 최고 평점",
+   "url": "https://n.news.naver.com/mnews/article/011/0004650859",
+   "source": "서울경제",
+   "sources": [
+    "서울경제"
+   ],
+   "outlets": 22,
+   "members": [],
+   "naverCluster": "c_202608100930_00000037",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-12 07:01"
+  },
+  {
+   "rank": 24,
    "title": "“애플, 월가 ‘매도’ 의견 급증”… 유리 아이폰 취소·메모리값 급등...",
    "url": "https://biz.chosun.com/it-science/ict/2026/08/11/5RDO3JWE5JH3ND7WBA6YULQVVU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
    "source": "조선비즈",
    "sources": [
-    "한국경제IT",
+    "IT조선",
     "조선비즈",
-    "서울경제",
     "이데일리",
-    "주간동아"
+    "서울경제",
+    "주간동아",
+    "ZDNet Korea"
    ],
    "outlets": 22,
    "members": [
+    {
+     "title": "“애플 ‘올글래스 아이폰’ 무산”… 폴더블도 대중화 어려울 듯",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167814",
+     "source": "IT조선"
+    },
+    {
+     "title": "애플, 유리로 만든 아이폰 개발 중단…\"낮은 수율 때문\"",
+     "url": "https://n.news.naver.com/mnews/article/092/0002433562",
+     "source": "ZDNet Korea"
+    },
     {
      "title": "“도대체 얼마나 올리려고”...애플, 폰 보상액 8만원 인상하자 긴장한다는데",
      "url": "https://n.news.naver.com/mnews/article/011/0004650432",
@@ -913,11 +1147,6 @@
      "title": "AI폰 경쟁의 숨은 승자, 애플·삼성 아닌 구글이 될 수도",
      "url": "https://n.news.naver.com/mnews/article/037/0000038651",
      "source": "주간동아"
-    },
-    {
-     "title": "제프리스 \"애플, 올글래스폰 출시 취소… 매도하라\"",
-     "url": "https://www.hankyung.com/article/202608105342i",
-     "source": "한국경제IT"
     }
    ],
    "naverCluster": "c_202608051320_00000195",
@@ -926,7 +1155,7 @@
    "publishedAt": "2026-08-11 15:02"
   },
   {
-   "rank": 18,
+   "rank": 25,
    "title": "독파모 4개팀, 美 에포크AI '주목할 만한 모델' 등재",
    "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167821",
    "source": "IT조선",
@@ -996,7 +1225,121 @@
    "publishedAt": "2026-08-11 14:48"
   },
   {
-   "rank": 19,
+   "rank": 26,
+   "title": "\"AI 쓰면서 앱 전환에 월 40시간\"...AWS '아마존 퀵'으로 업무 흐름 잇는다",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=154239",
+   "source": "테크M",
+   "sources": [
+    "벤처스퀘어",
+    "전자신문",
+    "데일리안",
+    "테크M",
+    "조선비즈",
+    "ZDNet Korea"
+   ],
+   "outlets": 20,
+   "members": [
+    {
+     "title": "\"회장님 취향도 고려해 보고서 작성\"…AWS, 개인화 AI 비서 '아마존 퀵'[현장]",
+     "url": "https://n.news.naver.com/mnews/article/092/0002433764",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "메가존클라우드, AWS ‘아마존 퀵’ 국내 최초 SI 파트너 선정",
+     "url": "https://n.news.naver.com/mnews/article/119/0003121051",
+     "source": "데일리안"
+    },
+    {
+     "title": "45일 안에 기업 AI 에이전트 가동·검증…메가존클라우드, 아마존 퀵 국내 첫 SI 파트너",
+     "url": "https://www.venturesquare.net/1105453/",
+     "source": "벤처스퀘어"
+    },
+    {
+     "title": "메가존클라우드, '아마존 퀵' SI 파트너 선정…기업 AI 에이전트 구축 지원",
+     "url": "https://www.etnews.com/20260812000308",
+     "source": "전자신문"
+    },
+    {
+     "title": "“앱 전환에만 月 40시간 낭비”… AWS, AI 에이전트 ‘아마존 퀵’ 앞세워 韓 공략",
+     "url": "https://n.news.naver.com/mnews/article/366/0001185791",
+     "source": "조선비즈"
+    }
+   ],
+   "naverCluster": "c_202608121040_00000302",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-12 15:09"
+  },
+  {
+   "rank": 27,
+   "title": "NSHC-수모로직, 韓·日 클라우드 보안시장 공략 협력",
+   "url": "https://www.etnews.com/20260811000168",
+   "source": "전자신문",
+   "sources": [
+    "전자신문",
+    "테크M",
+    "연합뉴스IT",
+    "서울경제",
+    "매일경제IT",
+    "SBS Biz"
+   ],
+   "outlets": 20,
+   "members": [
+    {
+     "title": "LG유플, AWS 중개서비스 공식 등록",
+     "url": "https://n.news.naver.com/mnews/article/374/0000526973",
+     "source": "SBS Biz"
+    },
+    {
+     "title": "LG유플러스, AWS 클라우드 공공기관에 공급…AX 시장 공략",
+     "url": "https://n.news.naver.com/mnews/article/009/0005720027",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "LG유플러스, AWS 클라우드 앞세워 공공 AX 시장 공략",
+     "url": "https://n.news.naver.com/mnews/article/011/0004650920",
+     "source": "서울경제"
+    },
+    {
+     "title": "LGU+, AWS 클라우드 앞세워 공공 AX 시장 공략",
+     "url": "https://n.news.naver.com/mnews/article/001/0016246173",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "LG유플러스, 보안 시장 공략...'알파키·유플러스 SASE' 선봬",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154179",
+     "source": "테크M"
+    }
+   ],
+   "naverCluster": "c_202608120910_00000007",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-11 11:28"
+  },
+  {
+   "rank": 28,
+   "title": "밝고 긴 별똥별' 페르세우스 유성우… 달빛 없는 '합삭' 겹쳐 더 잘 보여요",
+   "url": "https://n.news.naver.com/mnews/article/469/0000947546",
+   "source": "한국일보",
+   "sources": [
+    "연합뉴스TV",
+    "한국일보"
+   ],
+   "outlets": 17,
+   "members": [
+    {
+     "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
+     "url": "https://n.news.naver.com/mnews/article/422/0000894673",
+     "source": "연합뉴스TV"
+    }
+   ],
+   "naverCluster": "c_202608100830_00000297",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-12 11:14"
+  },
+  {
+   "rank": 29,
    "title": "롯데百, 사칭·스팸 문자 막는다…업계 첫 ‘RCS’ 도입",
    "url": "https://n.news.naver.com/mnews/article/016/0002682036",
    "source": "헤럴드경제",
@@ -1011,351 +1354,32 @@
    "publishedAt": "2026-08-11 08:45"
   },
   {
-   "rank": 20,
-   "title": "개인정보 위, 본인전송요구 대리인 사전협의 '3차 신청' 접수",
-   "url": "https://www.ddaily.co.kr/page/view/2026081112054362357",
-   "source": "디지털데일리",
-   "sources": [
-    "전자신문",
-    "디지털데일리",
-    "연합뉴스IT",
-    "뉴시스",
-    "한국경제IT"
-   ],
-   "outlets": 16,
-   "members": [
-    {
-     "title": "본인전송요구권 확대 앞두고…'스크래핑' 사업자 3차 사전협의 접수",
-     "url": "https://n.news.naver.com/mnews/article/003/0014120289",
-     "source": "뉴시스"
-    },
-    {
-     "title": "개인정보 본인전송요구 사전협의 700건…월말까지 추가 접수",
-     "url": "https://www.yna.co.kr/view/AKR20260811084100530?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "개인정보위, 31일까지 본인전송요구 대리인 사전협의 3차 접수",
-     "url": "https://www.etnews.com/20260811000264",
-     "source": "전자신문"
-    },
-    {
-     "title": "비대면 대출 조회 막히나…소득·납세·건보 개인정보 긁어오기 손본다",
-     "url": "https://www.hankyung.com/article/2026081150031",
-     "source": "한국경제IT"
-    },
-    {
-     "title": "무단 스크래핑 금지'에 세무 플랫폼 발등에 불?···\"개인정보 안전성...",
-     "url": "https://magazine.hankyung.com/business/article/202608114661b",
-     "source": "한국경제IT"
-    }
-   ],
-   "naverCluster": "c_202608111120_00002188",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 12:17"
-  },
-  {
-   "rank": 21,
-   "title": "KT, 구글 AI 결합한 '초이스 요금제' 신규 라인업 선보여",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167766",
-   "source": "IT조선",
-   "sources": [
-    "IT조선",
-    "뉴스1"
-   ],
-   "outlets": 16,
-   "members": [
-    {
-     "title": "\"제미나이·클라우드 무료\"…KT, 구글과 'AI 요금제' 출시",
-     "url": "https://n.news.naver.com/mnews/article/421/0009107074",
-     "source": "뉴스1"
-    }
-   ],
-   "naverCluster": "c_202608110940_00000009",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 09:44"
-  },
-  {
-   "rank": 22,
-   "title": "네이버 노조, 계열사 아우른 통합교섭 추진…20일 선포식",
-   "url": "https://www.dt.co.kr/article/12077710?ref=naver",
-   "source": "디지털타임스",
-   "sources": [
-    "디지털타임스",
-    "강원도민일보",
-    "아시아경제",
-    "연합뉴스IT"
-   ],
-   "outlets": 14,
-   "members": [
-    {
-     "title": "네이버 노조, 계열사 통합교섭 추진…이달 말 사측에 공식 요구",
-     "url": "https://n.news.naver.com/mnews/article/654/0000194714",
-     "source": "강원도민일보"
-    },
-    {
-     "title": "네이버 노조, 통합교섭 추진…토론회 이어 20일 선포식 갖는다",
-     "url": "https://n.news.naver.com/mnews/article/277/0005801772",
-     "source": "아시아경제"
-    },
-    {
-     "title": "플랜트노조·포스코 교섭 상견례…\"하청노동자와 발주사 첫만남\"",
-     "url": "https://n.news.naver.com/mnews/article/001/0016245461",
-     "source": "연합뉴스IT"
-    }
-   ],
-   "naverCluster": "c_202608110550_00000412",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 16:28"
-  },
-  {
-   "rank": 23,
-   "title": "구글, 한국 앱 개발자 수수료 최저 10%로 인하",
-   "url": "https://n.news.naver.com/mnews/article/056/0012235350",
-   "source": "KBS",
-   "sources": [
-    "뉴시스",
-    "KBS",
-    "뉴스1",
-    "연합뉴스IT"
-   ],
-   "outlets": 13,
-   "members": [
-    {
-     "title": "구글, 100만 달러 미만 매출 수수료 10%로…최대 수수료는 25%",
-     "url": "https://n.news.naver.com/mnews/article/421/0009107568",
-     "source": "뉴스1"
-    },
-    {
-     "title": "앱 수수료 개편 앞둔 구글…글로벌 부사장 \"韓 개발자 성장 돕겠다\"",
-     "url": "https://n.news.naver.com/mnews/article/003/0014119799",
-     "source": "뉴시스"
-    },
-    {
-     "title": "구글, 한국 앱 개발자 수수료 최저 10%로 낮춘다",
-     "url": "https://n.news.naver.com/mnews/article/001/0016243989",
-     "source": "연합뉴스IT"
-    }
-   ],
-   "naverCluster": "c_202608111110_00000193",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 11:34"
-  },
-  {
-   "rank": 24,
-   "title": "엔씨, 올 매출 2.5조원 초과 기대…내년까지 신작 10종 출시",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=60812",
-   "source": "디일렉",
-   "sources": [
-    "ZDNet Korea",
-    "디일렉",
-    "이데일리",
-    "아시아경제"
-   ],
-   "outlets": 8,
-   "members": [
-    {
-     "title": "엔씨, 매출 5조원 달성 앞당긴다…박병무 대표 \"내년 더 큰 성장 확신\"",
-     "url": "https://zdnet.co.kr/view/?no=20260811172520",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "영업익 10배 뛴 엔씨 \"신작 10종 출시·연 매출 5兆 조기 달성\"(종합)",
-     "url": "https://n.news.naver.com/mnews/article/277/0005801747",
-     "source": "아시아경제"
-    },
-    {
-     "title": "리니지 넘어 다작 체제로…엔씨 \"내년까지 신작 10종 매달 출시\" [컨콜종합]",
-     "url": "https://n.news.naver.com/mnews/article/018/0006349747",
-     "source": "이데일리"
-    }
-   ],
-   "naverCluster": "c_202608111700_00000006",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 19:00"
-  },
-  {
-   "rank": 25,
-   "title": "KIST, 국제 공동 연구로 AI 기반 '자폐 스펙트럼 장애' 진단·경과 예측 프레임워크 개발",
-   "url": "https://www.etnews.com/20260811000342",
-   "source": "전자신문",
-   "sources": [
-    "전자신문",
-    "ZDNet Korea",
-    "헤럴드경제"
-   ],
-   "outlets": 8,
-   "members": [
-    {
-     "title": "자폐 개선 여부 객관화 가능한 AI 프레임워크 개발",
-     "url": "https://n.news.naver.com/mnews/article/092/0002433636",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "AI가 ‘자폐’ 정밀 진단…개인 맞춤형 치료길 열린다",
-     "url": "https://n.news.naver.com/mnews/article/016/0002682499",
-     "source": "헤럴드경제"
-    }
-   ],
-   "naverCluster": "c_202608111430_00000043",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 17:14"
-  },
-  {
-   "rank": 26,
-   "title": "카이스트 신임 감사에 김명주…과학영재학교장에 김도경 선임",
-   "url": "https://n.news.naver.com/mnews/article/018/0006349574",
-   "source": "이데일리",
-   "sources": [
-    "이데일리"
-   ],
-   "outlets": 6,
-   "members": [],
-   "naverCluster": "c_202608111450_00000006",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 14:52"
-  },
-  {
-   "rank": 27,
-   "title": "행복센터에 우체국 입점…우정본부장 \"우체국·지방정부 협력 모범사례\"",
-   "url": "https://n.news.naver.com/mnews/article/018/0006349115",
-   "source": "이데일리",
-   "sources": [
-    "이데일리"
-   ],
-   "outlets": 5,
-   "members": [],
-   "naverCluster": "c_202608101720_00000224",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-11 06:03"
-  },
-  {
-   "rank": 28,
-   "title": "제주항공, 고객 100여명 개인정보 유출⋯이름·여권번호 일부",
-   "url": "http://www.inews24.com/view/1993974",
-   "source": "아이뉴스24",
-   "sources": [
-    "한국경제IT",
-    "연합뉴스IT",
-    "IT조선",
-    "디지털데일리",
-    "아이뉴스24",
-    "조선비즈",
-    "매일경제IT"
-   ],
-   "outlets": 7,
-   "members": [
-    {
-     "title": "제주항공, 100여명 개인정보 노출… 피해고객에 보상",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167883",
-     "source": "IT조선"
-    },
-    {
-     "title": "제주항공, 고객 100여명 개인정보 노출…1인당 10만원 보상금",
-     "url": "https://www.ddaily.co.kr/page/view/2026081117494137750",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "제주항공 100여명 여권번호 등 유출…\"보상금 10만원 지급\"",
-     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5211703",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "제주항공 100여명 개인정보 노출…\"여권 재발급·보상금 지원\"",
-     "url": "https://www.yna.co.kr/view/AKR20260811107400003?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "제주항공, 고객 100여명 개인정보 네이버 에 노출",
-     "url": "https://biz.chosun.com/industry/company/2026/08/11/LTDIXKIFSNFVJA33X6BTIFHEEE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    },
-    {
-     "title": "\"여권번호까지\"…제주항공 고객 100여명 예약정보 유출",
-     "url": "https://www.hankyung.com/article/2026081143357",
-     "source": "한국경제IT"
-    }
-   ],
-   "naverCluster": null,
-   "placement": "ranking",
-   "vs": 4.9,
-   "publishedAt": "2026-08-11 17:37"
-  },
-  {
-   "rank": 29,
-   "title": "오픈AI, 사이버보안 특화 AI 모델 'GPT-5.6 사이버' 출시",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=60789",
-   "source": "디일렉",
-   "sources": [
-    "전자신문",
-    "IT조선",
-    "디일렉",
-    "AI타임스",
-    "연합뉴스IT"
-   ],
-   "outlets": 12,
-   "members": [
-    {
-     "title": "오픈AI, ‘GPT-5.6-사이버’ 공개...보안 프로그램 ‘데이브레이크’ 확장",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=213786",
-     "source": "AI타임스"
-    },
-    {
-     "title": "오픈AI, ‘GPT-5.6 사이버’ 출시…‘데이브레이크’ 블루·레드로 이원화",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167790",
-     "source": "IT조선"
-    },
-    {
-     "title": "오픈AI, 새 보안특화 모델 공개…'데이브레이크' 보안계획 재편",
-     "url": "https://n.news.naver.com/mnews/article/001/0016243660",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "오픈AI, 고급 취약점 악용 연구 AI 'GPT-5.6 사이버' 출시",
-     "url": "https://www.etnews.com/20260811000061",
-     "source": "전자신문"
-    }
-   ],
-   "naverCluster": "c_202608080800_00000043",
-   "placement": "section",
-   "vs": 4.8,
-   "publishedAt": "2026-08-11 13:09"
-  },
-  {
    "rank": 30,
-   "title": "루닛, 상반기 매출 457억원 '역대 최대'…영업손실 31%↓",
-   "url": "https://www.etnews.com/20260811000353",
+   "title": "넥슨, PC '오버워치' 국내 서비스 실시 및 '오버워치' 시즌4 시작",
+   "url": "https://www.etnews.com/20260812000198",
    "source": "전자신문",
    "sources": [
-    "테크M",
-    "ZDNet Korea",
-    "전자신문"
+    "전자신문",
+    "머니투데이",
+    "아이뉴스24"
    ],
-   "outlets": 3,
+   "outlets": 16,
    "members": [
     {
-     "title": "백화점·자회사 훨훨…신세계, 상반기 최대 실적 경신",
-     "url": "https://zdnet.co.kr/view/?no=20260811134049",
-     "source": "ZDNet Korea"
+     "title": "블리자드 손잡은 넥슨…'PC 오버워치' 국내 서비스 시동",
+     "url": "https://n.news.naver.com/mnews/article/008/0005398866",
+     "source": "머니투데이"
     },
     {
-     "title": "\"백화점 뛰고 자회사 웃었다\"...신세계, 상반기 총매출 6조 넘기며 '역대 최대'",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=154197",
-     "source": "테크M"
+     "title": "넥슨, '오버워치' 국내 서비스 실시…한국 전용 이벤트도 선보여",
+     "url": "https://n.news.naver.com/mnews/article/031/0001049013",
+     "source": "아이뉴스24"
     }
    ],
-   "naverCluster": null,
-   "placement": "featured",
-   "vs": 4.8,
-   "publishedAt": "2026-08-11 18:06"
+   "naverCluster": "c_202608101450_00000289",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-12 11:28"
   }
  ]
 }
