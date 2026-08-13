@@ -60,6 +60,11 @@
   .related .more a { color: #8fa6ff; }
   .vs { color: #555; }
   .placement { color: #ff8c42; }
+  /* 추종보도로 검증된 최초 보도. 자칭 [단독]이 아니라 '남들이 따라왔다'는 사실만 표시한다 */
+  .scoop {
+    background: rgba(34,197,94,.15); color: #86efac; border-radius: 4px;
+    padding: 1px 7px; font-weight: 700;
+  }
   footer { text-align: center; margin-top: 36px; color: #666; font-size: .85rem; }
   footer a { color: #667eea; text-decoration: none; }
   .state { text-align: center; color: #888; padding: 50px 0; }
@@ -126,6 +131,11 @@
               : a.placement === 'featured' ? '랭킹 상위'
               : a.placement === 'section' ? 'IT섹션' : '랭킹') + '</span>' : '';
 
+        // [단독] 표기는 쓰지 않는다 — 전문지는 안 달고 종합지만 달기 때문이다.
+        // 대신 '먼저 썼고 남들이 따라왔다'는 검증된 사실만 표시한다.
+        var scoop = a.scoop
+          ? '<span class="scoop">최초 보도 · ' + a.scoop.followers + '곳 추종</span>' : '';
+
         var related = '';
         if (members.length) {
           related = '<ul class="related" id="' + panelId + '" hidden>';
@@ -147,7 +157,7 @@
           + '<div class="rank">' + a.rank + '</div>'
           + '<div class="body">'
           + '<div class="title"><a href="' + esc(a.url) + '" target="_blank" rel="noopener">' + esc(a.title) + '</a></div>'
-          + '<div class="meta"><span class="src">' + esc(a.source) + '</span>' + multi + placement
+          + '<div class="meta"><span class="src">' + esc(a.source) + '</span>' + scoop + multi + placement
           + '<span>' + esc((a.publishedAt || '').slice(5, 16)) + '</span>'
           + '<span class="vs">VS ' + esc(a.vs) + '</span></div>'
           + related
