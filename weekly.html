@@ -11,7 +11,18 @@
     background: linear-gradient(180deg, #0a0a0f 0%, #12121a 100%);
     color: #e0e0e0; min-height: 100vh; line-height: 1.6;
   }
-  .container { max-width: 760px; margin: 0 auto; padding: 36px 16px 60px; }
+  .container { max-width: 760px; margin: 0 auto; padding: 28px 16px 60px; }
+
+  /* 세 페이지 공통 내비게이션 */
+  .nav { display: flex; gap: 6px; justify-content: center; margin-bottom: 24px; flex-wrap: wrap; }
+  .nav a {
+    color: #9aa4c0; text-decoration: none; font-size: .86rem; font-weight: 600;
+    padding: 7px 15px; border-radius: 999px; border: 1px solid rgba(255,255,255,.1);
+    background: rgba(255,255,255,.03);
+  }
+  .nav a:hover { color: #fff; border-color: rgba(255,255,255,.25); }
+  .nav a.on { color: #fff; background: rgba(245,158,11,.2); border-color: rgba(245,158,11,.5); }
+
   header { text-align: center; margin-bottom: 24px; }
   .badge {
     display: inline-block; background: linear-gradient(135deg, #f59e0b, #d97706);
@@ -79,6 +90,12 @@
 </head>
 <body>
 <div class="container">
+  <nav class="nav">
+    <a href="./">지금</a>
+    <a href="weekly.html" class="on">주간</a>
+    <a href="history.html">히스토리</a>
+  </nav>
+
   <header>
     <div class="badge">📅 주간 랭킹</div>
     <h1>이번 주 국내 IT 뉴스</h1>
