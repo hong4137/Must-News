@@ -1,9 +1,97 @@
 {
- "updated": "2026-08-21 08:54",
+ "updated": "2026-08-21 18:35",
  "window_hours": 36,
  "articles": [
   {
    "rank": 1,
+   "title": "카카오, 2개 회사로 나뉜다…카카오AI-카카오X로 성장 재설계",
+   "url": "https://zdnet.co.kr/view/?no=20260821102850",
+   "source": "ZDNet Korea",
+   "sources": [
+    "전자신문",
+    "ZDNet Korea",
+    "한국경제IT",
+    "블로터",
+    "테크M",
+    "IT데일리",
+    "바이라인네트워크",
+    "매일경제IT",
+    "헤럴드경제",
+    "문화일보",
+    "SBS Biz",
+    "파이낸셜뉴스"
+   ],
+   "outlets": 111,
+   "members": [
+    {
+     "title": "카카오, ‘AI·투자’ 두 회사로 인적분할…카카오톡·AI 독립 경영",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241125",
+     "source": "IT데일리"
+    },
+    {
+     "title": "카카오, '카톡'·'금융' 둘로 쪼개진다…AI법인 신설",
+     "url": "https://n.news.naver.com/mnews/article/374/0000528624",
+     "source": "SBS Biz"
+    },
+    {
+     "title": "카카오 인적분할 결단...\"호재\" vs \"악재\"",
+     "url": "https://zdnet.co.kr/view/?no=20260821141013",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "김범수의 승부수… 카카오, AI와 X로 쪼갠다",
+     "url": "https://www.mk.co.kr/article/12133456",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "호재 아녔어? 카카오 인적분할에 13% 급락",
+     "url": "https://n.news.naver.com/mnews/article/021/0002812938",
+     "source": "문화일보"
+    },
+    {
+     "title": "카카오 인적분할, 금융 비즈니스는 스테이블코인으로 승부수",
+     "url": "https://byline.network/?p=9004111222616182",
+     "source": "바이라인네트워크"
+    },
+    {
+     "title": "[카카오 지배구조 개편] '카카오AI·X'로 인적분할…투트랙 승부수",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=671451",
+     "source": "블로터"
+    },
+    {
+     "title": "[카카오 지배구조 재편] 신설법인 인적분할, 카톡·AI 시너지 날까",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=671487",
+     "source": "블로터"
+    },
+    {
+     "title": "카카오, 계열사 147개→92개…다이어트 끝내고 AI 성장 모드 돌입",
+     "url": "https://www.etnews.com/20260820000269",
+     "source": "전자신문"
+    },
+    {
+     "title": "카카오, AI·투자사업 인적분할…'카카오AI·카카오X'로 재편",
+     "url": "https://www.etnews.com/20260821000086",
+     "source": "전자신문"
+    },
+    {
+     "title": "[카카오, 둘로 다시 뛴다] 인적분할로 카카오뱅크 안고 간다…'금융 혁신' 승부수",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154493",
+     "source": "테크M"
+    },
+    {
+     "title": "[카카오, 둘로 다시 뛴다] \"17조 카카오, 나눠서 34조 가치 되찾는다\"....'인적분할'로 기업가치 재고 승부수(종합)",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154512",
+     "source": "테크M"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608211020_00000001",
+   "placement": "hero",
+   "vs": 7,
+   "publishedAt": "2026-08-21 10:34"
+  },
+  {
+   "rank": 2,
    "title": "카카오, 21일 긴급 오픈톡…지주사 전환·카카오톡 분사 발표하나",
    "url": "https://zdnet.co.kr/view/?no=20260820235630",
    "source": "ZDNet Korea",
@@ -11,20 +99,55 @@
     "매일경제IT",
     "ZDNet Korea",
     "연합뉴스IT",
+    "테크M",
+    "IT조선",
+    "디지털데일리",
+    "아이뉴스24",
     "파이낸셜뉴스",
     "조선일보",
-    "중앙일보"
+    "중앙일보",
+    "머니투데이"
    ],
-   "outlets": 9,
+   "outlets": 15,
    "members": [
+    {
+     "title": "카카오, 긴급 타운홀 미팅… 지주사 전환·카카오톡 분사설",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168560",
+     "source": "IT조선"
+    },
+    {
+     "title": "[ 카카오 대개편②] 카톡 빠진 ' 카카오 X'엔 뭐가 남나…\"제2의 카뱅 찾는...",
+     "url": "https://www.ddaily.co.kr/page/view/2026082111554214489",
+     "source": "디지털데일리"
+    },
     {
      "title": "카카오, 지주사로 전환하고… '국민메신저' 카톡 떼어낸다",
      "url": "https://www.mk.co.kr/article/12132764",
      "source": "매일경제IT"
     },
     {
+     "title": "카카오, 긴급 직원 간담회 개최…지배구조 개편 발표할까",
+     "url": "https://n.news.naver.com/mnews/article/008/0005402816",
+     "source": "머니투데이"
+    },
+    {
+     "title": "[속보] 카카오 \" 카카오 X 지주사 전환 계획 없다\"⋯인적분할 후 독립경영",
+     "url": "http://www.inews24.com/view/1997129",
+     "source": "아이뉴스24"
+    },
+    {
      "title": "카카오 오늘 타운홀…'지주사 전환· 카카오 톡 분할' 촉각",
      "url": "https://www.yna.co.kr/view/AKR20260821027900017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "카카오 \"카카오X 지주사 전환 없다\"… AI ·투자 독립경영(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20260821109951017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "카카오 \" 카카오 X 지주사 전환 계획 없다\"…인적분할 후 독립경영",
+     "url": "https://www.yna.co.kr/view/AKR20260821109900017?input=1195m",
      "source": "연합뉴스IT"
     },
     {
@@ -38,9 +161,14 @@
      "source": "중앙일보"
     },
     {
-     "title": "카카오, 내일 '긴급' 직원 대상 간담회...지배구조 개편되나",
-     "url": "https://n.news.naver.com/mnews/article/014/0005564405",
-     "source": "파이낸셜뉴스"
+     "title": "[카카오, 둘로 다시 뛴다] 카카오AI, 전 국민 AI에이전트 시대 '가속'...2030년 매출 6조원 '자신'",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154488",
+     "source": "테크M"
+    },
+    {
+     "title": "[카카오, 둘로 다시 뛴다] 김도영 카카오X 대표 내정자 \"인적분할 후 지주사 전환 계획 없어...독립 경영 원칙\"",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=154504",
+     "source": "테크M"
     }
    ],
    "scoop": null,
@@ -50,7 +178,7 @@
    "publishedAt": "2026-08-21 00:08"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "title": "갤럭시S26 FE, 홍보 이미지 유출… \"핵심은 가격\"",
    "url": "https://zdnet.co.kr/view/?no=20260819140637",
    "source": "ZDNet Korea",
@@ -109,7 +237,7 @@
    "publishedAt": "2026-08-20 08:13"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "title": "정부, 독파모 2차 평가 세부 점수 공개…\"투명성 논란 해소\"",
    "url": "https://zdnet.co.kr/view/?no=20260820172731",
    "source": "ZDNet Korea",
@@ -117,6 +245,7 @@
     "전자신문",
     "IT조선",
     "ZDNet Korea",
+    "디일렉",
     "이데일리",
     "디지털데일리",
     "AI타임스",
@@ -146,6 +275,11 @@
      "title": "[안광섭 AI 진테제] 독파모 2차 평가가 남긴 것",
      "url": "https://zdnet.co.kr/view/?no=20260820204530",
      "source": "ZDNet Korea"
+    },
+    {
+     "title": "[기자수첩] AI 완성품 품평회가 된 '독파모' 평가",
+     "url": "https://www.thelec.kr/news/articleView.html?idxno=61207",
+     "source": "디일렉"
     },
     {
      "title": "독파모 점수 비공개 논란에… 정부, 항목별 1위·점수 추가 공개",
@@ -181,115 +315,23 @@
      "title": "과기정통부, ‘국대 AI’ 2차 평가 1위 기업 공개...투명성 지적에 추가 발표",
      "url": "https://n.news.naver.com/mnews/article/023/0003994007",
      "source": "조선일보"
-    },
-    {
-     "title": "세금 지원하는 ‘국대 AI’ 선발… 정부는 왜 순위 공개하지 않나",
-     "url": "https://n.news.naver.com/mnews/article/023/0003993849",
-     "source": "조선일보"
     }
    ],
    "scoop": null,
    "naverCluster": "c_202608170630_00000285",
-   "placement": "featured",
-   "vs": 6,
+   "placement": "ranking",
+   "vs": 5.5,
    "publishedAt": "2026-08-20 17:27"
   },
   {
-   "rank": 4,
-   "title": "\"코드 수정 없이 최대 4배\"…클라우데라, 엔비디아 손잡고 AI 데이터 비용 낮춘다",
-   "url": "https://zdnet.co.kr/view/?no=20260820135210",
-   "source": "ZDNet Korea",
-   "sources": [
-    "ZDNet Korea",
-    "전자신문",
-    "IT데일리"
-   ],
-   "outlets": 6,
-   "members": [
-    {
-     "title": "클라우데라, 엔비디아와 협력해 ‘아파치 스파크’ 가속…클라우드 비용 절감",
-     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241120",
-     "source": "IT데일리"
-    },
-    {
-     "title": "[현장] \"AI 위해 데이터 옮기던 시대 끝\"…클라우데라, 싱가포르서 새 판 짠다",
-     "url": "https://zdnet.co.kr/view/?no=20260819133415",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "[현장] \"기업 데이터, 결국 하이브리드가 답\"…클라우데라, AI 플랫폼 새 판 짠다",
-     "url": "https://zdnet.co.kr/view/?no=20260820193307",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "[현장] \"기존 환경 그대로 AI 확장\"…클라우데라, '투트랙'으로 전환 부담 낮춘다",
-     "url": "https://zdnet.co.kr/view/?no=20260820124256",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "클라우데라, 엔비디아와 협력해 아파치 스파크 가속… 클라우드 비용 절감",
-     "url": "https://www.etnews.com/20260820000377",
-     "source": "전자신문"
-    },
-    {
-     "title": "찰스 샌즈베리 클라우데라 CEO “하이브리드가 대세...3년간 10억달러 전략 투자 결실”",
-     "url": "https://n.news.naver.com/mnews/article/030/0003459021",
-     "source": "전자신문"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202608200650_00000126",
-   "placement": "ranking",
-   "vs": 5.5,
-   "publishedAt": "2026-08-20 19:00"
-  },
-  {
    "rank": 5,
-   "title": "SK하이닉스, PS 60% 자사주로…'10년' 합의 1년 만에 손질",
-   "url": "https://www.bloter.net/news/articleView.html?idxno=671393",
-   "source": "블로터",
+   "title": "LGU+, AI 통합 건물 관리 솔루션 'AI빌딩넷 by 익시' 출시",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214167",
+   "source": "AI타임스",
    "sources": [
-    "블로터",
-    "IT조선",
-    "한국경제IT",
-    "전자신문"
-   ],
-   "outlets": 4,
-   "members": [
-    {
-     "title": "SK하이닉스 노사 임단협 잠정합의… 성과급 60% 자사주로",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168520",
-     "source": "IT조선"
-    },
-    {
-     "title": "SK하이닉스 노사, 성과급 60% 자사주 지급 잠정 합의",
-     "url": "https://www.etnews.com/20260820000382",
-     "source": "전자신문"
-    },
-    {
-     "title": "SK하이닉스 노사 임단협 잠정합의···성과급 60% 자사주로",
-     "url": "https://magazine.hankyung.com/business/article/202608202384b",
-     "source": "한국경제IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "hero",
-   "vs": 5.5,
-   "publishedAt": "2026-08-20 15:17"
-  },
-  {
-   "rank": 6,
-   "title": "김선희 전 국정원 3차장 “AI 시대 사이버안보…기술 아닌 국가 전략 차원 대응 필요\"",
-   "url": "https://www.dailysecu.com/news/articleView.html?idxno=208130",
-   "source": "데일리시큐",
-   "sources": [
-    "한국경제IT",
     "연합뉴스IT",
     "ZDNet Korea",
-    "데일리시큐",
     "IT조선",
-    "벤처스퀘어",
     "IT데일리",
     "AI타임스",
     "디지털데일리",
@@ -297,11 +339,6 @@
    ],
    "outlets": 13,
    "members": [
-    {
-     "title": "LGU+, AI 통합 건물 관리 솔루션 'AI빌딩넷 by 익시' 출시",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214167",
-     "source": "AI타임스"
-    },
     {
      "title": "LG U+, AI 건물 관리 솔루션 ‘AI빌딩넷 바이 익시’ 선봬",
      "url": "https://www.itdaily.kr/news/articleView.html?idxno=241088",
@@ -311,11 +348,6 @@
      "title": "LG U+, 통합 건물 관리 솔루션 ‘AI빌딩넷 by ixi’ 출시",
      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168479",
      "source": "IT조선"
-    },
-    {
-     "title": "\"산업 입지는 전력이 결정\"…AI 시대 '전기국가' 전략 본격화",
-     "url": "https://zdnet.co.kr/view/?no=20260820141424",
-     "source": "ZDNet Korea"
     },
     {
      "title": "LGU+, AI 기반 공간관리 솔루션 출시",
@@ -333,91 +365,92 @@
      "source": "디지털데일리"
     },
     {
-     "title": "진료 사이 2~4주 관리 공백을 AI로…메디숨, 비만관리 플랫폼 ‘다이어톡’ 출시",
-     "url": "https://www.venturesquare.net/1107118/",
-     "source": "벤처스퀘어"
-    },
-    {
      "title": "[ AI 픽] LGU+, AI 로 건물 관리한다…' AI 빌딩넷 by 익시' 출시",
      "url": "https://www.yna.co.kr/view/AKR20260820030200017?input=1195m",
      "source": "연합뉴스IT"
-    },
-    {
-     "title": "[시론] AI 시대 '국가 리엔지니어링'",
-     "url": "https://www.hankyung.com/article/2026081903691",
-     "source": "한국경제IT"
     }
    ],
    "scoop": null,
    "naverCluster": "c_202608200910_00000054",
    "placement": "section",
    "vs": 5.3,
-   "publishedAt": "2026-08-20 18:27"
+   "publishedAt": "2026-08-20 15:21"
   },
   {
-   "rank": 7,
-   "title": "알체라, AWS '피지컬 AI 프런티어 프로그램' 최종 선정…피지컬 AI 생태계 합류",
-   "url": "https://www.etnews.com/20260820000319",
-   "source": "전자신문",
+   "rank": 6,
+   "title": "방미통위 부위원장에 고민수 상임위원 선출",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168583",
+   "source": "IT조선",
    "sources": [
     "한국경제IT",
-    "IT데일리",
-    "전자신문",
-    "블로터",
-    "벤처스퀘어",
-    "AI타임스",
+    "ZDNet Korea",
     "IT조선",
-    "로봇신문",
-    "디지털데일리"
+    "디지털데일리",
+    "한국일보",
+    "JTBC",
+    "연합뉴스TV"
    ],
-   "outlets": 9,
+   "outlets": 10,
    "members": [
     {
-     "title": "AWS, 피지컬 AI 육성 프로그램 실시...리얼월드 등 국내 15개사 참여",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=214143",
-     "source": "AI타임스"
+     "title": "초대 방미통위 부위원장에 고민수 상임위원 호선",
+     "url": "https://n.news.naver.com/mnews/article/437/0000507219",
+     "source": "JTBC"
     },
     {
-     "title": "AWS, ‘피지컬 AI 프론티어 프로그램’ 가동…“피지컬 AI 생태계 육성한다”",
-     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241105",
-     "source": "IT데일리"
+     "title": "방미통위 부위원장에 고민수 상임위원",
+     "url": "https://zdnet.co.kr/view/?no=20260821104909",
+     "source": "ZDNet Korea"
     },
     {
-     "title": "케어링, AWS '피지컬 AI 프론티어 프로그램' 1기 선정",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168523",
-     "source": "IT조선"
-    },
-    {
-     "title": "AWS, 국내 피지컬 AI 15개사 지원…로봇·자율주행 상용화 돕는다",
-     "url": "https://n.news.naver.com/mnews/article/138/0002238338",
+     "title": "방미통위 초대 부위원장에 고민수…“국민 권익 보호에 최선”",
+     "url": "https://n.news.naver.com/mnews/article/138/0002238538",
      "source": "디지털데일리"
     },
     {
-     "title": "리얼월드, AWS '피지컬 AI 프론티어 프로그램' 1기 선정",
-     "url": "https://www.irobotnews.com/news/articleView.html?idxno=48015",
-     "source": "로봇신문"
+     "title": "방미통위 부위원장에 고민수…YTN 청문은 논의 무산",
+     "url": "https://n.news.naver.com/mnews/article/422/0000898083",
+     "source": "연합뉴스TV"
     },
     {
-     "title": "수백TB 현장 데이터로 로봇 손을 가르친다…리얼월드, AWS 피지컬 AI 1기 선정",
-     "url": "https://www.venturesquare.net/1107163/",
-     "source": "벤처스퀘어"
-    },
-    {
-     "title": "리얼월드, AWS 피지컬AI 프로그램 1기 선정…로봇 모델 고도화",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=671362",
-     "source": "블로터"
-    },
-    {
-     "title": "피지컬AI 시대…중국은 기술보다 '산업화 속도'로 승부한다 [더 머니이...",
-     "url": "https://www.hankyung.com/article/202608174540Q",
+     "title": "FOMC 위원 절반 \"인플레 지속땐 금리인상 필요\"",
+     "url": "https://www.hankyung.com/article/2026082030571",
      "source": "한국경제IT"
+    },
+    {
+     "title": "초대 방미통위 부위원장에 고민수 상임위원 선출",
+     "url": "https://n.news.naver.com/mnews/article/469/0000949271",
+     "source": "한국일보"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202608200940_00001037",
+   "naverCluster": "c_202608211050_00000011",
    "placement": "section",
    "vs": 5.3,
-   "publishedAt": "2026-08-20 15:01"
+   "publishedAt": "2026-08-21 10:51"
+  },
+  {
+   "rank": 7,
+   "title": "10명 중 6명 \"로봇 도입\" 외치지만 전략은 4명뿐…장미빛 착시 '로보틱스 레디니스 갭'",
+   "url": "https://n.news.naver.com/mnews/article/138/0002238545",
+   "source": "디지털데일리",
+   "sources": [
+    "헤럴드경제",
+    "디지털데일리"
+   ],
+   "outlets": 7,
+   "members": [
+    {
+     "title": "삼성전자 DX, 글로벌 로봇 전문가 채용 돌입…RX사업추진실 신설 후 첫 인재영입",
+     "url": "https://n.news.naver.com/mnews/article/016/0002686328",
+     "source": "헤럴드경제"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608210010_00001631",
+   "placement": "section",
+   "vs": 5.3,
+   "publishedAt": "2026-08-21 13:06"
   },
   {
    "rank": 8,
@@ -512,7 +545,7 @@
    ],
    "scoop": null,
    "naverCluster": "c_202608200850_00000027",
-   "placement": "ranking",
+   "placement": "featured",
    "vs": 5,
    "publishedAt": "2026-08-20 15:01"
   },
@@ -609,22 +642,6 @@
   },
   {
    "rank": 10,
-   "title": "모두의 AI' 빅매치… 독파모 경험 + 막강한 우군 '1강 2중'",
-   "url": "https://n.news.naver.com/mnews/article/008/0005402171",
-   "source": "머니투데이",
-   "sources": [
-    "머니투데이"
-   ],
-   "outlets": 29,
-   "members": [],
-   "scoop": null,
-   "naverCluster": "c_202608181440_00000196",
-   "placement": "section",
-   "vs": 5,
-   "publishedAt": "2026-08-20 04:13"
-  },
-  {
-   "rank": 11,
    "title": "배경훈X리사수' 韓 이기종 AI 컴퓨팅 실증 본격화…개방형 K-AI 인프라...",
    "url": "https://www.ddaily.co.kr/page/view/2026082011251045053",
    "source": "디지털데일리",
@@ -653,6 +670,11 @@
     {
      "title": "배경훈 \"AI, 모델·인프라 넘어 산업·일상 활용 수준 돼야\"",
      "url": "https://zdnet.co.kr/view/?no=20260820103444",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "[현장] AI 데이터센터도 '개방형 혁신'으로…글로벌 인프라 업계 한자리에",
+     "url": "https://zdnet.co.kr/view/?no=20260821115447",
      "source": "ZDNet Korea"
     },
     {
@@ -699,11 +721,6 @@
      "title": "\"엔비디아 독주 깨자\"…韓 AI기업들 '개방형 이기종 동맹'으로 뭉친다",
      "url": "https://n.news.naver.com/mnews/article/018/0006355116",
      "source": "이데일리"
-    },
-    {
-     "title": "인텔은 실패했는데…“AMD 지원, 장비보다 트랙레코드”…AI 반도체 ‘검증 인프라’ 열어야",
-     "url": "https://n.news.naver.com/mnews/article/018/0006355066",
-     "source": "이데일리"
     }
    ],
    "scoop": null,
@@ -713,26 +730,26 @@
    "publishedAt": "2026-08-20 11:26"
   },
   {
-   "rank": 12,
+   "rank": 11,
    "title": "카카오모빌리티, 美 IPO 추진…\"TPG 지분만 ADR 상장 검토\"",
    "url": "https://www.bloter.net/news/articleView.html?idxno=671430",
    "source": "블로터",
    "sources": [
-    "디지털데일리",
-    "IT조선",
-    "아시아경제",
-    "뉴스1",
-    "SBS Biz",
-    "헤럴드경제",
     "연합뉴스IT",
     "조선비즈",
+    "IT조선",
+    "디일렉",
     "노컷뉴스",
+    "SBS Biz",
     "세계일보",
+    "연합뉴스TV",
     "전자신문",
     "테크M",
     "블로터",
     "데일리안",
-    "시사저널"
+    "시사저널",
+    "뉴스1",
+    "헤럴드경제"
    ],
    "outlets": 27,
    "members": [
@@ -762,9 +779,9 @@
      "source": "데일리안"
     },
     {
-     "title": "카카오 모빌리티, 美 상장 추진…SEC 비공개 제출·1.4조원 공모 시동",
-     "url": "https://www.ddaily.co.kr/page/view/2026081918011470385",
-     "source": "디지털데일리"
+     "title": "카카오 쪼갠다…카카오AI와 카카오X로 분할",
+     "url": "https://www.thelec.kr/news/articleView.html?idxno=61193",
+     "source": "디일렉"
     },
     {
      "title": "카카오모빌리티, 10억달러 규모 美 IPO 추진…글로벌 도약",
@@ -777,14 +794,14 @@
      "source": "시사저널"
     },
     {
-     "title": "카카오모빌리티, 1.4조원 규모 미국 IPO 추진",
-     "url": "https://n.news.naver.com/mnews/article/277/0005805077",
-     "source": "아시아경제"
-    },
-    {
      "title": "카카오 모빌리티, 국내 대신 미국서 IPO 추진…1.4조원 규모",
      "url": "https://www.yna.co.kr/view/AKR20260820025500017?input=1195m",
      "source": "연합뉴스IT"
+    },
+    {
+     "title": "카카오모빌리티, 미국서 IPO 추진…1.4조원 규모",
+     "url": "https://n.news.naver.com/mnews/article/422/0000897736",
+     "source": "연합뉴스TV"
     },
     {
      "title": "카카오모빌리티, TPG 지분으로 美 ADR 상장 추진…카카오 이사회는 '선 긋기'",
@@ -804,7 +821,7 @@
    "publishedAt": "2026-08-20 23:49"
   },
   {
-   "rank": 13,
+   "rank": 12,
    "title": "카카오게임즈, 신작 ‘도깨비의 세계’ 10월 출시…無직업·無PK로 차별화",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=61165",
    "source": "디일렉",
@@ -867,6 +884,41 @@
    "placement": "section",
    "vs": 5,
    "publishedAt": "2026-08-20 16:02"
+  },
+  {
+   "rank": 13,
+   "title": "로봇과 손잡은 드론 배송…\"현관문 앞까지 배달한다\"",
+   "url": "https://n.news.naver.com/mnews/article/015/0005322831",
+   "source": "한국경제IT",
+   "sources": [
+    "헤럴드경제",
+    "데일리안",
+    "뉴스1",
+    "한국경제IT"
+   ],
+   "outlets": 20,
+   "members": [
+    {
+     "title": "드론이 나르고 로봇이 문앞까지…40㎏ 화물 배송 상용화 채비",
+     "url": "https://n.news.naver.com/mnews/article/421/0009123303",
+     "source": "뉴스1"
+    },
+    {
+     "title": "40㎏ 택배도 로봇·드론이 배달…우주항공청, 사천지역 실증 마무리",
+     "url": "https://n.news.naver.com/mnews/article/119/0003123462",
+     "source": "데일리안"
+    },
+    {
+     "title": "“40㎏ 무거운 택배도 척척”…드론이 나르고 로봇이 문앞까지 ‘배달’",
+     "url": "https://n.news.naver.com/mnews/article/016/0002686205",
+     "source": "헤럴드경제"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608201210_00000025",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-20 15:11"
   },
   {
    "rank": 14,
@@ -933,29 +985,88 @@
   },
   {
    "rank": 16,
-   "title": "로봇과 손잡은 드론 배송…\"현관문 앞까지 배달한다\"",
-   "url": "https://n.news.naver.com/mnews/article/015/0005322831",
-   "source": "한국경제IT",
+   "title": "넥슨게임즈, 영케어러 지원 '위드영 프로젝트' 2기... 1억원 기부",
+   "url": "https://www.etnews.com/20260821000109",
+   "source": "전자신문",
    "sources": [
-    "헤럴드경제",
-    "한국경제IT"
+    "전자신문",
+    "ZDNet Korea",
+    "연합뉴스IT",
+    "매일경제IT",
+    "IT조선",
+    "파이낸셜뉴스",
+    "서울경제"
    ],
-   "outlets": 17,
+   "outlets": 16,
    "members": [
     {
-     "title": "“40㎏ 무거운 택배도 척척”…드론이 나르고 로봇이 문앞까지 ‘배달’",
-     "url": "https://n.news.naver.com/mnews/article/016/0002686205",
-     "source": "헤럴드경제"
+     "title": "넥슨게임즈·재단, 초록우산에 1억 전달… 가족 돌봄 청년 지원",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168576",
+     "source": "IT조선"
+    },
+    {
+     "title": "넥슨게임즈, 영케어러 지원 사업 '위드영 프로젝트 2기'에 1억 기부",
+     "url": "https://zdnet.co.kr/view/?no=20260821101222",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "넥슨게임즈, 확대된 ‘위드영 프로젝트 2기’ 진행[G-브리핑]",
+     "url": "https://n.news.naver.com/mnews/article/009/0005723956",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "침체된 게임계 소방수 나선 넥슨…하반기 2500억 투자 본격 가동",
+     "url": "https://n.news.naver.com/mnews/article/011/0004653745",
+     "source": "서울경제"
+    },
+    {
+     "title": "넥슨게임즈, 영케어러 지원사업에 1억원 기부",
+     "url": "https://n.news.naver.com/mnews/article/001/0016263078",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "넥슨, 최대 2500억원 투자 프로그램 출범...\"게임 생태계 마중물\"",
+     "url": "https://n.news.naver.com/mnews/article/014/0005564116",
+     "source": "파이낸셜뉴스"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202608201210_00000025",
+   "naverCluster": "c_202608201430_00000061",
    "placement": "section",
    "vs": 5,
-   "publishedAt": "2026-08-20 15:11"
+   "publishedAt": "2026-08-21 10:56"
   },
   {
    "rank": 17,
+   "title": "방미통위, YTN 변경승인 취소 청문 두고 파행…위원 간 이견",
+   "url": "https://www.etnews.com/20260821000162",
+   "source": "전자신문",
+   "sources": [
+    "전자신문",
+    "이데일리",
+    "SBS"
+   ],
+   "outlets": 15,
+   "members": [
+    {
+     "title": "방미통위, '유진이엔티 YTN 인수 취소' 청문절차 안건 상정 불발",
+     "url": "https://n.news.naver.com/mnews/article/055/0001382407",
+     "source": "SBS"
+    },
+    {
+     "title": "방미통위, '유진이엔티 청문' 위원 2명 퇴장으로 파행",
+     "url": "https://n.news.naver.com/mnews/article/018/0006355778",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608211120_00000033",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-21 13:14"
+  },
+  {
+   "rank": 18,
    "title": "오픈AI '챗GPT 워크', 업무 넘어 연구보고서 작성도 지원",
    "url": "https://www.etnews.com/20260820000250",
    "source": "전자신문",
@@ -1025,7 +1136,36 @@
    "publishedAt": "2026-08-20 13:57"
   },
   {
-   "rank": 18,
+   "rank": 19,
+   "title": "새울원자력본부, 지역 학생 637명에 장학금 6억1300만원 지원",
+   "url": "https://n.news.naver.com/mnews/article/277/0005805889",
+   "source": "아시아경제",
+   "sources": [
+    "뉴스1",
+    "KBS",
+    "아시아경제"
+   ],
+   "outlets": 13,
+   "members": [
+    {
+     "title": "원안위, 정기검사 마친 새울원전 1호기 재가동 허용",
+     "url": "https://n.news.naver.com/mnews/article/056/0012242113",
+     "source": "KBS"
+    },
+    {
+     "title": "원안위, 새울 1호기 재가동 허용…정기검사 86개 항목 확인",
+     "url": "https://n.news.naver.com/mnews/article/421/0009126350",
+     "source": "뉴스1"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608211040_00000168",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-21 17:22"
+  },
+  {
+   "rank": 20,
    "title": "시공간 양자 상태' 측정 방법 찾았다",
    "url": "https://www.etnews.com/20260820000187",
    "source": "전자신문",
@@ -1059,7 +1199,7 @@
    "publishedAt": "2026-08-20 11:53"
   },
   {
-   "rank": 19,
+   "rank": 21,
    "title": "개인정보법 개정안 본회의 통과…AI 개발에 개인정보 활용 가능",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=61172",
    "source": "디일렉",
@@ -1095,8 +1235,8 @@
      "source": "KBS"
     },
     {
-     "title": "코레일, 13개 언어 음성인식 지원 AI 통번역기 개발…철도 서비스 경쟁력 ↑",
-     "url": "https://zdnet.co.kr/view/?no=20260819224146",
+     "title": "보는 AI 시대 오나…애플, 카메라 탑재 에어팟 유출",
+     "url": "https://zdnet.co.kr/view/?no=20260820082221",
      "source": "ZDNet Korea"
     },
     {
@@ -1147,23 +1287,116 @@
    "publishedAt": "2026-08-20 17:57"
   },
   {
-   "rank": 20,
-   "title": "“미세-나노플라스틱 40㎍ 미만에도 폐 염증”",
-   "url": "https://n.news.naver.com/mnews/article/020/0003742084",
-   "source": "동아일보",
+   "rank": 22,
+   "title": "앤트로픽, 스페이스X 넘는 IPO 추진…기업고객 잡기도 총력",
+   "url": "https://www.mk.co.kr/article/12133048",
+   "source": "매일경제IT",
    "sources": [
-    "동아일보"
+    "매일경제IT",
+    "한국경제TV"
    ],
-   "outlets": 11,
-   "members": [],
+   "outlets": 10,
+   "members": [
+    {
+     "title": "스페이스X 넘본다…앤트로픽 '역대급 IPO' 채비",
+     "url": "https://n.news.naver.com/mnews/article/215/0001263135",
+     "source": "한국경제TV"
+    }
+   ],
    "scoop": null,
-   "naverCluster": "c_202608191050_00000025",
+   "naverCluster": "c_202608210740_00002035",
    "placement": "section",
    "vs": 5,
-   "publishedAt": "2026-08-20 04:36"
+   "publishedAt": "2026-08-21 11:13"
   },
   {
-   "rank": 21,
+   "rank": 23,
+   "title": "세포의 ‘되돌림’ 막는 핵심 회로 규명…\"암·노화 치료 새 길\"",
+   "url": "https://n.news.naver.com/mnews/article/277/0005805571",
+   "source": "아시아경제",
+   "sources": [
+    "뉴스1",
+    "아시아경제",
+    "이데일리",
+    "서울경제"
+   ],
+   "outlets": 10,
+   "members": [
+    {
+     "title": "세포 비정상적 굳어 있는 '잠금장치' 비밀 풀었다…암·노화 치료 희망",
+     "url": "https://n.news.naver.com/mnews/article/421/0009124984",
+     "source": "뉴스1"
+    },
+    {
+     "title": "110세 넘게 사는 어르신들, 장수 비결 있었네…몸속에 ‘이 세포’ 많았다 [헬시타임]",
+     "url": "https://n.news.naver.com/mnews/article/011/0004653462",
+     "source": "서울경제"
+    },
+    {
+     "title": "스파이더맨' 속 유전자 조작과 현실 줄기세포 치료의 차이점은?",
+     "url": "https://n.news.naver.com/mnews/article/018/0006354728",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608200510_00000002",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-21 08:41"
+  },
+  {
+   "rank": 24,
+   "title": "휴먼 랩스, 피지컬 AI 전용 '인간 데이터' 플랫폼 구축...로봇 스킬 학습 가속",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=214226",
+   "source": "AI타임스",
+   "sources": [
+    "AI타임스",
+    "연합뉴스IT",
+    "ZDNet Korea",
+    "이데일리",
+    "뉴스1"
+   ],
+   "outlets": 9,
+   "members": [
+    {
+     "title": "구글, AI 기반 학습 도구 대거 공개…대학생 1년 무료 이벤트까지",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214182",
+     "source": "AI타임스"
+    },
+    {
+     "title": "비누랩스-구글, 에브리타임 내에 'AI 전용관' 연다",
+     "url": "https://zdnet.co.kr/view/?no=20260821110724",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "\"과제·자소서 AI 활용법 공유\"…에브리타임, '제미나이 라운지' 론칭",
+     "url": "https://n.news.naver.com/mnews/article/421/0009125065",
+     "source": "뉴스1"
+    },
+    {
+     "title": "구글, 대학생에 제미나이 1년 무료…캠퍼스 공략 강화",
+     "url": "https://n.news.naver.com/mnews/article/001/0016264257",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "\"자소서 AI 활용법 공유해요\"...에브리타임, 구글 제미나이와 손잡았다",
+     "url": "https://n.news.naver.com/mnews/article/018/0006355715",
+     "source": "이데일리"
+    },
+    {
+     "title": "\"대학(원)생, 제미나이 1년 무료\"…구글, 파격 혜택으로 20대 시장 잡는다",
+     "url": "https://n.news.naver.com/mnews/article/018/0006355446",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608210900_00001826",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-21 16:55"
+  },
+  {
+   "rank": 25,
    "title": "강율빈 넵튠 대표, 인도 광고 생태계에 '게임 마케팅' 가능성 알린다",
    "url": "https://www.techm.kr/news/articleView.html?idxno=154480",
    "source": "테크M",
@@ -1192,22 +1425,15 @@
    "publishedAt": "2026-08-20 16:36"
   },
   {
-   "rank": 22,
+   "rank": 26,
    "title": "\"탑코미디어, 웹툰 넘어 AI 캐릭터와 대화한다…'탑툰챗'이 바꾼 수익모델\"[클릭 e종목]",
    "url": "https://n.news.naver.com/mnews/article/277/0005804924",
    "source": "아시아경제",
    "sources": [
-    "아시아경제",
-    "뉴시스"
+    "아시아경제"
    ],
    "outlets": 7,
-   "members": [
-    {
-     "title": "읽던 웹툰이 말을 걸었다…'보는 만화' 틀 깬 네이버웹툰",
-     "url": "https://n.news.naver.com/mnews/article/003/0014136776",
-     "source": "뉴시스"
-    }
-   ],
+   "members": [],
    "scoop": null,
    "naverCluster": "c_202608181010_00000071",
    "placement": "section",
@@ -1215,7 +1441,42 @@
    "publishedAt": "2026-08-20 07:42"
   },
   {
-   "rank": 23,
+   "rank": 27,
+   "title": "과기정통부, ‘AI·디지털 사회문제 해결 챌린지’ 개최",
+   "url": "https://www.ddaily.co.kr/page/view/2026082117224681565",
+   "source": "디지털데일리",
+   "sources": [
+    "AI타임스",
+    "디지털데일리",
+    "ZDNet Korea",
+    "이데일리"
+   ],
+   "outlets": 6,
+   "members": [
+    {
+     "title": "\"AI로 사회문제 해결한다\"…과기부, 2026 AI·디지털 챌린지 공모",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=214211",
+     "source": "AI타임스"
+    },
+    {
+     "title": "AI로 기후재난·사회문제 해결…\"국민 아이디어 모십니다\"",
+     "url": "https://zdnet.co.kr/view/?no=20260821160251",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "AI로 기후재난·사회문제 푼다…과기정통부 국민 챌린지",
+     "url": "https://n.news.naver.com/mnews/article/018/0006355661",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202608211220_00000659",
+   "placement": "section",
+   "vs": 5,
+   "publishedAt": "2026-08-21 17:35"
+  },
+  {
+   "rank": 28,
    "title": "“에이전트 난립은 ‘기술부채’…기업용SW 대체 어려워”",
    "url": "https://n.news.naver.com/mnews/article/011/0004653602",
    "source": "서울경제",
@@ -1231,7 +1492,7 @@
    "publishedAt": "2026-08-20 18:05"
   },
   {
-   "rank": 24,
+   "rank": 29,
    "title": "KAIST, 산소 ‘전용 통로’로 AI 반도체 성능 높이고 전력 낮춘다",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=214177",
    "source": "AI타임스",
@@ -1260,194 +1521,20 @@
    "publishedAt": "2026-08-20 16:48"
   },
   {
-   "rank": 25,
-   "title": "자큐보로 벌고 네수파립 키운다…온코닉, 신약 기반 성장모델 주목",
-   "url": "https://n.news.naver.com/mnews/article/421/0009123257",
-   "source": "뉴스1",
+   "rank": 30,
+   "title": "카카오AI, 2030년 매출 6조 목표…AI만 1조원 번다",
+   "url": "https://n.news.naver.com/mnews/article/018/0006355707",
+   "source": "이데일리",
    "sources": [
-    "뉴스1"
+    "이데일리"
    ],
-   "outlets": 4,
+   "outlets": 5,
    "members": [],
    "scoop": null,
-   "naverCluster": "c_202608201100_00001323",
+   "naverCluster": "c_202608211510_00000004",
    "placement": "section",
    "vs": 5,
-   "publishedAt": "2026-08-20 11:42"
-  },
-  {
-   "rank": 26,
-   "title": "이재명 대통령, 최태원 회장과 만찬… 반도체 투자 논의한 듯",
-   "url": "http://www.inews24.com/view/1996910",
-   "source": "아이뉴스24",
-   "sources": [
-    "조선비즈",
-    "매일경제IT",
-    "아이뉴스24",
-    "연합뉴스IT",
-    "한국경제IT"
-   ],
-   "outlets": 5,
-   "members": [
-    {
-     "title": "李, 최태원과 비공개 만찬… 반도체 메가투자 논의",
-     "url": "https://www.mk.co.kr/article/12132785",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "李대통령, 최태원과 만찬 회동…대미투자 논의 여부 주목",
-     "url": "https://www.yna.co.kr/view/AKR20260820187000001?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "李대통령, 최태원과 비공개 회동… 반도체 ·대미투자 논의한 듯",
-     "url": "https://biz.chosun.com/policy/politics/president_office/2026/08/20/ST4MY2GT5FFW3PJFVTRF6PLNRA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    },
-    {
-     "title": "[단독] 李, 최태원과 비공개 회동… 반도체 팹 건설 등 현안 논의",
-     "url": "https://www.hankyung.com/article/2026082033851",
-     "source": "한국경제IT"
-    },
-    {
-     "title": "[단독] 李 대통령, 최태원과 비공개 회동… 반도체 투자 논의한 듯",
-     "url": "https://www.hankyung.com/article/202608203352i",
-     "source": "한국경제IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "ranking",
-   "vs": 4.9,
-   "publishedAt": "2026-08-20 23:39"
-  },
-  {
-   "rank": 27,
-   "title": "mRNA 암백신 첫 3상 성공…모더나·머크, 암 치료 새 장 열었다",
-   "url": "https://www.etnews.com/20260820000414",
-   "source": "전자신문",
-   "sources": [
-    "블로터",
-    "IT조선",
-    "전자신문"
-   ],
-   "outlets": 3,
-   "members": [
-    {
-     "title": "모더나·머크, 세계 첫 ‘맞춤형 mRNA 암백신’ 3상 성공",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168508",
-     "source": "IT조선"
-    },
-    {
-     "title": "모더나·머크, 개인맞춤형 mRNA 암 백신 후기임상서 성공",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=671341",
-     "source": "블로터"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "featured",
-   "vs": 4.8,
-   "publishedAt": "2026-08-20 18:59"
-  },
-  {
-   "rank": 28,
-   "title": "카카오 뱅크 노조, 31일부터 닷새간 전면파업…첫 장기 연속파업",
-   "url": "https://www.ddaily.co.kr/page/view/2026082011222713534",
-   "source": "디지털데일리",
-   "sources": [
-    "테크M",
-    "디지털데일리",
-    "전자신문",
-    "블로터",
-    "조선비즈"
-   ],
-   "outlets": 5,
-   "members": [
-    {
-     "title": "카카오뱅크, 첫 노조 총파업 예고에…\"5일간 대응체계 총가동\"",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=671395",
-     "source": "블로터"
-    },
-    {
-     "title": "카카오뱅크 노조, 31일부터 5일간 총파업",
-     "url": "https://www.etnews.com/20260820000244",
-     "source": "전자신문"
-    },
-    {
-     "title": "카카오 뱅크 노조, 31일부터 5일간 총파업",
-     "url": "https://biz.chosun.com/stock/finance/2026/08/20/FG3IHPRYQNHDVH7ZJUOHRINSCY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    },
-    {
-     "title": "5일 연속 파업 선언한 카카오뱅크 노조...장애 발생 우려엔 \"사측 책임\"",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=154457",
-     "source": "테크M"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "vs": 4.15,
-   "publishedAt": "2026-08-20 11:25"
-  },
-  {
-   "rank": 29,
-   "title": "DB하이텍, 인도 전자산업 전시회 '일렉트로니카 인디아' 참가",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=61176",
-   "source": "디일렉",
-   "sources": [
-    "ZDNet Korea",
-    "디지털데일리",
-    "디일렉"
-   ],
-   "outlets": 3,
-   "members": [
-    {
-     "title": "DB하이텍, '일렉트로니카 인디아 2026' 첫 참가…현지 팹리스 공략",
-     "url": "https://zdnet.co.kr/view/?no=20260820091300",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "DB하이텍, '일렉트로니카 인디아' 첫 참가…인도 전력 반도체 시장 정조...",
-     "url": "https://www.ddaily.co.kr/page/view/2026082015225988720",
-     "source": "디지털데일리"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "vs": 4.15,
-   "publishedAt": "2026-08-21 07:38"
-  },
-  {
-   "rank": 30,
-   "title": "\"말하면 AI 가 게임 만든다\"…에픽게임즈, 포트나이트에 '언리얼 MCP'",
-   "url": "https://www.ddaily.co.kr/page/view/2026082017475587310",
-   "source": "디지털데일리",
-   "sources": [
-    "연합뉴스IT",
-    "디지털데일리",
-    "IT조선"
-   ],
-   "outlets": 3,
-   "members": [
-    {
-     "title": "에픽게임즈 “언리얼엔진6, AI로 개방형 게임 생태계 완성할 것”",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092168553",
-     "source": "IT조선"
-    },
-    {
-     "title": "[만나보니] 에픽 게임 즈 CEO \"언리얼 엔진 6, AI 개발에 최적화\"",
-     "url": "https://www.yna.co.kr/view/AKR20260820087400017?input=1195m",
-     "source": "연합뉴스IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "vs": 4.15,
-   "publishedAt": "2026-08-20 18:05"
+   "publishedAt": "2026-08-21 15:03"
   }
  ]
 }
