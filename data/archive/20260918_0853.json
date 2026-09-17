@@ -1,0 +1,1770 @@
+{
+ "updated": "2026-09-18 08:53",
+ "window_hours": 36,
+ "articles": [
+  {
+   "rank": 1,
+   "title": "국책 보안 AI 해외 나간다…네이버클라우드 \"세계 AI 팩토리서 작동\"",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=62444",
+   "source": "디일렉",
+   "sources": [
+    "벤처스퀘어",
+    "IT조선",
+    "디지털데일리",
+    "로봇신문",
+    "조선비즈",
+    "디일렉",
+    "ZDNet Korea",
+    "뉴시스",
+    "테크M",
+    "블로터",
+    "연합뉴스IT",
+    "IT데일리",
+    "바이라인네트워크",
+    "동아일보"
+   ],
+   "outlets": 27,
+   "naverN": 27,
+   "ownN": 14,
+   "members": [
+    {
+     "title": "이종석 국정원장 “사이버보안, AI 강국 위한 기본 전제”",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241690",
+     "source": "IT데일리"
+    },
+    {
+     "title": "김유원 네이버클라우드 대표 “국경 없는 AI 공격, ‘연대’만이 살길”",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241689",
+     "source": "IT데일리"
+    },
+    {
+     "title": "‘AI 속도조절론’에 뜬 美 SW ETF… 주인공은 ‘보안株’",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170293",
+     "source": "IT조선"
+    },
+    {
+     "title": "기업 41%, AI 도입하며 보안 예산도 늘렸다… ‘섀도우 AI’ 우려",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170353",
+     "source": "IT조선"
+    },
+    {
+     "title": "LG, AI 팩토리·피지컬 AI에 투자 집중",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170334",
+     "source": "IT조선"
+    },
+    {
+     "title": "[AI 속도 논쟁③] \"200㎞ 달려도 도로에선 100㎞\"…한국 AI, 어디서 브레이크 걸까",
+     "url": "https://zdnet.co.kr/view/?no=20260917111252",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "태국 교통부 차관, 마음AI 방문…피지컬AI·AICC 기술 살펴",
+     "url": "https://zdnet.co.kr/view/?no=20260917222921",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "\"AI가 만든 앱, AI가 먼저 거른다\"…구글, 저품질 'AI 슬롭' 대응법",
+     "url": "https://n.news.naver.com/mnews/article/003/0014198426",
+     "source": "뉴시스"
+    },
+    {
+     "title": "디지털 안전 지켜 정보보안 리더십↑",
+     "url": "https://n.news.naver.com/mnews/article/020/0003748721",
+     "source": "동아일보"
+    },
+    {
+     "title": "AI 속도조절론 불붙자… ‘AI 대부’ 벤지오 “핵무기급 국제 통제 필요”",
+     "url": "https://n.news.naver.com/article/138/0002241813",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "오픈AI AI, 해킹 두 달 전부터 경고 있었다… 논란 커지자 AI 일탈 공개체계 신설",
+     "url": "https://n.news.naver.com/article/138/0002241812",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "시마AI, 드론 AI칩 시장 정조준…'원칩·AI SDK'로 엔비디아에 도전",
+     "url": "https://n.news.naver.com/article/138/0002241879",
+     "source": "디지털데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171050_00000758",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 1,
+    "items": 24,
+    "applied": false
+   },
+   "vs": 6.45,
+   "publishedAt": "2026-09-17 16:42"
+  },
+  {
+   "rank": 2,
+   "title": "네이버, ‘8조 배민’ 인수 손 뗐다",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=62461",
+   "source": "디일렉",
+   "sources": [
+    "전자신문",
+    "디일렉",
+    "테크M",
+    "IT조선",
+    "디지털데일리",
+    "ZDNet Korea",
+    "한국경제IT",
+    "블로터",
+    "데일리안",
+    "헤럴드경제",
+    "국제신문",
+    "노컷뉴스"
+   ],
+   "outlets": 24,
+   "naverN": 24,
+   "ownN": 12,
+   "members": [
+    {
+     "title": "네이버, 배민 인수 안한다… “경영환경 변화”",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170401",
+     "source": "IT조선"
+    },
+    {
+     "title": "네이버, 배민 인수 검토 중단…\"경영환경 변화로 인수 않기로\"",
+     "url": "https://zdnet.co.kr/view/?no=20260917171146",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "네이버, 배달의민족 인수 않기로 결정",
+     "url": "https://n.news.naver.com/mnews/article/658/0000155914",
+     "source": "국제신문"
+    },
+    {
+     "title": "네이버, 배달의민족 지분 인수 계획 철회…\"경영환경 변화\"",
+     "url": "https://n.news.naver.com/mnews/article/079/0004190646",
+     "source": "노컷뉴스"
+    },
+    {
+     "title": "네이버, 배민 인수 추진 공식 철회…\"경영환경 변화\"",
+     "url": "https://n.news.naver.com/mnews/article/119/0003134038",
+     "source": "데일리안"
+    },
+    {
+     "title": "우버·네이버 동맹 불발…네이버 \"배민 지분 인수 안 한다\"",
+     "url": "https://n.news.naver.com/article/138/0002241873",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "우버·네이버 동맹 불발…네이버 \"배민 지분 인수 안 한다\"",
+     "url": "https://n.news.naver.com/mnews/article/138/0002241873",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "네이버, 인수설 4개월 만에 배민 인수 최종 철회",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=673946",
+     "source": "블로터"
+    },
+    {
+     "title": "네이버 “배민 인수 안 한다”…최종 공시",
+     "url": "https://www.etnews.com/20260917000438",
+     "source": "전자신문"
+    },
+    {
+     "title": "네이버, 배달의민족 인수 안 한다...\"경영 환경 변화\"",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=155360",
+     "source": "테크M"
+    },
+    {
+     "title": "네이버, 배민 인수 철회…우버가 단독으로 매수",
+     "url": "https://www.hankyung.com/article/2026091724031",
+     "source": "한국경제IT"
+    },
+    {
+     "title": "네이버, 배달의민족 인수 추진 공식 철회",
+     "url": "https://www.hankyung.com/article/202609172344i",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171530_00000016",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 1,
+    "items": 9,
+    "applied": false
+   },
+   "vs": 6.45,
+   "publishedAt": "2026-09-17 15:40"
+  },
+  {
+   "rank": 3,
+   "title": "카카오 게임즈, 외부 공격에 140명 개인정보유출",
+   "url": "https://www.ddaily.co.kr/page/view/2026091718220364448",
+   "source": "디지털데일리",
+   "sources": [
+    "테크M",
+    "IT조선",
+    "한국경제IT",
+    "디지털데일리",
+    "조선비즈",
+    "연합뉴스IT",
+    "아이뉴스24",
+    "파이낸셜뉴스"
+   ],
+   "outlets": 22,
+   "naverN": 22,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "카카오게임즈, 외부 해킹으로 140명 정보 유출… \"비밀번호는 안전\"",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170352",
+     "source": "IT조선"
+    },
+    {
+     "title": "한국지역정보개발원 개인정보 유출…\"2차 피해 주의\"",
+     "url": "https://n.news.naver.com/article/138/0002241809",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "카카오게임즈 140명 개인정보 유출…\"심려 끼쳐드려 사과\"",
+     "url": "https://n.news.naver.com/mnews/article/031/0001059399",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "카카오게임즈, 해킹으로 140명 개인정보 유출…\"진심 사과\"",
+     "url": "https://www.yna.co.kr/view/AKR20260917158100017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "카카오게임즈, 해킹으로 140명 개인정보 유출",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/C4IVTZQXQFHO5HGEOKHDIDFSNI/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "카카오게임즈, 해킹으로 140명 개인정보 유출",
+     "url": "https://n.news.naver.com/mnews/article/366/0001193114",
+     "source": "조선비즈"
+    },
+    {
+     "title": "카카오게임즈, 파트너스·RINK 서비스 이용자 140명 정보 유출",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=155347",
+     "source": "테크M"
+    },
+    {
+     "title": "카겜, 해킹 공격에 140명 개인정보 유출… \"긴급 대응 착수\"",
+     "url": "https://n.news.naver.com/mnews/article/014/0005577603",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "카카오게임즈, 140명 '개인정보 유출'…공식 사과",
+     "url": "https://www.hankyung.com/article/202609171276g",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171000_00000296",
+   "placement": "section",
+   "unconf": {
+    "sources": 1,
+    "items": 8,
+    "applied": false
+   },
+   "vs": 6.45,
+   "publishedAt": "2026-09-17 18:22"
+  },
+  {
+   "rank": 4,
+   "title": "[TGS 26] 현실 도쿄에 마법 입힌 '아스트라에 오라티오'...\"스토리·전투 연결해 스마트폰 100% 경험 구현\"",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=155337",
+   "source": "테크M",
+   "sources": [
+    "테크M",
+    "전자신문",
+    "한국경제IT",
+    "매일경제IT",
+    "뉴시스",
+    "연합뉴스IT",
+    "서울경제",
+    "머니투데이",
+    "뉴스1",
+    "디지털타임스",
+    "이데일리"
+   ],
+   "outlets": 28,
+   "naverN": 28,
+   "ownN": 11,
+   "members": [
+    {
+     "title": "NC '아스오라' 내년 글로벌 동시 출시…'90년대 日애니 감성' 승부(종합)",
+     "url": "https://n.news.naver.com/mnews/article/421/0009176997",
+     "source": "뉴스1"
+    },
+    {
+     "title": "80년대 도쿄서 펼치는 마법 전투…엔씨 '아스트라에 오라티오' 해보니",
+     "url": "https://n.news.naver.com/mnews/article/003/0014195858",
+     "source": "뉴시스"
+    },
+    {
+     "title": "日 출격한 ‘아스트라에 오라티오’…“CBT로 분위기 이어갈 것”[TGS]",
+     "url": "https://n.news.naver.com/mnews/article/029/0003048633",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "엔씨 '아스오라' 글로벌 무대 출격",
+     "url": "https://www.mk.co.kr/article/12155588",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "\"31조원 日 서브컬처 시장 정조준\"…NC, TGS서 '아스오라' 첫 공개",
+     "url": "https://n.news.naver.com/mnews/article/008/0005415282",
+     "source": "머니투데이"
+    },
+    {
+     "title": "80년대 도쿄 한복판서 마법 난타전…엔씨, 서브컬처 승부수",
+     "url": "https://n.news.naver.com/mnews/article/011/0004662758",
+     "source": "서울경제"
+    },
+    {
+     "title": "엔씨의 일본 서브컬처 승부수 '아스트라에 오라티오'[해보니]",
+     "url": "https://n.news.naver.com/mnews/article/001/0016316490",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "NC, 서정적 애니 감성 '아스트라에 오라티오'로 日 시장 공략",
+     "url": "https://n.news.naver.com/mnews/article/018/0006371145",
+     "source": "이데일리"
+    },
+    {
+     "title": "[TGS 2026]엔씨-디나미스원 '아스트라에 오라티오' 첫선... “신전기라면 도쿄, 정면돌파”",
+     "url": "https://www.etnews.com/20260917000397",
+     "source": "전자신문"
+    },
+    {
+     "title": "[TGS 26] 실시간 턴제 RPG 전투로 차별화 꾀한 '아스트라에 오라티오'",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=155258",
+     "source": "테크M"
+    },
+    {
+     "title": "엔씨, 도쿄게임쇼서 신작 '아스오라' 첫 공개…글로벌 공략 시동",
+     "url": "https://www.hankyung.com/article/202609171147i",
+     "source": "한국경제IT"
+    },
+    {
+     "title": "임종규 \"캐릭터에 애정 쏟을 토양 갖춰졌다…코어팬이 핵심\" [도쿄게임쇼 2026]",
+     "url": "https://www.hankyung.com/article/202609171165i",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609170910_00000013",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 6,
+    "applied": false
+   },
+   "vs": 6,
+   "publishedAt": "2026-09-17 12:54"
+  },
+  {
+   "rank": 5,
+   "title": "[TGS 26] \"언제나 돌아가고 싶은 이세계를 꿈꾸다\"...'파레이돌리아'는 미소녀를 어떻게 확장했나",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=155252",
+   "source": "테크M",
+   "sources": [
+    "블로터",
+    "테크M",
+    "전자신문",
+    "디지털데일리",
+    "뉴스1"
+   ],
+   "outlets": 17,
+   "naverN": 17,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "\"싸우고 다시 집으로\"…'블루아카' 김용하 신작은 '이세계 홈스테이'",
+     "url": "https://n.news.naver.com/mnews/article/421/0009175748",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[TGS 2026] 넥슨 김용하 \"파레이돌리아, '돌아가고 싶은 이세계'로…목표 절반 구현\"",
+     "url": "https://n.news.naver.com/article/138/0002241790",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "[TGS 2026] 이름 부르면 '최애'가 달려온다…넥슨 '파레이돌리아'가 그린 이세계 생활",
+     "url": "https://n.news.naver.com/article/138/0002241763",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "[게임in도쿄] 부르면 반응한다…이세계 홈스테이 강조한 ‘파레이돌리아'",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=673828",
+     "source": "블로터"
+    },
+    {
+     "title": "[TGS 2026]넥슨 '파레이돌리아' 첫 시연... “돌아가고 싶은 이세계”",
+     "url": "https://www.etnews.com/20260917000403",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171010_00000005",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 5,
+    "applied": false
+   },
+   "vs": 6,
+   "publishedAt": "2026-09-17 10:00"
+  },
+  {
+   "rank": 6,
+   "title": "\"쇼핑 다음은 장소\"...네이버, '버티컬 AI 에이전트' 확장 본격화",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=155345",
+   "source": "테크M",
+   "sources": [
+    "테크M",
+    "한국경제IT",
+    "IT조선",
+    "디지털데일리",
+    "바이라인네트워크"
+   ],
+   "outlets": 11,
+   "naverN": 11,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "네이버, AI 쇼핑 에이전트에 ‘실시간 배송 정보’ 연동",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170400",
+     "source": "IT조선"
+    },
+    {
+     "title": "“내일 캠핑 준비 걱정 없네”…네이버 AI, 배송시간까지 따져 골라준다",
+     "url": "https://n.news.naver.com/article/138/0002241731",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "네플스 ‘AI 쇼핑 에이전트’, 배송 특화 기능 고도화…“실시간 배송...",
+     "url": "https://byline.network/?p=9004111222620556",
+     "source": "바이라인네트워크"
+    },
+    {
+     "title": "\"내일까지 배송되는 상품? AI가 알려준다\" 네이버, 'AI·N배송' 시너지 노린다",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=155348",
+     "source": "테크M"
+    },
+    {
+     "title": "키워드 검색' 사라지나…네이버 'AI 에이전트' 확장 속도",
+     "url": "https://www.hankyung.com/article/202609171867g",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609170950_00000093",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 6,
+    "applied": false
+   },
+   "vs": 6,
+   "publishedAt": "2026-09-17 14:05"
+  },
+  {
+   "rank": 7,
+   "title": "LFP 양극재 선두 엘앤에프, 삼성SDI 이어 SK온도 수주…1617억 규모",
+   "url": "https://zdnet.co.kr/view/?no=20260917183510",
+   "source": "ZDNet Korea",
+   "sources": [
+    "전자신문",
+    "ZDNet Korea",
+    "벤처스퀘어",
+    "디일렉",
+    "IT조선",
+    "디지털데일리"
+   ],
+   "outlets": 6,
+   "naverN": 0,
+   "ownN": 6,
+   "members": [
+    {
+     "title": "SK온, 엘앤에프서 1600억 규모 ESS용 LFP 양극재 조달",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170413",
+     "source": "IT조선"
+    },
+    {
+     "title": "SK온, 엘앤에프서 1600억원 규모 LFP 양극재 구매",
+     "url": "https://www.thelec.kr/news/articleView.html?idxno=62472",
+     "source": "디일렉"
+    },
+    {
+     "title": "엘앤에프, SK온에 1600억원 LFP 양극재 공급…서산·美 ESS 라인 투입",
+     "url": "https://n.news.naver.com/article/138/0002241903",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "엘앤에프, SK온에 LFP 양극재 1600억원 공급…6만톤 생산체제 간다",
+     "url": "https://www.venturesquare.net/1114808/",
+     "source": "벤처스퀘어"
+    },
+    {
+     "title": "SK온, 엘앤에프서 LFP 양극재 1600억 조달",
+     "url": "https://www.etnews.com/20260917000492",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "featured",
+   "unconf": {
+    "sources": 0,
+    "items": 6,
+    "applied": false
+   },
+   "vs": 6,
+   "publishedAt": "2026-09-17 18:49"
+  },
+  {
+   "rank": 8,
+   "title": "두산, 韓·中에 9700억원 규모 AI CCL 증설",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=62456",
+   "source": "디일렉",
+   "sources": [
+    "디일렉",
+    "블로터",
+    "매일경제IT",
+    "디지털데일리"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "두산, 9700억 투입해 CCL 생산라인 대폭 늘린다…AI 수요 선제 대응",
+     "url": "https://n.news.naver.com/article/138/0002241887",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "두산, 9700억 투입해 CCL 생산라인 대폭 늘린다… AI 수요 선제 대응",
+     "url": "https://www.ddaily.co.kr/page/view/2026091717293038632",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "두산 \"AI칩 올라타자\"…1조 들여 韓中 CCL설비 증설",
+     "url": "https://www.mk.co.kr/article/12155718",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "㈜두산, 하이엔드 CCL에 9700억 투자…AI 데이터센터 수요 정조준",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=673900",
+     "source": "블로터"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 5,
+    "applied": false
+   },
+   "vs": 5.65,
+   "publishedAt": "2026-09-17 14:40"
+  },
+  {
+   "rank": 9,
+   "title": "NC AI, 전북·경남 피지컬 AI 국책과제 동시 참여…공장·로봇 스스로 판단하게 만든다",
+   "url": "https://www.venturesquare.net/1114853/",
+   "source": "벤처스퀘어",
+   "sources": [
+    "디지털데일리",
+    "ZDNet Korea",
+    "한국경제IT",
+    "아이뉴스24",
+    "AI타임스",
+    "테크M",
+    "벤처스퀘어",
+    "매일경제IT",
+    "IT조선",
+    "조선비즈",
+    "로봇신문",
+    "IT데일리",
+    "데일리시큐",
+    "전자신문",
+    "경향신문"
+   ],
+   "outlets": 38,
+   "naverN": 38,
+   "ownN": 15,
+   "members": [
+    {
+     "title": "[게시판] NC AI, 1.4조 전북·경남 피지컬 AI 국책과제 참여 등 단신",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215421",
+     "source": "AI타임스"
+    },
+    {
+     "title": "에스넷시스템, 110억 규모 한국지역난방공사 AI 통합운영시스템 구축 사업 수주",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241677",
+     "source": "IT데일리"
+    },
+    {
+     "title": "엔씨 AI, 1.4조 규모 과기부 ‘피지컬 AI’ 국책 과제 선정",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170335",
+     "source": "IT조선"
+    },
+    {
+     "title": "제조 현장 파고든 NC AI, 1.4조 피지컬 AI 국책사업 올라탔다",
+     "url": "https://zdnet.co.kr/view/?no=20260917093233",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "NC AI, 1조4000억원 피지컬AI 국책사업 참여…조선·반도체 공정 실증",
+     "url": "https://n.news.naver.com/mnews/article/032/0003471039",
+     "source": "경향신문"
+    },
+    {
+     "title": "에스넷시스템, 100억 규모 지역난방 AI 통합운영 구축 주사업자 선정",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=208534",
+     "source": "데일리시큐"
+    },
+    {
+     "title": "[2026 AI 이노베이션 포럼] ‘무한도전’ 만든 김태호도 AI와 회의한다…“결국 남는 건 취향”",
+     "url": "https://n.news.naver.com/article/138/0002241712",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "[2026 AI 이노베이션 포럼] AI 도입 넘어 공장 지능화로…피지컬 AI가 바꾸는 제조 현장",
+     "url": "https://n.news.naver.com/article/138/0002241709",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "[2026 AI 이노베이션 포럼] 권남훈 산업연구원장 “피지컬 AI 승부는 데이터…韓 제조 현장이 무기”",
+     "url": "https://n.news.naver.com/article/138/0002241708",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "NC AI, 피지컬AI 국책과제 선정… 전북·경남 대형 사업 동시 수주",
+     "url": "https://n.news.naver.com/article/138/0002241784",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "에스넷, 지역난방공사 AI 통합운영시스템 구축사업 수주…\"110억원 규모\"",
+     "url": "https://n.news.naver.com/article/138/0002241785",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "브릴스, 차세대 피지컬 AI 플랫폼에 'VLA·RFM' 적용…글로벌 로봇 생태계 주도",
+     "url": "https://www.irobotnews.com/news/articleView.html?idxno=48547",
+     "source": "로봇신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609161010_00000011",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 21,
+    "applied": false
+   },
+   "vs": 5.53,
+   "publishedAt": "2026-09-17 22:50"
+  },
+  {
+   "rank": 10,
+   "title": "KT, 스마트폰 한 대로 업무·개인망 분리…'앱 슬라이싱' 연내 상용화",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=673942",
+   "source": "블로터",
+   "sources": [
+    "IT데일리",
+    "조선비즈",
+    "전자신문",
+    "블로터",
+    "아시아경제",
+    "ZDNet Korea",
+    "이데일리",
+    "파이낸셜뉴스",
+    "연합뉴스IT"
+   ],
+   "outlets": 24,
+   "naverN": 24,
+   "ownN": 9,
+   "members": [
+    {
+     "title": "[종합] KT, 기업·공공 5G 시장 공략…‘기업전용5G’로 업무망 고도화",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241687",
+     "source": "IT데일리"
+    },
+    {
+     "title": "KT, 5G 업무망 ‘에그’도 빌려준다…기업 무선망 구축비 낮춰",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241682",
+     "source": "IT데일리"
+    },
+    {
+     "title": "한 폰에서 업무망·인터넷 따로 쓴다…KT, 5G ‘앱 슬라이싱’ 준비",
+     "url": "https://zdnet.co.kr/view/?no=20260917173133",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "회사 밖에서도 5G로 사내망 접속…KT, 업무용 ‘임대 에그’ 내놨다",
+     "url": "https://n.news.naver.com/mnews/article/092/0002437830",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "폰 하나로 업무·일상 분리…KT, 5G '앱 슬라이싱' 연내 상용화",
+     "url": "https://n.news.naver.com/mnews/article/277/0005817751",
+     "source": "아시아경제"
+    },
+    {
+     "title": "KT, 5G 업무망 확산 돕는 임대 에그 서비스 출시[테크스냅]",
+     "url": "https://n.news.naver.com/mnews/article/001/0016316669",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "“카톡은 일반망, 업무는 사내망”…KT, 5G 슬라이싱 기술로 B2B 시장 공략",
+     "url": "https://n.news.naver.com/mnews/article/018/0006371014",
+     "source": "이데일리"
+    },
+    {
+     "title": "KT, 폰 한 대로 업무·개인망 분리…'앱 슬라이싱' 연내 출시",
+     "url": "https://www.etnews.com/20260917000400",
+     "source": "전자신문"
+    },
+    {
+     "title": "KT, 기업·공공 특화 5G 강화… 업무 전용 에그 출시·앱 슬라이싱 연내 적용",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/TJ3GOSAXRZFPFLQO47GTX6QPQQ/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "KT, 5G 기반 기업전용회선 서비스 확대…전용단말도 임대",
+     "url": "https://n.news.naver.com/mnews/article/014/0005577262",
+     "source": "파이낸셜뉴스"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609161050_00000127",
+   "placement": "hero",
+   "unconf": {
+    "sources": 1,
+    "items": 6,
+    "applied": false
+   },
+   "vs": 5.5,
+   "publishedAt": "2026-09-17 21:55"
+  },
+  {
+   "rank": 11,
+   "title": "이청 삼성디스플레이 사장, 中추격에 \"LCD 뼈아픈 경험 되풀이 안돼\"",
+   "url": "https://zdnet.co.kr/view/?no=20260917184346",
+   "source": "ZDNet Korea",
+   "sources": [
+    "전자신문",
+    "디일렉",
+    "ZDNet Korea",
+    "아시아경제",
+    "머니투데이",
+    "아이뉴스24",
+    "연합뉴스IT",
+    "뉴시스"
+   ],
+   "outlets": 17,
+   "naverN": 17,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "산업부, 디스플레이의 날 기념 행사…유공자 36명 포상",
+     "url": "https://n.news.naver.com/mnews/article/003/0014196433",
+     "source": "뉴시스"
+    },
+    {
+     "title": "이청 삼성D 사장 \"LCD 경험 되풀이 안돼\"…中 OLED 추격에 '원팀' 강조",
+     "url": "https://www.thelec.kr/news/articleView.html?idxno=62470",
+     "source": "디일렉"
+    },
+    {
+     "title": "이청 회장 \"LCD 뼈아픈 경험 되풀이 할 수 없어…산학연 '원팀' 돼야\"",
+     "url": "https://n.news.naver.com/mnews/article/008/0005415518",
+     "source": "머니투데이"
+    },
+    {
+     "title": "이청 디스플레이협회장 \"LCD 뼈아픈 경험 되풀이 안 돼…원팀으로 OLED 지켜내야\"",
+     "url": "https://n.news.naver.com/mnews/article/277/0005818084",
+     "source": "아시아경제"
+    },
+    {
+     "title": "삼성디스플레이 이청, 中 폴더블 추격에 \"우리가 최고죠\"",
+     "url": "https://n.news.naver.com/mnews/article/031/0001059509",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "디스플레이의 날…삼성D 이청 \"폴더블 기술력 우리가 최고\"(종합)",
+     "url": "https://n.news.naver.com/mnews/article/001/0016319163",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "[제17회 디스플레이의 날]소부장 국산화와 공급망 상생협력에 '은탑산업훈장' 영예",
+     "url": "https://www.etnews.com/20260917000105",
+     "source": "전자신문"
+    },
+    {
+     "title": "[제17회 디스플레이의 날]은탑산업훈장- 이기승 세경하이테크 대표",
+     "url": "https://www.etnews.com/20260917000108",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171140_00000169",
+   "placement": "ranking",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.5,
+   "publishedAt": "2026-09-17 18:55"
+  },
+  {
+   "rank": 12,
+   "title": "메가존클라우드·뉴렐릭, IT서비스 장애 대응 전 과정 자동화 방안 선보여",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170395",
+   "source": "IT조선",
+   "sources": [
+    "테크M",
+    "디지털데일리",
+    "조선비즈",
+    "IT조선"
+   ],
+   "outlets": 9,
+   "naverN": 9,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "메가존클라우드·뉴렐릭, IT 장애 감지부터 복구까지 자동화 방안 제시",
+     "url": "https://n.news.naver.com/article/138/0002241743",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "메가존클라우드, AI 기반 장애 대응 자동화 방안 제시",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/LZLGEQNTKNAPVDYBTMSAY3JMIY/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "메가존클라우드, IT서비스 장애 대응 자동화 방안 제시...뉴렐릭과 공동 세미나 성료",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=155350",
+     "source": "테크M"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171040_00000247",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.42,
+   "publishedAt": "2026-09-17 17:46"
+  },
+  {
+   "rank": 13,
+   "title": "과기정통부·방미통위, AI·미디어·디지털 정책 협력 강화한다",
+   "url": "https://www.itdaily.kr/news/articleView.html?idxno=241691",
+   "source": "IT데일리",
+   "sources": [
+    "IT데일리",
+    "디지털데일리",
+    "ZDNet Korea",
+    "뉴시스",
+    "SBS"
+   ],
+   "outlets": 9,
+   "naverN": 9,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "방미통진흥원 설립 속도…과기부·방미통위 정책협력",
+     "url": "https://n.news.naver.com/mnews/article/055/0001389206",
+     "source": "SBS"
+    },
+    {
+     "title": "AI부터 UHD·해킹 대응…과기정통부·방미통위 정책 공조 확대",
+     "url": "https://zdnet.co.kr/view/?no=20260917175609",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "한국방송미디어통신진흥원' 설립 가속…과기정통부·방미통위 실무협의",
+     "url": "https://n.news.naver.com/mnews/article/003/0014197773",
+     "source": "뉴시스"
+    },
+    {
+     "title": "과기정통부·방미통위·개보위(9월17일 목요일)[오늘의 주요일정]",
+     "url": "https://n.news.naver.com/mnews/article/003/0014195603",
+     "source": "뉴시스"
+    },
+    {
+     "title": "과기정통부·방미통위, 정책 공조 본격화…진흥원 설립 협력",
+     "url": "https://n.news.naver.com/article/138/0002241848",
+     "source": "디지털데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171610_00000007",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 5.42,
+   "publishedAt": "2026-09-17 16:00"
+  },
+  {
+   "rank": 14,
+   "title": "에임인텔리전스, 피지컬AI 안전 연구 글로벌 컨소시엄 ‘PASC’ 출범",
+   "url": "https://zdnet.co.kr/view/?no=20260918081204",
+   "source": "ZDNet Korea",
+   "sources": [
+    "AI타임스",
+    "벤처스퀘어",
+    "디지털데일리",
+    "ZDNet Korea"
+   ],
+   "outlets": 8,
+   "naverN": 8,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "에임인텔리전스, 피지컬 AI 안전 컨소시엄 출범...\"구글·MS·오라클도 모였다\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215376",
+     "source": "AI타임스"
+    },
+    {
+     "title": "구글 딥마인드 'AGI 연구소' 출범...\"인류 사회 영향·안전 통제 집중 연구\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215388",
+     "source": "AI타임스"
+    },
+    {
+     "title": "에임인텔리전스, 'AI 레드티밍·가드레일'로 안전한 AI 생태계 구축",
+     "url": "https://zdnet.co.kr/view/?no=20260908163452",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "구글·MS 합류…에임인텔리전스 주도 피지컬 AI 안전 컨소시엄 'PASC' 출범",
+     "url": "https://n.news.naver.com/article/138/0002241770",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "에임인텔리전스, 로봇이 행동한 뒤의 위험까지 본다…글로벌 피지컬 AI 안전 연합 출범",
+     "url": "https://www.venturesquare.net/1114609/",
+     "source": "벤처스퀘어"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171040_00000116",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 6,
+    "applied": false
+   },
+   "vs": 5.42,
+   "publishedAt": "2026-09-18 08:12"
+  },
+  {
+   "rank": 15,
+   "title": "네이버 지도, 대화형 장소 탐색 AI 서비스 ‘플레이스 에이전트’ 출시",
+   "url": "https://byline.network/?p=9004111222620561",
+   "source": "바이라인네트워크",
+   "sources": [
+    "조선비즈",
+    "바이라인네트워크",
+    "뉴스1",
+    "매일경제IT"
+   ],
+   "outlets": 14,
+   "naverN": 14,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "대화로 장소 추천부터 예약까지…네이버지도, 장소 특화 AI 제공",
+     "url": "https://n.news.naver.com/mnews/article/421/0009176004",
+     "source": "뉴스1"
+    },
+    {
+     "title": "“회식도 싫은데 예약까지 하라네요”…이제 네이버에 시키면 됩니다",
+     "url": "https://n.news.naver.com/mnews/article/009/0005736664",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "네이버, 지도에 AI 에이전트 얹었다… 대화로 장소 찾고 예약까지",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/YMPOZGP67JHE3LXVWUUYG5LG6A/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171010_00000028",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 5.3,
+   "publishedAt": "2026-09-17 15:32"
+  },
+  {
+   "rank": 16,
+   "title": "“추석선물 문자, 스팸인지 확인하세요”",
+   "url": "https://www.ddaily.co.kr/page/view/2026091714555339102",
+   "source": "디지털데일리",
+   "sources": [
+    "조선비즈",
+    "디지털데일리",
+    "IT조선",
+    "MBN"
+   ],
+   "outlets": 13,
+   "naverN": 13,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "추석 주류 선물 공략 나선 유통·주류업계…각인·홍삼으로 차별화",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170411",
+     "source": "IT조선"
+    },
+    {
+     "title": "\"추석 선물·지원금 도착?\"…미끼 문자 누르지 마세요",
+     "url": "https://n.news.naver.com/mnews/article/057/0001969454",
+     "source": "MBN"
+    },
+    {
+     "title": "“선물 도착, 배송정보 입력하세요”… 추석 노린 스미싱 주의보",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/IME6EWBCIJCHJP7SRC6HVN3L3M/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171030_00000007",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.3,
+   "publishedAt": "2026-09-17 15:03"
+  },
+  {
+   "rank": 17,
+   "title": "B tv 에이닷 출시 2년…SKB \"이용자 55% 추천 콘텐츠 시청\"",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=673947",
+   "source": "블로터",
+   "sources": [
+    "IT데일리",
+    "ZDNet Korea",
+    "디지털데일리",
+    "블로터",
+    "헤럴드경제"
+   ],
+   "outlets": 9,
+   "naverN": 9,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "SKB, ‘B tv 에이닷’에 물었더니 더 오래 보고 더 많이 샀다",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241670",
+     "source": "IT데일리"
+    },
+    {
+     "title": "\"AI가 골라주니 더 보고 더 샀다”...Btv 에이닷 2년 성적표",
+     "url": "https://zdnet.co.kr/view/?no=20260917092817",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "SKB 'B tv 에이닷' 2주년…이용 고객 55% \"AI로 콘텐츠 선택\"",
+     "url": "https://n.news.naver.com/article/138/0002241757",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "SKB ‘B tv 에이닷’ 월간 대화 건수 2100만건 돌파…“AI로 찾고 시청까지”",
+     "url": "https://n.news.naver.com/mnews/article/016/0002698485",
+     "source": "헤럴드경제"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609170900_00000043",
+   "placement": "featured",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.3,
+   "publishedAt": "2026-09-17 21:59"
+  },
+  {
+   "rank": 18,
+   "title": "아이폰 듀오 공개 후 갤럭시 Z 폴드8 더 잘 팔렸다…판매량 10% 증가",
+   "url": "https://www.dt.co.kr/article/12084557?ref=naver",
+   "source": "디지털타임스",
+   "sources": [
+    "테크M",
+    "전자신문",
+    "디지털타임스",
+    "문화일보",
+    "국민일보",
+    "머니투데이",
+    "동아일보",
+    "연합뉴스IT",
+    "노컷뉴스",
+    "조선일보",
+    "SBS Biz",
+    "이데일리",
+    "매경이코노미",
+    "한국경제TV"
+   ],
+   "outlets": 39,
+   "naverN": 39,
+   "ownN": 14,
+   "members": [
+    {
+     "title": "329만원 애플 폴더블에 놀랐나…삼성 갤폴드가 더 팔렸다",
+     "url": "https://n.news.naver.com/mnews/article/374/0000533638",
+     "source": "SBS Biz"
+    },
+    {
+     "title": "‘7년 노하우’의 힘… 아이폰 듀오 공개 뒤 삼성 Z폴드8 판매 오히려 늘었다",
+     "url": "https://n.news.naver.com/mnews/article/005/0001873647",
+     "source": "국민일보"
+    },
+    {
+     "title": "日 스마트폰, 안드로이드가 54.1%…아이폰과 격차 확대",
+     "url": "https://n.news.naver.com/mnews/article/079/0004190561",
+     "source": "노컷뉴스"
+    },
+    {
+     "title": "갤Z폴드8, 아이폰 듀오 공개 후 ‘반사이익’",
+     "url": "https://n.news.naver.com/mnews/article/020/0003749064",
+     "source": "동아일보"
+    },
+    {
+     "title": "‘아이폰 듀오’ 나오고 삼성 몰래 웃었다...“비싸고 무거워요”",
+     "url": "https://n.news.naver.com/mnews/article/024/0000108282",
+     "source": "매경이코노미"
+    },
+    {
+     "title": "\"이게 100만원 차이?\"…아이폰 듀오 공개 후 '갤럭시 Z 폴드8' 더 잘 팔린다",
+     "url": "https://n.news.naver.com/mnews/article/008/0005415155",
+     "source": "머니투데이"
+    },
+    {
+     "title": "Z폴드8, ‘아이폰 듀오 기선제압’…국내판매 1주일간 10%↑",
+     "url": "https://n.news.naver.com/mnews/article/021/0002819521",
+     "source": "문화일보"
+    },
+    {
+     "title": "日 스마트폰 시장서 안드로이드 점유율 54%…아이폰과 격차 벌려",
+     "url": "https://www.yna.co.kr/view/AKR20260917135600073?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "아이폰 듀오 등장에 삼성 웃었다…갤Z폴드8 판매 10%↑",
+     "url": "https://n.news.naver.com/mnews/article/018/0006371287",
+     "source": "이데일리"
+    },
+    {
+     "title": "아이폰 듀오 공개하자 갤럭시Z폴드8 판매 10% 늘어",
+     "url": "https://www.etnews.com/20260917000257",
+     "source": "전자신문"
+    },
+    {
+     "title": "애플이 폴더블 아이폰 내놓자, 삼성 갤폴드가 더 팔렸다",
+     "url": "https://n.news.naver.com/mnews/article/023/0003998975",
+     "source": "조선일보"
+    },
+    {
+     "title": "애플 '아이폰 듀오' 공개, 갤럭시Z폴드8 판매 기름 부은 이유는?",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=155318",
+     "source": "테크M"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609140750_00000047",
+   "placement": "section",
+   "unconf": {
+    "sources": 2,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-17 15:05"
+  },
+  {
+   "rank": 19,
+   "title": "기업 41%, AI 도입으로 보안 투자 확대...섀도우 AI 위협 증가",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=208531",
+   "source": "데일리시큐",
+   "sources": [
+    "조선비즈",
+    "디지털데일리",
+    "데일리시큐"
+   ],
+   "outlets": 33,
+   "naverN": 33,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "LG, AI 핵심 승부처 투자 실행력 강화…고객 가치 중심 추진",
+     "url": "https://n.news.naver.com/article/138/0002241762",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "오픈AI, 기업가치 1조5000억달러 추진… IPO 전 추가 투자 검토",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/16/FUHAZ6KU2NELTFNDWJSYE2B5H4/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "카스퍼스키 “기업 41%, AI 도입 때문에 보안 투자 늘려…섀도우 AI 위험요인”",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/N363CG2H3RGUTBMCMCFSVBTMEA/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609161010_00000013",
+   "placement": "section",
+   "unconf": {
+    "sources": 1,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-17 15:46"
+  },
+  {
+   "rank": 20,
+   "title": "추석 귀경길 25일 가장 정체…부산→서울 8시간 예상",
+   "url": "https://www.etnews.com/20260917000478",
+   "source": "전자신문",
+   "sources": [
+    "조선비즈",
+    "전자신문",
+    "강원일보",
+    "연합뉴스IT",
+    "이데일리",
+    "대전일보"
+   ],
+   "outlets": 20,
+   "naverN": 20,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "추석 연휴 귀성길 ‘24일 오전 11시’ 귀경길 ‘25일 오후 1시’ 가장 막힌다",
+     "url": "https://n.news.naver.com/mnews/article/087/0001218969",
+     "source": "강원일보"
+    },
+    {
+     "title": "추석 귀성길 가장 막히는 시간은?…서울→대전 4시간 넘는다",
+     "url": "https://n.news.naver.com/mnews/article/656/0000187085",
+     "source": "대전일보"
+    },
+    {
+     "title": "추석 연휴 서울 247개 학교 주차장·운동장 무료 개방",
+     "url": "https://www.yna.co.kr/view/AKR20260917183000530?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "추석 교통 ‘혼잡 정점’은…귀성 25일·귀경 25일 정오",
+     "url": "https://n.news.naver.com/mnews/article/018/0006370819",
+     "source": "이데일리"
+    },
+    {
+     "title": "추석 연휴 귀경길 25일 가장 막힌다…부산→서울 8시간 예상",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/KRSGITHI7BE63CFQ253OQ4YFD4/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609170850_00000001",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-17 17:37"
+  },
+  {
+   "rank": 21,
+   "title": "넷마블, TGS 2026서 신작 '펄인블루' 공개…러브코미디 결합 수집형 RPG",
+   "url": "https://zdnet.co.kr/view/?no=20260917171204",
+   "source": "ZDNet Korea",
+   "sources": [
+    "ZDNet Korea",
+    "매일경제IT",
+    "아이뉴스24",
+    "뉴시스"
+   ],
+   "outlets": 14,
+   "naverN": 14,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "넷마블, TGS 2026서 '나 혼자만 레벨업: 카르마' 공개…한·일 사전등록 돌입",
+     "url": "https://n.news.naver.com/mnews/article/092/0002437895",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "연애 감성에 RPG 손맛 더했다…넷마블엔투, '펄인블루' 첫선[도쿄게임쇼 2026]",
+     "url": "https://n.news.naver.com/mnews/article/003/0014198104",
+     "source": "뉴시스"
+    },
+    {
+     "title": "넷마블, 도쿄게임쇼서 신작 ‘나 혼자만 레벨업: 카르마’ 발표",
+     "url": "https://n.news.naver.com/mnews/article/009/0005736666",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "넷마블, ‘나혼렙:카르마’ TGS 2026서 미디어 발표회 개최",
+     "url": "https://n.news.naver.com/mnews/article/009/0005736670",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "넷마블 '나혼렙: 카르마' 공개… 韓日 사전등록 개시[도쿄게임쇼 2026]",
+     "url": "https://n.news.naver.com/mnews/article/031/0001059346",
+     "source": "아이뉴스24"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171430_00000109",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 1,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-17 17:25"
+  },
+  {
+   "rank": 22,
+   "title": "구글 개발자 생태계 총괄 “게임·엔터 넘어 헬스·AI도 동남아 진출 기회”",
+   "url": "https://biz.chosun.com/it-science/ict/2026/09/17/NBUHG7EEFVEFHNP3DUHGLMRK6Y/",
+   "source": "조선비즈",
+   "sources": [
+    "조선비즈",
+    "연합뉴스IT",
+    "뉴시스"
+   ],
+   "outlets": 12,
+   "naverN": 12,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "\"韓 가격전략 그대로 내밀지 마라\"…구글이 제안한 K-스타트업에 '7억 동남아' 공략법",
+     "url": "https://n.news.naver.com/mnews/article/003/0014195646",
+     "source": "뉴시스"
+    },
+    {
+     "title": "中 기업도 놓친 틈새…K-스타트업, 동남아 '현지화'로 뚫어라",
+     "url": "https://n.news.naver.com/mnews/article/003/0014195638",
+     "source": "뉴시스"
+    },
+    {
+     "title": "[만나보니] 구글 아태 총괄 \"동남아 잡으면 세계서 통한다\"",
+     "url": "https://www.yna.co.kr/view/AKR20260916178300017?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609160910_00000155",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-17 06:00"
+  },
+  {
+   "rank": 23,
+   "title": "“PC로 문자 이용” SKT, ‘채팅+ PC버전’ 추천·설치 이벤트 진행",
+   "url": "https://www.itdaily.kr/news/articleView.html?idxno=241681",
+   "source": "IT데일리",
+   "sources": [
+    "IT데일리",
+    "디지털데일리",
+    "파이낸셜뉴스"
+   ],
+   "outlets": 10,
+   "naverN": 10,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "SKT, 채팅+ PC버전 추천·설치 이벤트…총 2000만원 경품",
+     "url": "https://n.news.naver.com/article/138/0002241771",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "\"문자 보내려고 폰 찾지 마세요\"…SKT '채팅+' 예약 전송도 된다",
+     "url": "https://n.news.naver.com/mnews/article/014/0005577153",
+     "source": "파이낸셜뉴스"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609170900_00000030",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-17 11:33"
+  },
+  {
+   "rank": 24,
+   "title": "인핸스, 512억원 시리즈C 유치…고객사였던 LG·포스코·롯데 계열사 주주로",
+   "url": "https://www.venturesquare.net/1114540/",
+   "source": "벤처스퀘어",
+   "sources": [
+    "벤처스퀘어",
+    "AI타임스",
+    "바이라인네트워크",
+    "ZDNet Korea"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "인핸스, '에이전트 OS'로 512억 시리즈 C 투자 유치",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=215373",
+     "source": "AI타임스"
+    },
+    {
+     "title": "인핸스, 대기업 고객사서 전략 투자…512억 시리즈 C 유치",
+     "url": "https://zdnet.co.kr/view/?no=20260917170250",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "인핸스, 512억원 규모 시리즈C 투자 유치",
+     "url": "https://byline.network/?p=9004111222620511",
+     "source": "바이라인네트워크"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-17 08:19"
+  },
+  {
+   "rank": 25,
+   "title": "“보안은 혁신의 필수조건”…이종석 국정원장, AI 시대 사이버안보 강조",
+   "url": "https://www.etnews.com/20260917000479",
+   "source": "전자신문",
+   "sources": [
+    "디지털데일리",
+    "전자신문",
+    "연합뉴스IT",
+    "더팩트"
+   ],
+   "outlets": 14,
+   "naverN": 14,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "한수원 '에너지 안보', 사이버보안위원회 개최",
+     "url": "https://n.news.naver.com/mnews/article/629/0000534802",
+     "source": "더팩트"
+    },
+    {
+     "title": "이종석 국정원장 \"AI 시대, 보안은 혁신 지속할 필수 조건\"",
+     "url": "https://n.news.naver.com/article/138/0002241816",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "[AI프리즘] 국정원, AI 에이전트 안전성 평가한다(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20260917094651017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "日, 내년 3월 '사이버보안 평가제' 도입…공급망 관리 강화",
+     "url": "https://n.news.naver.com/mnews/article/001/0016317044",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171130_00000180",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 5.19,
+   "publishedAt": "2026-09-17 17:38"
+  },
+  {
+   "rank": 26,
+   "title": "삼성, 갤럭시 ‘원 UI 9’ 배포…AI 변조 목소리까지 잡는다",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170341",
+   "source": "IT조선",
+   "sources": [
+    "연합뉴스IT",
+    "조선비즈",
+    "전자신문",
+    "디지털데일리",
+    "ZDNet Korea",
+    "IT조선",
+    "뉴스1",
+    "이데일리"
+   ],
+   "outlets": 15,
+   "naverN": 15,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "삼성, 갤럭시 원UI 9 배포…\"마이 팬캠부터 맞춤 비서까지\"",
+     "url": "https://zdnet.co.kr/view/?no=20260917081451",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "원하는 인물만 따라가 편집…갤럭시 '마이 팬캠' 지원 확대",
+     "url": "https://n.news.naver.com/mnews/article/421/0009175437",
+     "source": "뉴스1"
+    },
+    {
+     "title": "삼성전자, 갤럭시 S26 시작으로 One UI 9 업데이트 실시",
+     "url": "https://n.news.naver.com/article/138/0002241753",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "삼성전자, '원 UI 9' 국내 시작으로 글로벌 업데이트",
+     "url": "https://www.yna.co.kr/view/AKR20260917035600017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "삼성전자, '갤럭시 클래스룸' 출시",
+     "url": "https://www.yna.co.kr/view/PYH20260918013600013?input=1196m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "삼성전자, '갤럭시 클래스룸' 출시",
+     "url": "https://www.yna.co.kr/view/PYH20260918013500013?input=1196m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "삼성전자, '갤럭시 클래스룸' 출시",
+     "url": "https://www.yna.co.kr/view/PYH20260918013400013?input=1196m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "갤S26 더 똑똑해졌다…‘원 UI 9’ 배포[모닝폰]",
+     "url": "https://n.news.naver.com/mnews/article/018/0006370761",
+     "source": "이데일리"
+    },
+    {
+     "title": "삼성, '원UI 9' 업데이트 시작…갤S26부터 순차 적용",
+     "url": "https://www.etnews.com/20260917000216",
+     "source": "전자신문"
+    },
+    {
+     "title": "삼성전자, 원 UI 9 업데이트 시작… 보안·영상 편집 기능 강화",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/DM6A4Z2RJFH3HLY5PU7CYF5PNY/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609170850_00000003",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 9,
+    "applied": false
+   },
+   "vs": 5.13,
+   "publishedAt": "2026-09-17 11:19"
+  },
+  {
+   "rank": 27,
+   "title": "[AI 브리프] 세일즈포스, 구글 클라우드·AWS와 협력 확대…에이전틱 AI 생태계 강화",
+   "url": "https://www.itdaily.kr/news/articleView.html?idxno=241684",
+   "source": "IT데일리",
+   "sources": [
+    "디지털데일리",
+    "IT데일리"
+   ],
+   "outlets": 11,
+   "naverN": 11,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "[드림포스2026] 제미나이에서 CRM 쓰고 구매까지…세일즈포스·구글, AI 통합 확대",
+     "url": "https://n.news.naver.com/article/138/0002241723",
+     "source": "디지털데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609152110_00002091",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 5.13,
+   "publishedAt": "2026-09-17 14:05"
+  },
+  {
+   "rank": 28,
+   "title": "신한은행, 카카오 손잡고 '모두의 AI' 참여…생활 속 금융 AI 찾는다",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=155358",
+   "source": "테크M",
+   "sources": [
+    "테크M",
+    "전자신문",
+    "한국경제IT",
+    "조선비즈",
+    "IT조선",
+    "파이낸셜뉴스"
+   ],
+   "outlets": 38,
+   "naverN": 38,
+   "ownN": 6,
+   "members": [
+    {
+     "title": "카카오 노조, 인적분할 주주 간담회에 ‘보여주기식 소통’ 비판",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170386",
+     "source": "IT조선"
+    },
+    {
+     "title": "신한은행, 과기정통부 '모두의 AI' 카카오 컨소시엄 참여…금융 AI 서비스 발굴",
+     "url": "https://www.etnews.com/20260917000389",
+     "source": "전자신문"
+    },
+    {
+     "title": "카카오 노조, 소액주주 간담회 비판…“질문 16개 중 14개 사전 준비, 소통 아닌 쇼통”",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/J4JRKIDVTJGGDDATDLNNJJRZNQ/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "인적분할' 카카오 \"2030년 매출 6조 달성\"",
+     "url": "https://n.news.naver.com/mnews/article/014/0005577010",
+     "source": "파이낸셜뉴스"
+    },
+    {
+     "title": "인적분할 앞둔 카카오, 소액주주간담회 개최…노조는 '지적'",
+     "url": "https://www.hankyung.com/article/202609170407g",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609161640_00000642",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 5,
+    "applied": false
+   },
+   "vs": 5.1,
+   "publishedAt": "2026-09-17 15:30"
+  },
+  {
+   "rank": 29,
+   "title": "카톡·전화로 AI 쓴다…카카오, LGU+와 '모두의 AI' 시동",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=673691",
+   "source": "블로터",
+   "sources": [
+    "블로터",
+    "IT조선",
+    "조선비즈",
+    "디지털데일리",
+    "연합뉴스IT",
+    "한국경제IT",
+    "서울경제"
+   ],
+   "outlets": 11,
+   "naverN": 11,
+   "ownN": 7,
+   "members": [
+    {
+     "title": "신한은행, ‘모두의 AI’ 카카오 컨소시엄 참여",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170375",
+     "source": "IT조선"
+    },
+    {
+     "title": "카톡으로 묻고 전화로 이어서…카카오·LG ‘완결형 AI’ 승부수",
+     "url": "https://n.news.naver.com/article/138/0002241732",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "“없으면 불편한 AI 만들 것”…카카오 컨소, ‘완결형 AI’로 승부",
+     "url": "https://n.news.naver.com/mnews/article/011/0004662759",
+     "source": "서울경제"
+    },
+    {
+     "title": "신한은행, '모두의 AI' 카카오 컨소시엄에 참여",
+     "url": "https://www.yna.co.kr/view/AKR20260917145700002?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "[인터뷰] ‘모두의 AI’ 선정 카카오·LG U+ “등본 발급·결제까지 해주는 완결형 AI 목표”",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/17/C5RUMSBMXZHMTHLFW2YG6FQAME/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "\"카카오 '모두의 AI' 3년 뒤 챗GPT 넘어설 것\"",
+     "url": "https://www.hankyung.com/article/2026091719941",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609170910_00000010",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 6,
+    "applied": false
+   },
+   "vs": 5.1,
+   "publishedAt": "2026-09-17 09:00"
+  },
+  {
+   "rank": 30,
+   "title": "영업사원' 이재용, 전 세계 누비더니…'세계 1위' 일냈다",
+   "url": "https://www.hankyung.com/article/202609171431g",
+   "source": "한국경제IT",
+   "sources": [
+    "IT조선",
+    "한국경제IT"
+   ],
+   "outlets": 10,
+   "naverN": 10,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "삼성, 상반기 스마트폰 점유율 1위 탈환…中 업체는 하락",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170372",
+     "source": "IT조선"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609171410_00000070",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 5.1,
+   "publishedAt": "2026-09-17 15:24"
+  }
+ ]
+}
