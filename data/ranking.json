@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20 18:32",
+ "updated": "2026-09-21 08:52",
  "window_hours": 36,
  "articles": [
   {
@@ -15,13 +15,17 @@
     "디지털데일리",
     "데일리안",
     "뉴스1",
+    "국민일보",
+    "서울경제",
+    "조선일보",
     "전자신문",
     "AI타임스",
-    "디지털타임스"
+    "디지털타임스",
+    "매일경제IT"
    ],
-   "outlets": 23,
-   "naverN": 23,
-   "ownN": 10,
+   "outlets": 29,
+   "naverN": 29,
+   "ownN": 14,
    "members": [
     {
      "title": "\"안전 핑계 대고 밀실 담합\"…앤트로픽·오픈AI 등 4곳, 소비자에게 피소",
@@ -39,8 +43,23 @@
      "source": "ZDNet Korea"
     },
     {
+     "title": "군 복무 대신 삼성·LG서 ‘AI’ 연구… 대기업 병역특례 14년 만에 열린다",
+     "url": "https://n.news.naver.com/mnews/article/005/0001874074",
+     "source": "국민일보"
+    },
+    {
+     "title": "군 복무 대신 삼성·LG서 AI 연구… 대기업 병역특례 14년 만에 부활",
+     "url": "https://n.news.naver.com/mnews/article/005/0001874176",
+     "source": "국민일보"
+    },
+    {
      "title": "대기업 병역특례 'AI 전문연구요원'으로 14년 만에 부활한다",
      "url": "https://n.news.naver.com/mnews/article/421/0009181050",
+     "source": "뉴스1"
+    },
+    {
+     "title": "대기업 전문연구요원 14년 만에 부활…LG·삼성 등 추천",
+     "url": "https://n.news.naver.com/mnews/article/421/0009181563",
      "source": "뉴스1"
     },
     {
@@ -64,24 +83,9 @@
      "source": "디지털타임스"
     },
     {
-     "title": " AI 병역특례' 14년 만에 대기업 문 열린다…삼성·LG 유력",
-     "url": "https://www.yna.co.kr/view/AKR20260918108500017?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "“AI 속도조절은 담합”…앤트로픽·오픈AI 등 4곳 피소",
-     "url": "https://www.etnews.com/20260920000077",
-     "source": "전자신문"
-    },
-    {
-     "title": "[CAIO 서밋 2026] 하정우 부위원장 “기업 AX, CEO는 물론 CAIO가 앞장서야”",
-     "url": "https://www.etnews.com/20260918000241",
-     "source": "전자신문"
-    },
-    {
-     "title": "대기업 전문연구요원 'AI'로 부활…삼성 등 4곳 추천",
-     "url": "https://www.etnews.com/20260920000082",
-     "source": "전자신문"
+     "title": "삼성전자 AI칩·LG 스마트팩토리 강점… 휴머노이드 전반에서 현대차 약...",
+     "url": "https://www.mk.co.kr/article/12157567",
+     "source": "매일경제IT"
     }
    ],
    "scoop": null,
@@ -89,7 +93,7 @@
    "placement": "home-hero",
    "unconf": {
     "sources": 2,
-    "items": 12,
+    "items": 13,
     "applied": false
    },
    "vs": 7,
@@ -97,301 +101,113 @@
   },
   {
    "rank": 2,
-   "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
-   "source": "AI타임스",
+   "title": "[도쿄 게임 쇼 2026] 최휘영 장관, 지스타 위기론에 \"활성화 방안 고민\"",
+   "url": "http://www.inews24.com/view/2007583",
+   "source": "아이뉴스24",
    "sources": [
-    "매일경제IT",
+    "테크M",
     "아이뉴스24",
-    "한국경제IT",
-    "AI타임스",
     "디지털데일리",
-    "ZDNet Korea",
-    "조선비즈",
-    "연합뉴스IT",
-    "뉴시스",
-    "데일리안",
-    "머니투데이"
-   ],
-   "outlets": 11,
-   "naverN": 9,
-   "ownN": 11,
-   "members": [
-    {
-     "title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=215440",
-     "source": "AI타임스"
-    },
-    {
-     "title": "[AI는 지금] AI 투자, 오픈AI·앤트로픽에 몰렸다…韓도 상위 10곳 74.5% 점유",
-     "url": "https://zdnet.co.kr/view/?no=20260918182257",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "\"우린, 늦출 여유 없다\"…美 속도조절론 속 '韓 AI' 반격 카드[AI감속론③]",
-     "url": "https://n.news.naver.com/mnews/article/003/0014200925",
-     "source": "뉴시스"
-    },
-    {
-     "title": "AI 위험성, 어느 수준이길래…“인간 속이고 제멋대로 안전장치 뚫어\"",
-     "url": "https://n.news.naver.com/mnews/article/119/0003134508",
-     "source": "데일리안"
-    },
-    {
-     "title": "앤트로픽, '아스트라' 맞설 새 AI 모델 출시 검토",
-     "url": "https://n.news.naver.com/article/138/0002242055",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "앤트로픽, '아스트라' 맞설 새 AI 모델 출시 검토",
-     "url": "https://www.ddaily.co.kr/page/view/2026091911214063164",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "“미군, AI 보고서 하나에 중국 상대로 군사작전 준비…전쟁 시작할 뻔...",
-     "url": "https://www.mk.co.kr/article/12156964",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "CNN \"미군, AI 거짓 보고에 대중 군사작전 준비…전쟁 시작할 뻔\"",
-     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5220291",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "AI ‘속도조절’ 한목소리 냈다가…앤트로픽·오픈 AI ·구글·xAI 피소",
-     "url": "https://www.mk.co.kr/article/12157248",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "세계를 달군 AI 속도조절론…빅테크끼리 첨예한 '패권 내전' 양상",
-     "url": "https://n.news.naver.com/mnews/article/008/0005416058",
-     "source": "머니투데이"
-    },
-    {
-     "title": "하마터면⋯\"미군, AI 잘못된 답변에 中 상대로 군사 작전 직전까지\"",
-     "url": "http://www.inews24.com/view/2007465",
-     "source": "아이뉴스24"
-    },
-    {
-     "title": "[AI위클리] \"AI 시계 늦출 여유 없다\"…한국은 왜 속도를 택했나",
-     "url": "https://www.yna.co.kr/view/AKR20260919025700017?input=1195m",
-     "source": "연합뉴스IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609191830_00000835",
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 3,
-    "items": 12,
-    "applied": false
-   },
-   "vs": 7,
-   "publishedAt": "2026-09-19 19:46"
-  },
-  {
-   "rank": 3,
-   "title": "반쯤 접으면 갈린다…아이폰 듀오·갤Z8, 같은 폴더블 다른 선택",
-   "url": "https://www.ddaily.co.kr/page/view/2026091900531506993",
-   "source": "디지털데일리",
-   "sources": [
-    "디지털데일리",
-    "한국경제IT",
     "전자신문",
-    "조선일보",
-    "매일경제IT"
+    "뉴스1",
+    "디지털타임스"
    ],
-   "outlets": 18,
-   "naverN": 18,
-   "ownN": 5,
+   "outlets": 20,
+   "naverN": 20,
+   "ownN": 6,
    "members": [
     {
-     "title": "[PLAY IT] 남이 찍어주는 셀피?…아이폰 듀오 써보니",
-     "url": "https://n.news.naver.com/article/138/0002242045",
+     "title": "최휘영·문체위원 TGS서 'K게임' 점검…\"옛 위상 되찾도록 지원\"",
+     "url": "https://n.news.naver.com/mnews/article/421/0009181620",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[TGS 2026] 최휘영 장관·국회 문체위, 韓게임 현장 점검…\"글로벌 경쟁 지원 약속\"",
+     "url": "https://n.news.naver.com/article/138/0002242119",
      "source": "디지털데일리"
     },
     {
-     "title": "[PLAY IT] 남이 찍어주는 셀피?…아이폰 듀오 써보니",
-     "url": "https://www.ddaily.co.kr/page/view/2026091818113350493",
-     "source": "디지털데일리"
+     "title": "[TSG] 최휘영 장관 \"K- 게임 옛 위상 되찾도록 돕겠다\"",
+     "url": "https://www.dt.co.kr/article/12084987?ref=naver",
+     "source": "디지털타임스"
     },
     {
-     "title": "“애플 폴더블 내놨는데, 삼성이 웃네요”…공개 이후 갤폴드8 판매량 늘어",
-     "url": "https://n.news.naver.com/mnews/article/009/0005737743",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "아이폰 감성은 그대로, 화면은 두 배로…'아이폰 듀오'",
-     "url": "https://www.etnews.com/20260919000043",
+     "title": "[TGS 2026]최휘영 장관·여야 문체위, K게임 현장 점검... “게임, 이제 효자산업”",
+     "url": "https://www.etnews.com/20260920000093",
      "source": "전자신문"
     },
     {
-     "title": "펼치자 화면이 스르르… ‘아이폰 듀오’ 미리 써보니",
-     "url": "https://n.news.naver.com/mnews/article/023/0003999369",
-     "source": "조선일보"
+     "title": "[TGS 2026]이재정 “게임, 불효자에서 효자산업으로... 게임법 개정 성과 내겠다”",
+     "url": "https://www.etnews.com/20260920000094",
+     "source": "전자신문"
     },
     {
-     "title": "329만원 너무하네' 폴더블 아이폰 뜨자 삼성폰 '잭팟' 터졌다 [홍민성의 테토남]",
-     "url": "https://www.hankyung.com/article/202609183710g",
-     "source": "한국경제IT"
+     "title": "[TGS 26] \"韓 대표 게임쇼 '지스타' 활성화 고민할 것\"...'게임人' 최휘영 장관이 도쿄게임쇼 찾은 이유",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=155418",
+     "source": "테크M"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202609181520_00000006",
-   "placement": "home-featured",
+   "naverCluster": "c_202609201700_00000001",
+   "placement": "home-hero",
    "unconf": {
     "sources": 0,
     "items": 6,
     "applied": false
    },
-   "vs": 6.45,
-   "publishedAt": "2026-09-19 17:01"
+   "vs": 6.8,
+   "publishedAt": "2026-09-21 07:11"
   },
   {
-   "rank": 4,
-   "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215483",
-   "source": "AI타임스",
-   "sources": [
-    "ZDNet Korea",
-    "연합뉴스IT",
-    "매일경제IT",
-    "AI타임스",
-    "전자신문",
-    "IT조선",
-    "한국경제IT"
-   ],
-   "outlets": 7,
-   "naverN": 5,
-   "ownN": 7,
-   "members": [
-    {
-     "title": "교육 AI 효과 내려면… “정답 주는 AI에서 생각 키우는 AI로”",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170440",
-     "source": "IT조선"
-    },
-    {
-     "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
-     "url": "https://zdnet.co.kr/view/?no=20260918221337",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "[안광섭 AI 진테제] AI 데이터센터 본질...복잡한 4각 함수",
-     "url": "https://zdnet.co.kr/view/?no=20260919140654",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "공장이 AI 데이터 학습장으로…제조업 피지컬 AI 경쟁 불붙는다",
-     "url": "https://zdnet.co.kr/view/?no=20260918224315",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "AI 데이터센터 기대만발...건설주 투자해도 될까",
-     "url": "https://www.mk.co.kr/article/12156488",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "MS AI 수장, 오픈 AI '이상행동'에 \"심각한 상황… AI 갈수록 강력\"",
-     "url": "https://www.yna.co.kr/view/AKR20260919059000072?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "[AINEX 2026] 노키아 “예측불가 AI 트래픽, 네트워크도 'AI 네이티브' 돼야”",
-     "url": "https://www.etnews.com/20260919000042",
-     "source": "전자신문"
-    },
-    {
-     "title": "[AINEX 2026] 시스코 “AI 데이터센터 확장, 멀티플레인 네트워크가 핵심”",
-     "url": "https://www.etnews.com/20260919000041",
-     "source": "전자신문"
-    },
-    {
-     "title": "[AINEX 2026] KT “AIDC만 늘려선 AI 허브 한계…해저케이블 투자 병행해야”",
-     "url": "https://www.etnews.com/20260919000040",
-     "source": "전자신문"
-    },
-    {
-     "title": "[CAIO 서밋 2026] 사람-AI가 협업하는 시대…도입 목표·운영 설계·데이터 확보 중요",
-     "url": "https://www.etnews.com/20260920000055",
-     "source": "전자신문"
-    },
-    {
-     "title": "[AINEX 2026] 이경한 서울대 교수 “피지컬 AI 승부처는 로봇 아닌 네트워크 시스템”",
-     "url": "https://www.etnews.com/20260919000030",
-     "source": "전자신문"
-    },
-    {
-     "title": "피지컬 AI' 국제표준화, ETRI가 주도...핵심 의장단 진출",
-     "url": "https://www.etnews.com/20260920000012",
-     "source": "전자신문"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609201210_00000003",
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 1,
-    "items": 14,
-    "applied": false
-   },
-   "vs": 6,
-   "publishedAt": "2026-09-19 18:05"
-  },
-  {
-   "rank": 5,
-   "title": "앤트로픽, 상장 시점 10월→11월 미룰 듯… 3분기 실적 공개 후",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170526",
+   "rank": 3,
+   "title": "中 CXMT, 5세대 D램 양산 돌입… 삼전·닉스 추격",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170551",
    "source": "IT조선",
    "sources": [
-    "ZDNet Korea",
-    "디지털데일리",
-    "IT조선",
     "조선비즈",
-    "매일경제IT"
+    "IT조선",
+    "매일경제IT",
+    "디지털타임스",
+    "한국경제IT"
    ],
-   "outlets": 7,
-   "naverN": 7,
+   "outlets": 5,
+   "naverN": 0,
    "ownN": 5,
    "members": [
     {
-     "title": "앤트로픽, 11월 상장 계획…\"예상보다 한 달 미뤄\"",
-     "url": "https://zdnet.co.kr/view/?no=20260919113047",
-     "source": "ZDNet Korea"
+     "title": "CXMT, 드디어 5세대 D램 양산…삼전닉스 주도권 흔든다",
+     "url": "https://www.dt.co.kr/article/12084986?ref=naver",
+     "source": "디지털타임스"
     },
     {
-     "title": "앤트로픽, IPO 11월로 한 달 늦춰… 3분기 실적 들고 ‘2조달러 상장’ 도전",
-     "url": "https://n.news.naver.com/article/138/0002242060",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "앤트로픽, 상장 11월로 미룬다…투자자와 AI 속도조절론 논의",
-     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5220412",
+     "title": "중국 CXMT, 5세대 D램 공정 양산 돌입…삼전닉스 바짝 추격",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5220435",
      "source": "매일경제IT"
     },
     {
-     "title": "하반기 나스닥 데뷔 목표 앤트로픽…몸값 2700조원 넘본다",
-     "url": "https://www.mk.co.kr/article/12157141",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "앤트로픽, IPO 11월로 연기… 기업가치 2800조원 예상",
-     "url": "https://biz.chosun.com/international/international_general/2026/09/20/JIXCDGYMHBC7TDHDFTZWWAL2GM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "CXMT, 5세대 D램 공정 양산 돌입",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/20/3OLSKX3U25H7DL7PPQMQ3D22XU/",
      "source": "조선비즈"
+    },
+    {
+     "title": "“삼전닉스 추격한다”…CXMT, D램 미세공정 한단계 도약",
+     "url": "https://www.hankyung.com/article/202609206464i",
+     "source": "한국경제IT"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202609190810_00000051",
-   "placement": "home-featured",
+   "naverCluster": null,
+   "placement": "home-hero",
    "unconf": {
-    "sources": 1,
-    "items": 6,
+    "sources": 0,
+    "items": 5,
     "applied": false
    },
-   "vs": 6,
-   "publishedAt": "2026-09-19 15:10"
+   "vs": 6.2,
+   "publishedAt": "2026-09-20 16:48"
   },
   {
-   "rank": 6,
+   "rank": 4,
    "title": "카톡 '브랜드메시지' 스팸 신고 9.5만건…\"광고 동의 체계 점검해야\"",
    "url": "http://www.inews24.com/view/2007529",
    "source": "아이뉴스24",
@@ -433,54 +249,7 @@
    "publishedAt": "2026-09-20 12:16"
   },
   {
-   "rank": 7,
-   "title": "넥슨·엔씨 서브컬처 신작에 日TGS 인파... 대기줄만 2시간 이상[TGS 2026]",
-   "url": "https://www.etnews.com/20260919000011",
-   "source": "전자신문",
-   "sources": [
-    "디지털데일리",
-    "전자신문",
-    "머니투데이",
-    "데일리안"
-   ],
-   "outlets": 40,
-   "naverN": 40,
-   "ownN": 4,
-   "members": [
-    {
-     "title": "넷마블 부스 '오픈런'…시연 대기권 오전에 동났다 [TGS 2026]",
-     "url": "https://n.news.naver.com/mnews/article/119/0003134588",
-     "source": "데일리안"
-    },
-    {
-     "title": "[TGS 2026] 개장하자 120분 대기…엔씨 '아스오라' 시연 인파 몰린 이유",
-     "url": "https://n.news.naver.com/article/138/0002242052",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "[TGS 2026] 문 열자마자 넷마블로…시연 대기권 조기 마감",
-     "url": "https://n.news.naver.com/article/138/0002242066",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "넷마블 방준혁 \"지스타 패스 없다…준비 중인 게임이 일본향인 것뿐\"",
-     "url": "https://n.news.naver.com/mnews/article/008/0005416078",
-     "source": "머니투데이"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609171430_00000109",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 5.53,
-   "publishedAt": "2026-09-19 14:08"
-  },
-  {
-   "rank": 8,
+   "rank": 5,
    "title": "정부, 통신비 연체자 부담 낮춘다…수신 가능기간 ‘최대 21일→3개월’...",
    "url": "https://www.ddaily.co.kr/page/view/2026092011443434962",
    "source": "디지털데일리",
@@ -490,12 +259,18 @@
     "조선비즈",
     "매일경제IT",
     "뉴시스",
-    "연합뉴스IT"
+    "연합뉴스IT",
+    "ZDNet Korea"
    ],
    "outlets": 10,
    "naverN": 10,
-   "ownN": 6,
+   "ownN": 7,
    "members": [
+    {
+     "title": "추석 영상통화 공짜로...KTX 통신망 늘리고 연체 부담도 완화",
+     "url": "https://zdnet.co.kr/view/?no=20260920083140",
+     "source": "ZDNet Korea"
+    },
     {
      "title": "추석 연휴 영상통화 무료…지도앱서는 응급진료·무료주차장 한눈에",
      "url": "https://n.news.naver.com/mnews/article/003/0014202331",
@@ -527,159 +302,180 @@
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 6,
+    "items": 7,
     "applied": false
    },
    "vs": 5.53,
    "publishedAt": "2026-09-20 12:00"
   },
   {
-   "rank": 9,
-   "title": "D램값 뛰고 피지컬 AI 뜬다… 반도체 성장축 확대 [위클리 반도체]",
-   "url": "https://www.ddaily.co.kr/page/view/2026092000365588060",
-   "source": "디지털데일리",
+   "rank": 6,
+   "title": "상반기 임금 3.1% 오르긴 했는데⋯인상분 32%는 ' 반도체 성과급'",
+   "url": "http://www.inews24.com/view/2007582",
+   "source": "아이뉴스24",
    "sources": [
+    "전자신문",
     "연합뉴스IT",
-    "디지털데일리",
-    "머니투데이",
-    "한국경제IT",
-    "한국경제TV",
-    "이코노미스트",
-    "데일리안"
+    "디지털타임스",
+    "조선비즈",
+    "아이뉴스24",
+    "디지털데일리"
    ],
-   "outlets": 7,
-   "naverN": 5,
-   "ownN": 7,
+   "outlets": 6,
+   "naverN": 0,
+   "ownN": 6,
    "members": [
     {
-     "title": "애플도 삼성 앞에선 못 깎았다?…D램 몸값 어디까지",
-     "url": "https://n.news.naver.com/mnews/article/119/0003134603",
-     "source": "데일리안"
+     "title": "올 상반기 근로자 임금 3.1% 올랐지만 착시…반도체 '특별 성과급' 잔치 영향",
+     "url": "https://n.news.naver.com/article/138/0002242121",
+     "source": "디지털데일리"
     },
     {
-     "title": "AI 속도조절론에도…'계속 배우는 AI'가 메모리 반도체 판 키운다",
-     "url": "https://n.news.naver.com/mnews/article/008/0005416080",
-     "source": "머니투데이"
+     "title": "“올해 상반기 임금 총액 3.1% 인상”…인상분의 32.4%는 ‘전자·통신업...",
+     "url": "https://www.dt.co.kr/article/12084966?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "상반기 임금 3.1% 올랐지만…인상분 32%는 반도체 성과급 영향",
+     "url": "https://www.yna.co.kr/view/AKR20260920022200003?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "경총 “상반기 임금 총액 전년比 3.1% 인상…반도체 영향”",
+     "url": "https://www.etnews.com/20260920000065",
+     "source": "전자신문"
+    },
+    {
+     "title": "상반기 임금 3.1% 올라… 반도체 성과급발 ‘착시’",
+     "url": "https://biz.chosun.com/industry/company/2026/09/20/KXOORPIDURAMDNKSC54NTOBNWE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "ranking",
+   "unconf": {
+    "sources": 0,
+    "items": 6,
+    "applied": false
+   },
+   "vs": 5.53,
+   "publishedAt": "2026-09-20 18:18"
+  },
+  {
+   "rank": 7,
+   "title": "공장이 AI 데이터 학습장으로…제조업 피지컬 AI 경쟁 불붙는다",
+   "url": "https://zdnet.co.kr/view/?no=20260918224315",
+   "source": "ZDNet Korea",
+   "sources": [
+    "연합뉴스IT",
+    "디지털타임스",
+    "조선비즈",
+    "매일경제IT",
+    "디지털데일리",
+    "로봇신문",
+    "전자신문",
+    "ZDNet Korea",
+    "한국경제IT",
+    "IT조선"
+   ],
+   "outlets": 10,
+   "naverN": 5,
+   "ownN": 10,
+   "members": [
+    {
+     "title": "교육 AI 효과 내려면… “정답 주는 AI에서 생각 키우는 AI로”",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170440",
+     "source": "IT조선"
+    },
+    {
+     "title": "트럼프, 'AI 포스' 창설 예고…\"산업 성장 막지 않을 것\"",
+     "url": "https://zdnet.co.kr/view/?no=20260920071004",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "유베이스가 그리는 AI 시대 컨택센터 생태계는",
+     "url": "https://zdnet.co.kr/view/?no=20260919111953",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "화웨이, 새로운 AI 캠퍼스 시대를 여는 업그레이드된 Stellar AI Campus Network 공개",
+     "url": "https://zdnet.co.kr/view/?no=20260921031002",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "D램값 뛰고 피지컬 AI 뜬다…반도체 성장축 확대 [위클리반도체]",
+     "url": "https://n.news.naver.com/article/138/0002242082",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "D램값 뛰고 피지컬 AI 뜬다… 반도체 성장축 확대 [위클리 반도체]",
+     "url": "https://www.ddaily.co.kr/page/view/2026092000365588060",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "MS 수장 “더 강력해지는 AI, ‘미래의 자신’에 메시지 남겼다”",
+     "url": "https://www.dt.co.kr/article/12084850?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "[Books] 피지컬 AI 로봇",
+     "url": "https://www.irobotnews.com/news/articleView.html?idxno=48609",
+     "source": "로봇신문"
+    },
+    {
+     "title": "AI ‘속도조절’ 한목소리 냈다가…앤트로픽·오픈 AI ·구글·xAI 피소",
+     "url": "https://www.mk.co.kr/article/12157248",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "지브리 프사·숙제 대행에 지친 AI…‘인간다움’ 묻자 답했다 [Book]",
+     "url": "https://www.mk.co.kr/article/12157252",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "MS AI 수장, 오픈 AI '이상행동'에 \"심각한 상황… AI 갈수록 강력\"",
+     "url": "https://www.yna.co.kr/view/AKR20260919059000072?input=1195m",
+     "source": "연합뉴스IT"
     },
     {
      "title": "AI 속도조절론에도…\"올해 반도체 시장 1.6조달러로 성장 가속\"",
      "url": "https://www.yna.co.kr/view/AKR20260918167800003?input=1195m",
      "source": "연합뉴스IT"
-    },
-    {
-     "title": "이익률 1위 뺏긴 K-반도체, 중·미 협공에 '샌드위치' 위기",
-     "url": "https://n.news.naver.com/mnews/article/243/0000103287",
-     "source": "이코노미스트"
-    },
-    {
-     "title": "\"삼전닉스처럼 달라\" 난리…' 반도체 상소문' 마이크론도 비상 [김대영의...",
-     "url": "https://www.hankyung.com/article/202609205920g",
-     "source": "한국경제IT"
-    },
-    {
-     "title": "美·中 협공에 쫓기는 K-메모리…삼전·닉스 '비상등'",
-     "url": "https://n.news.naver.com/mnews/article/215/0001266552",
-     "source": "한국경제TV"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202609181630_00000238",
-   "placement": "featured",
+   "naverCluster": "c_202609201210_00000003",
+   "placement": "home-ranking",
    "unconf": {
-    "sources": 0,
-    "items": 4,
+    "sources": 2,
+    "items": 21,
     "applied": false
    },
-   "vs": 5.53,
-   "publishedAt": "2026-09-20 07:53"
+   "vs": 5.5,
+   "publishedAt": "2026-09-20 09:08"
   },
   {
-   "rank": 10,
-   "title": "[TGS 2026] 넥슨 부스 '구름관중'…신작 '파레이돌리아' 앞세워 퍼블릭 데이 달궜다",
-   "url": "https://n.news.naver.com/article/138/0002242069",
-   "source": "디지털데일리",
-   "sources": [
-    "디지털데일리",
-    "세계일보",
-    "아시아경제",
-    "머니투데이",
-    "비즈워치",
-    "뉴시스",
-    "뉴스1"
-   ],
-   "outlets": 19,
-   "naverN": 19,
-   "ownN": 7,
-   "members": [
-    {
-     "title": "TSG에 韓 서브컬처 태풍 분다…넥슨·NC·스마게 부스 '인산인해'",
-     "url": "https://n.news.naver.com/mnews/article/421/0009180142",
-     "source": "뉴스1"
-    },
-    {
-     "title": "\"150분 기다려도 좋다\"…'손맛·스토리'로 도쿄 홀린 K-게임[TGS 2026 下]",
-     "url": "https://n.news.naver.com/mnews/article/003/0014202043",
-     "source": "뉴시스"
-    },
-    {
-     "title": "[TGS 2026] 백영훈 스마일게이트 CBO \"애니 게임 키우고 日 직접 공략 강화\"",
-     "url": "https://n.news.naver.com/article/138/0002242057",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "사진으로 보는 TGS 2026…비즈니스 데이에도 90분 대기[겜플]",
-     "url": "https://n.news.naver.com/mnews/article/008/0005416070",
-     "source": "머니투데이"
-    },
-    {
-     "title": "TGS 빛낸 K게임…서브컬처 본고장에서 존재감 각인(종합)",
-     "url": "https://n.news.naver.com/mnews/article/008/0005416274",
-     "source": "머니투데이"
-    },
-    {
-     "title": "대기시간만 2시간'…K-게임 구름관중 모았다",
-     "url": "https://n.news.naver.com/mnews/article/648/0000050925",
-     "source": "비즈워치"
-    },
-    {
-     "title": "도쿄게임쇼 달군 K게임…韓 127개 게임사 총집결했다",
-     "url": "https://n.news.naver.com/mnews/article/022/0004160266",
-     "source": "세계일보"
-    },
-    {
-     "title": "서브컬처 본진 점령한 K게임…IP 확장으로 日팬심 잡았다[주말엔게임]",
-     "url": "https://n.news.naver.com/mnews/article/277/0005818685",
-     "source": "아시아경제"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609190840_00000035",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 5.42,
-   "publishedAt": "2026-09-19 17:30"
-  },
-  {
-   "rank": 11,
+   "rank": 8,
    "title": "구자은 \"AI로 새 고객가치 만들자\"",
    "url": "https://www.mk.co.kr/article/12157532",
    "source": "매일경제IT",
    "sources": [
+    "전자신문",
     "AI타임스",
     "디지털데일리",
     "아이뉴스24",
     "테크M",
+    "아시아경제",
     "IT데일리",
     "이데일리",
-    "매일경제IT"
+    "매일경제IT",
+    "파이낸셜뉴스",
+    "디지털타임스"
    ],
-   "outlets": 14,
-   "naverN": 14,
-   "ownN": 7,
+   "outlets": 15,
+   "naverN": 15,
+   "ownN": 11,
    "members": [
     {
      "title": "SKT, 선한 AI로 지속가능 미래 연결한다...21·22일 '사회적가치 페스타' 참가",
@@ -702,6 +498,16 @@
      "source": "디지털데일리"
     },
     {
+     "title": "SKT, AI 활용한 사회문제 해결 기술 선보인다",
+     "url": "https://n.news.naver.com/mnews/article/029/0003049041",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "SKT, '사회적가치 페스타' 참가…AI로 사회문제 해법 찾는다",
+     "url": "https://n.news.naver.com/mnews/article/277/0005818883",
+     "source": "아시아경제"
+    },
+    {
      "title": "SK SOVAC, 21~22일 '사회적가치 페스타' 공동 주관…'지역의 미래' 논의",
      "url": "http://www.inews24.com/view/2007500",
      "source": "아이뉴스24"
@@ -717,6 +523,16 @@
      "source": "이데일리"
     },
     {
+     "title": "[AINEX 2026] KT “AIDC만 늘려선 AI 허브 한계…해저케이블 투자 병행해야”",
+     "url": "https://www.etnews.com/20260919000040",
+     "source": "전자신문"
+    },
+    {
+     "title": "[AINEX 2026] SKT “6G, 연결 넘어 AI·컴퓨팅 통합 인프라로 진화”",
+     "url": "https://www.etnews.com/20260919000037",
+     "source": "전자신문"
+    },
+    {
      "title": "SK \"사회 문제 해결도 AI로\"...'사회적 가치 페스타' 참가",
      "url": "https://www.techm.kr/news/articleView.html?idxno=155416",
      "source": "테크M"
@@ -727,14 +543,155 @@
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 8,
+    "items": 10,
     "applied": false
    },
    "vs": 5.3,
    "publishedAt": "2026-09-20 17:20"
   },
   {
-   "rank": 12,
+   "rank": 9,
+   "title": "AI 도 노벨상 받을 수 있을까… 수상자들 “불가” vs “공유 가능”",
+   "url": "https://biz.chosun.com/science-chosun/science/2026/09/20/AXCPZNBAUNGYBCW2UUN67M3S3U/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선비즈",
+   "sources": [
+    "전자신문",
+    "연합뉴스IT",
+    "디지털타임스",
+    "아시아경제",
+    "조선비즈",
+    "뉴시스",
+    "SBS Biz"
+   ],
+   "outlets": 25,
+   "naverN": 25,
+   "ownN": 7,
+   "members": [
+    {
+     "title": "AI가 연구해도 노벨상 기준은 그대로…\"최초의 발견 본다\"",
+     "url": "https://n.news.naver.com/mnews/article/374/0000533939",
+     "source": "SBS Biz"
+    },
+    {
+     "title": "노벨상 수상자들 만난 구혁채 과기1차관…\"AI, 과학적 발견 도구로 활용\"",
+     "url": "https://n.news.naver.com/mnews/article/003/0014202131",
+     "source": "뉴시스"
+    },
+    {
+     "title": "노벨상 수상자 3명, ‘ AI 가 바꾸는 과학의 미래’ 논의",
+     "url": "https://www.dt.co.kr/article/12084957?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "노벨상 수상자 3인, 서울서 AI 시대 과학의 미래 논의",
+     "url": "https://n.news.naver.com/mnews/article/277/0005818819",
+     "source": "아시아경제"
+    },
+    {
+     "title": "\"AI가 과학의 정설 뒤집을 수도\"…노벨상 수상자 3인이 말한 발견의 미래",
+     "url": "https://n.news.naver.com/mnews/article/277/0005818899",
+     "source": "아시아경제"
+    },
+    {
+     "title": "노벨상 석학들 \" AI 가 과학 가속해도 인간 역할은 그대로\"",
+     "url": "https://www.yna.co.kr/view/AKR20260920041300017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "노벨상 수상자들이 한국 학생에 던진 질문…\"AI 시대 과학자란\"",
+     "url": "https://n.news.naver.com/mnews/article/001/0016323147",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "노벨상 수상자들이 본 AI 과학혁명…“결국 책임은 인간 몫”",
+     "url": "https://www.etnews.com/20260920000085",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609201010_00000001",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-20 19:39"
+  },
+  {
+   "rank": 10,
+   "title": "아이폰18 프로, 사자마자 ‘제멋대로 재부팅’… ‘패닉풀’ 속출에 소비자 분통",
+   "url": "https://biz.chosun.com/it-science/ict/2026/09/20/NVTNVH4C3ZBELJBARN4BEP6RZI/",
+   "source": "조선비즈",
+   "sources": [
+    "조선비즈",
+    "뉴스1",
+    "머니투데이",
+    "주간경향",
+    "아시아경제",
+    "한국일보",
+    "이데일리",
+    "서울경제"
+   ],
+   "outlets": 22,
+   "naverN": 22,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "\"200만원짜리 폰 맞아?\"…아이폰18 프로 '패닉풀'에 소비자 '패닉'",
+     "url": "https://n.news.naver.com/mnews/article/421/0009181393",
+     "source": "뉴스1"
+    },
+    {
+     "title": "아이폰18 프로 사자마자 재부팅 '패닉풀'…애플은 묵묵부답 [IT썰]",
+     "url": "https://n.news.naver.com/mnews/article/008/0005416317",
+     "source": "머니투데이"
+    },
+    {
+     "title": "“200만원 큰맘 먹고 샀는데” 하루 만에 ‘먹통’…아이폰18 프로, ‘패닉풀’ 잇따라",
+     "url": "https://n.news.naver.com/mnews/article/011/0004663819",
+     "source": "서울경제"
+    },
+    {
+     "title": "아이폰18 프로 출시 이틀 만에…\"쓰고 있는데 갑자기 재부팅\" 국내외 '패닉풀' 제보",
+     "url": "https://n.news.naver.com/mnews/article/277/0005818922",
+     "source": "아시아경제"
+    },
+    {
+     "title": "“200만원짜리가 갑자기 꺼진다”…아이폰18 프로 ‘패닉풀’ 논란",
+     "url": "https://n.news.naver.com/mnews/article/018/0006373174",
+     "source": "이데일리"
+    },
+    {
+     "title": "“페이스ID 쓰다 꺼졌다”…신형 아이폰 오류 잇따라",
+     "url": "https://n.news.naver.com/mnews/article/018/0006373137",
+     "source": "이데일리"
+    },
+    {
+     "title": "아이폰18 프로 출시 이틀만에 ‘패닉풀’···제멋대로 재부팅에 “200만원 폰 맞나”",
+     "url": "https://n.news.naver.com/mnews/article/033/0000052287",
+     "source": "주간경향"
+    },
+    {
+     "title": "아이폰18 프로 출시 이틀 만에... \"원인 알 수 없는 재부팅 속출\"",
+     "url": "https://n.news.naver.com/mnews/article/469/0000955130",
+     "source": "한국일보"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609201040_00000426",
+   "placement": "section",
+   "unconf": {
+    "sources": 1,
+    "items": 1,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-20 17:45"
+  },
+  {
+   "rank": 11,
    "title": "LG CNS, 최적화 경진대회 성료...55개국 958개팀 참가",
    "url": "https://www.techm.kr/news/articleView.html?idxno=155412",
    "source": "테크M",
@@ -744,12 +701,13 @@
     "조선비즈",
     "노컷뉴스",
     "파이낸셜뉴스",
+    "데일리안",
     "연합뉴스IT",
     "동아일보"
    ],
-   "outlets": 15,
-   "naverN": 15,
-   "ownN": 7,
+   "outlets": 16,
+   "naverN": 16,
+   "ownN": 8,
    "members": [
     {
      "title": "조선소 작업장 효율 높일 해법 겨뤘다…LG CNS, 글로벌 최적화 경연 성료",
@@ -760,6 +718,11 @@
      "title": "LG CNS '수학적최적화' 대회 대상은 일본팀…주제 뭐였길래",
      "url": "https://n.news.naver.com/mnews/article/079/0004191275",
      "source": "노컷뉴스"
+    },
+    {
+     "title": "LG CNS '수학 두뇌 대결'에 55개국 958개팀 몰렸다…일본팀 대상",
+     "url": "https://n.news.naver.com/mnews/article/119/0003134644",
+     "source": "데일리안"
     },
     {
      "title": "수학 두뇌 대결서 日개발자가 958팀 꺾고 우승…“문제 쪼개 풀었다”",
@@ -794,7 +757,127 @@
    "publishedAt": "2026-09-20 11:04"
   },
   {
+   "rank": 12,
+   "title": "AI 활용 연구, 최종 책임은 ‘연구자 몫’…AI 모델 등 공개 명시",
+   "url": "https://www.dt.co.kr/article/12084930?ref=naver",
+   "source": "디지털타임스",
+   "sources": [
+    "연합뉴스IT",
+    "디지털타임스",
+    "이데일리",
+    "KBS",
+    "아시아경제",
+    "서울신문",
+    "조선일보",
+    "노컷뉴스"
+   ],
+   "outlets": 15,
+   "naverN": 15,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "“국가 R&D서 인공지능 활용 연구 책임은 연구자가”, 정부 가이드라인 확정",
+     "url": "https://n.news.naver.com/mnews/article/056/0012260721",
+     "source": "KBS"
+    },
+    {
+     "title": "AI 심사 노린 '은닉 프롬프트'…연구부정행위로 명시",
+     "url": "https://n.news.naver.com/mnews/article/079/0004191282",
+     "source": "노컷뉴스"
+    },
+    {
+     "title": "‘AI로 연구’ 이것은 지켜라…‘국가R＆D AI 연구윤리 가이드’ 마련",
+     "url": "https://n.news.naver.com/mnews/article/081/0003681895",
+     "source": "서울신문"
+    },
+    {
+     "title": "\"AI는 보조 도구, 책임은 연구자에게\"…정부 연구윤리 가이드에 과학계 우려[과학을읽다]",
+     "url": "https://n.news.naver.com/mnews/article/277/0005818873",
+     "source": "아시아경제"
+    },
+    {
+     "title": "[AI픽] 국가 R&D서 AI는 '도구'…책임·권리는 연구자에게",
+     "url": "https://www.yna.co.kr/view/AKR20260920028900017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "“AI가 쓴 연구라도 책임은 연구자”…국가R&D에 AI 윤리 가이드",
+     "url": "https://n.news.naver.com/mnews/article/018/0006372871",
+     "source": "이데일리"
+    },
+    {
+     "title": "“논문 쓸 때 챗GPT 어디에 썼는지 공개 권고”…국가 R&D ‘AI 연구윤리 가이드’ 마련",
+     "url": "https://n.news.naver.com/mnews/article/023/0003999477",
+     "source": "조선일보"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609201210_00000008",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-20 13:04"
+  },
+  {
    "rank": 13,
+   "title": "김형태 \"시프트업 게임, 우리가 직접 판다…AI 영상은 죄송\"",
+   "url": "https://www.yna.co.kr/view/AKR20260918188800017?input=1195m",
+   "source": "연합뉴스IT",
+   "sources": [
+    "디지털데일리",
+    "연합뉴스IT",
+    "뉴스1",
+    "이데일리",
+    "서울경제",
+    "아이뉴스24"
+   ],
+   "outlets": 13,
+   "naverN": 13,
+   "ownN": 6,
+   "members": [
+    {
+     "title": "김형태 \"흥행 공식 안 통하는 시대…유저에 도전하는 게임 만들 것\"",
+     "url": "https://n.news.naver.com/mnews/article/421/0009181403",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[TGS 2026] 김형태 시프트업 대표 \"자체 퍼블리싱 1년 넘게 준비…잘하는 파트너와 협력\"",
+     "url": "https://n.news.naver.com/article/138/0002242113",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "김형태 시프트업 대표 “플랫폼 넓혀 신작 이용자 늘릴 것”",
+     "url": "https://n.news.naver.com/mnews/article/011/0004663734",
+     "source": "서울경제"
+    },
+    {
+     "title": "시프트업 김형태 \"변화하는 韓 게임 시장…이용자들이 바꾼 것\"[도쿄게임쇼 2026]",
+     "url": "https://n.news.naver.com/mnews/article/031/0001060005",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "김형태 시프트업 대표 “기존 흥행 공식 안 통해…새로운 게임 필요”",
+     "url": "https://n.news.naver.com/mnews/article/018/0006372948",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609201440_00000001",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-09-20 14:30"
+  },
+  {
+   "rank": 14,
    "title": "SKT·KT·LG유플러스 \"달리기·음악·공연...고객 행사 '우리가 최고'\"",
    "url": "https://www.techm.kr/news/articleView.html?idxno=155417",
    "source": "테크M",
@@ -848,43 +931,37 @@
    "publishedAt": "2026-09-20 13:00"
   },
   {
-   "rank": 14,
-   "title": "추석 이틀 더 쉬었더니 리조트 찾는 발길 2.7배 늘었다",
-   "url": "https://zdnet.co.kr/view/?no=20260919081735",
-   "source": "ZDNet Korea",
+   "rank": 15,
+   "title": "카포전' AI 승자는 KAIST",
+   "url": "https://www.hankyung.com/article/2026092063081",
+   "source": "한국경제IT",
    "sources": [
-    "ZDNet Korea",
-    "조선비즈",
-    "전자신문"
+    "IT데일리",
+    "한국경제IT"
    ],
-   "outlets": 4,
-   "naverN": 4,
-   "ownN": 3,
+   "outlets": 9,
+   "naverN": 9,
+   "ownN": 2,
    "members": [
     {
-     "title": "추석 연휴 늘자 국내여행도 2배로…리조트·관광·시장↑",
-     "url": "https://www.etnews.com/20260919000021",
-     "source": "전자신문"
-    },
-    {
-     "title": "추석 이틀 더 쉬니 국내여행 이동도 2배↑… 리조트·관광·시장 모두 증가",
-     "url": "https://biz.chosun.com/it-science/ict/2026/09/19/DY4ZVPJYCNDCBI7FLQQPADB5HI/",
-     "source": "조선비즈"
+     "title": "클로드에게 시켰더니 오픈AI 뚫렸다…AI 해킹 ‘전문가 영역’ 무너뜨리나",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=241739",
+     "source": "IT데일리"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202609190940_00000068",
-   "placement": "featured",
+   "naverCluster": "c_202609191830_00000835",
+   "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 3,
+    "items": 2,
     "applied": false
    },
    "vs": 5.2,
-   "publishedAt": "2026-09-19 08:17"
+   "publishedAt": "2026-09-20 18:07"
   },
   {
-   "rank": 15,
+   "rank": 16,
    "title": "한국전기연구원, 10월 ‘누리호 5차’에 국산 ‘탐사 로버’ 구동 부품 싣는다",
    "url": "https://biz.chosun.com/it-science/ict/2026/09/20/GEDCQV6MUBH6NOHIHQELGZXGUI/",
    "source": "조선비즈",
@@ -893,12 +970,30 @@
     "조선비즈",
     "아시아경제",
     "연합뉴스IT",
-    "헤럴드경제"
+    "뉴시스",
+    "매일신문",
+    "헤럴드경제",
+    "머니투데이"
    ],
-   "outlets": 10,
-   "naverN": 10,
-   "ownN": 5,
+   "outlets": 12,
+   "naverN": 12,
+   "ownN": 8,
    "members": [
+    {
+     "title": "한국전기연구원, 우주탐사 '로버' 구동 핵심부품 국산화 박차",
+     "url": "https://n.news.naver.com/mnews/article/003/0014203057",
+     "source": "뉴시스"
+    },
+    {
+     "title": "한국전기연구원, 10월 누리호 5차 발사 통해 국산 부품 우주환경 실증",
+     "url": "https://n.news.naver.com/mnews/article/088/0001029535",
+     "source": "매일신문"
+    },
+    {
+     "title": "전기연 \"2032년 달 표면에 '독자 기술' 탐사 로버 보낼 것\"",
+     "url": "https://n.news.naver.com/mnews/article/008/0005416282",
+     "source": "머니투데이"
+    },
     {
      "title": "달 탐사 로버 핵심 부품 국산화…누리호 5차로 첫 우주 실증",
      "url": "https://n.news.naver.com/mnews/article/277/0005818869",
@@ -932,7 +1027,96 @@
    "publishedAt": "2026-09-20 14:25"
   },
   {
-   "rank": 16,
+   "rank": 17,
+   "title": "LGU+, 10년 장기가입자 1100명 뮤지컬 초청",
+   "url": "https://n.news.naver.com/mnews/article/092/0002438149",
+   "source": "ZDNet Korea",
+   "sources": [
+    "이데일리",
+    "데일리안",
+    "ZDNet Korea",
+    "문화일보",
+    "뉴스1"
+   ],
+   "outlets": 10,
+   "naverN": 10,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "LGU+, 장기고객 위해 뮤지컬 통대관…주연 배우와 추첨 행사도",
+     "url": "https://n.news.naver.com/mnews/article/421/0009180878",
+     "source": "뉴스1"
+    },
+    {
+     "title": "LG유플러스, 장기고객 1100명과 뮤지컬 ‘디어 에반 핸슨’ 관람",
+     "url": "https://n.news.naver.com/mnews/article/119/0003134646",
+     "source": "데일리안"
+    },
+    {
+     "title": "LG유플러스, 장기 이용자 위한 뮤지컬 ‘디어 에반 핸슨’ 초청 행사 성료",
+     "url": "https://n.news.naver.com/mnews/article/021/0002820077",
+     "source": "문화일보"
+    },
+    {
+     "title": "LG유플러스, 장기고객 1100명 뮤지컬 ‘디어 에반 핸슨’ 초청…전관 대관",
+     "url": "https://n.news.naver.com/mnews/article/018/0006372797",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609200910_00000010",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 0,
+    "applied": false
+   },
+   "vs": 5.1,
+   "publishedAt": "2026-09-20 09:00"
+  },
+  {
+   "rank": 18,
+   "title": "구글에 불법촬영물 지워달랬더니…피해자 신상 유출, 정부는 피해 규모도 몰랐다",
+   "url": "https://n.news.naver.com/mnews/article/018/0006372898",
+   "source": "이데일리",
+   "sources": [
+    "뉴스1",
+    "파이낸셜뉴스",
+    "이데일리"
+   ],
+   "outlets": 6,
+   "naverN": 6,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "AI업계 번진 '속도조절론'…아이폰18 출격, 듀오는 아직[뉴스잇(IT)쥬]",
+     "url": "https://n.news.naver.com/mnews/article/421/0009181012",
+     "source": "뉴스1"
+    },
+    {
+     "title": "[단독]구글이 성범죄 피해정보 흘렸는데…정부는 피해 건수도 몰랐다",
+     "url": "https://n.news.naver.com/mnews/article/421/0009180743",
+     "source": "뉴스1"
+    },
+    {
+     "title": "촬영물 삭제 요청했더니 피해자 신상 노출…정부 피해 규모도 '제각각'",
+     "url": "https://n.news.naver.com/mnews/article/014/0005578417",
+     "source": "파이낸셜뉴스"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609201110_00000285",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 0,
+    "applied": false
+   },
+   "vs": 5.1,
+   "publishedAt": "2026-09-20 13:12"
+  },
+  {
+   "rank": 19,
    "title": "“태양전지에 초박막 입혔더니” 효율 33% 돌파”…대량생산 난제 해결",
    "url": "https://n.news.naver.com/mnews/article/016/0002699791",
    "source": "헤럴드경제",
@@ -968,218 +1152,123 @@
    "publishedAt": "2026-09-20 09:20"
   },
   {
-   "rank": 17,
-   "title": "LG전자, AI 데이터센터용 칠러 출시…효율 20% 높이고 설치는 빠르게",
-   "url": "http://www.inews24.com/view/2007499",
-   "source": "아이뉴스24",
+   "rank": 20,
+   "title": "\"150분 기다려도 좋다\"…'손맛·스토리'로 도쿄 홀린 K-게임[TGS 2026 下]",
+   "url": "https://n.news.naver.com/mnews/article/003/0014202043",
+   "source": "뉴시스",
    "sources": [
-    "IT조선",
-    "조선비즈",
-    "디지털데일리",
-    "연합뉴스IT",
-    "디지털타임스",
-    "아이뉴스24"
-   ],
-   "outlets": 6,
-   "naverN": 0,
-   "ownN": 6,
-   "members": [
-    {
-     "title": "LG전자, AI 데이터센터용 대용량 터보 칠러 출시",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170538",
-     "source": "IT조선"
-    },
-    {
-     "title": "LG전자, AI 데이터센터용 공랭식 터보 칠러 출시…\"레고처럼 조립\"",
-     "url": "https://n.news.naver.com/article/138/0002242098",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "LG전자, AI 데이터센터용 공랭식 터보 칠러 출시…\"레고처럼 조립\"",
-     "url": "https://www.ddaily.co.kr/page/view/2026092011533187427",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "“AI로 LG 트윈스 투수 제구력 분석”… LG, AI인재 아이디어 발굴",
-     "url": "https://www.dt.co.kr/article/12084886?ref=naver",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "“유지비↓·냉각성능↑”… LG전자, ‘AIDC 최적화’ 공랭식 터보 칠러...",
-     "url": "https://www.dt.co.kr/article/12084880?ref=naver",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "LG전자, AI 데이터센터용 터보 칠러 출시",
-     "url": "https://www.yna.co.kr/view/PYH20260920018500003?input=1196m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
-     "url": "https://www.yna.co.kr/view/AKR20260920014600003?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "LG전자, 냉각 효율 높인 AI 데이터센터용 터보 칠러 출시",
-     "url": "https://biz.chosun.com/it-science/ict/2026/09/20/LBVXR5WZHZARHFLIIOUSWCC7CI/",
-     "source": "조선비즈"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "featured",
-   "unconf": {
-    "sources": 0,
-    "items": 9,
-    "applied": false
-   },
-   "vs": 5.09,
-   "publishedAt": "2026-09-20 10:01"
-  },
-  {
-   "rank": 18,
-   "title": "AI 활용 연구, 최종 책임은 ‘연구자 몫’…AI 모델 등 공개 명시",
-   "url": "https://www.dt.co.kr/article/12084930?ref=naver",
-   "source": "디지털타임스",
-   "sources": [
-    "연합뉴스IT",
-    "디지털타임스",
-    "서울신문"
+    "뉴시스",
+    "머니투데이",
+    "전자신문",
+    "이코노미스트"
    ],
    "outlets": 12,
    "naverN": 12,
-   "ownN": 3,
+   "ownN": 4,
    "members": [
     {
-     "title": "‘AI로 연구’ 이것은 지켜라…‘국가R＆D AI 연구윤리 가이드’ 마련",
-     "url": "https://n.news.naver.com/mnews/article/081/0003681895",
-     "source": "서울신문"
+     "title": "TGS 빛낸 K게임…서브컬처 본고장에서 존재감 각인(종합)",
+     "url": "https://n.news.naver.com/mnews/article/008/0005416274",
+     "source": "머니투데이"
     },
     {
-     "title": "[AI픽] 국가 R&D서 AI는 '도구'…책임·권리는 연구자에게",
-     "url": "https://www.yna.co.kr/view/AKR20260920028900017?input=1195m",
-     "source": "연합뉴스IT"
+     "title": "K게임, 서브컬처 본진 공략…팬심 잡고 세계로",
+     "url": "https://n.news.naver.com/mnews/article/008/0005416386",
+     "source": "머니투데이"
+    },
+    {
+     "title": "도쿄게임쇼 총 출동한 국내 게임사들, 그 이유는?[서대문 오락실]",
+     "url": "https://n.news.naver.com/mnews/article/243/0000103316",
+     "source": "이코노미스트"
+    },
+    {
+     "title": "K게임, 日TGS서 새 IP 가능성 확인... 현장 열기 '글로벌 흥행'으로",
+     "url": "https://n.news.naver.com/mnews/article/030/0003468449",
+     "source": "전자신문"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202609201210_00000008",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 5,
-   "publishedAt": "2026-09-20 13:04"
-  },
-  {
-   "rank": 19,
-   "title": "삼성전자 초기업노조, ' 반도체 노조'로 재편…DX 간부 2명 불신임",
-   "url": "http://www.inews24.com/view/2007455",
-   "source": "아이뉴스24",
-   "sources": [
-    "디지털타임스",
-    "조선비즈",
-    "매일경제IT",
-    "연합뉴스IT",
-    "IT조선",
-    "아이뉴스24"
-   ],
-   "outlets": 6,
-   "naverN": 0,
-   "ownN": 6,
-   "members": [
-    {
-     "title": "삼성 초기업노조, 반도체 노조로 전환… DX 소속 떼낸다",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170525",
-     "source": "IT조선"
-    },
-    {
-     "title": "“독자 노선으로 간다” 삼전 초기업노조, 반도체 노조로 전환…DX 간부...",
-     "url": "https://www.dt.co.kr/article/12084818?ref=naver",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "삼성전자 초기업노조, 결국 ' 반도체 노조'로 전환…찬성 96.3%",
-     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5220261",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "삼성전자 초기업노조, ' 반도체 노조' 전환…DX 간부 2명 불신임",
-     "url": "https://www.yna.co.kr/view/AKR20260919026700003?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "삼성 초기업노조, ‘ 반도체 노조’ 전환… DX 간부 2명도 축출",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/09/19/36CWQ7MMJZG6NNZOMTQ4CWO4AU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "ranking",
-   "unconf": {
-    "sources": 0,
-    "items": 6,
-    "applied": false
-   },
-   "vs": 4.81,
-   "publishedAt": "2026-09-19 15:13"
-  },
-  {
-   "rank": 20,
-   "title": "LG유플러스, 장기고객 1100명 뮤지컬 ‘디어 에반 핸슨’ 초청…전관 대관",
-   "url": "https://n.news.naver.com/mnews/article/018/0006372797",
-   "source": "이데일리",
-   "sources": [
-    "이데일리",
-    "데일리안",
-    "뉴스1"
-   ],
-   "outlets": 9,
-   "naverN": 9,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "LGU+, 장기고객 위해 뮤지컬 통대관…주연 배우와 추첨 행사도",
-     "url": "https://n.news.naver.com/mnews/article/421/0009180878",
-     "source": "뉴스1"
-    },
-    {
-     "title": "LG유플러스, 장기고객 1100명과 뮤지컬 ‘디어 에반 핸슨’ 관람",
-     "url": "https://n.news.naver.com/mnews/article/119/0003134646",
-     "source": "데일리안"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609200910_00000010",
+   "naverCluster": "c_202609190840_00000035",
    "placement": "section",
    "unconf": {
     "sources": 0,
     "items": 0,
     "applied": false
    },
-   "vs": 4.75,
-   "publishedAt": "2026-09-20 09:57"
+   "vs": 4.98,
+   "publishedAt": "2026-09-20 09:00"
   },
   {
    "rank": 21,
+   "title": "폴드8은 초슬림·초경량 강점… 아이폰 듀오는 빛반사 억제",
+   "url": "https://www.mk.co.kr/article/12157538",
+   "source": "매일경제IT",
+   "sources": [
+    "전자신문",
+    "매일경제IT",
+    "중앙일보",
+    "이코노미스트"
+   ],
+   "outlets": 14,
+   "naverN": 14,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "“애플 폴더블 내놨는데, 삼성이 웃네요”…공개 이후 갤폴드8 판매량 늘어",
+     "url": "https://n.news.naver.com/mnews/article/009/0005737743",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "삼성이 먼저 접었는데…‘갬성’은 애플이 펼쳤다",
+     "url": "https://n.news.naver.com/mnews/article/243/0000103301",
+     "source": "이코노미스트"
+    },
+    {
+     "title": "아이폰 감성은 그대로, 화면은 두 배로…'아이폰 듀오'",
+     "url": "https://www.etnews.com/20260919000043",
+     "source": "전자신문"
+    },
+    {
+     "title": "애플 폴더블 기다렸는데 갤럭시 샀다…폴드8 판매 늘어난 이유",
+     "url": "https://n.news.naver.com/mnews/article/025/0003552567",
+     "source": "중앙일보"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609181520_00000006",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 4.85,
+   "publishedAt": "2026-09-20 17:23"
+  },
+  {
+   "rank": 22,
    "title": "SKT, 가을 맞아 러너 고객 혜택 확대",
    "url": "https://www.dt.co.kr/article/12084980?ref=naver",
    "source": "디지털타임스",
    "sources": [
     "디지털타임스",
+    "뉴스1",
     "ZDNet Korea",
     "파이낸셜뉴스"
    ],
    "outlets": 8,
    "naverN": 8,
-   "ownN": 3,
+   "ownN": 4,
    "members": [
     {
      "title": "SKT, 러너 500명 가민런코리아 참가권 쏜다",
      "url": "https://n.news.naver.com/mnews/article/092/0002438144",
      "source": "ZDNet Korea"
+    },
+    {
+     "title": "\"가민런코리아 초대권 드려요\"…SKT, 러너 고객 혜택 확대",
+     "url": "https://n.news.naver.com/mnews/article/421/0009180874",
+     "source": "뉴스1"
     },
     {
      "title": "SK텔레콤, '무도런'서 러너 3400명 만났다…'런메이트' 혜택 확대",
@@ -1199,7 +1288,37 @@
    "publishedAt": "2026-09-20 16:37"
   },
   {
-   "rank": 22,
+   "rank": 23,
+   "title": "의약품 합성 분자구조 손쉽게 한다' 합성 조절법 개발",
+   "url": "https://n.news.naver.com/mnews/article/014/0005578351",
+   "source": "파이낸셜뉴스",
+   "sources": [
+    "파이낸셜뉴스",
+    "데일리안"
+   ],
+   "outlets": 6,
+   "naverN": 6,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "KAIST, 잘 안 반응하는 물질로 의약품 핵심 구조 만든다",
+     "url": "https://n.news.naver.com/mnews/article/119/0003134700",
+     "source": "데일리안"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202609201210_00000022",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 0,
+    "applied": false
+   },
+   "vs": 4.75,
+   "publishedAt": "2026-09-20 12:00"
+  },
+  {
+   "rank": 24,
    "title": "앤트로픽, 자체 생물학 연구소 설립…시뮬레이션 넘어 실제 실험 진출",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=215504",
    "source": "AI타임스",
@@ -1233,72 +1352,6 @@
    },
    "vs": 4.5,
    "publishedAt": "2026-09-20 16:58"
-  },
-  {
-   "rank": 23,
-   "title": "샘 알트먼, 유엔 안보리서 'AI와 국제 안보' 브리핑 예정",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=215498",
-   "source": "AI타임스",
-   "sources": [
-    "연합뉴스IT",
-    "AI타임스",
-    "한국경제IT"
-   ],
-   "outlets": 3,
-   "naverN": 0,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "올트먼, 내주 유엔 안보리서 발표…\" AI 안전 표준 필요성 강조\"",
-     "url": "https://www.yna.co.kr/view/AKR20260919011400091?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "유엔 총회로 가는 ' AI 안전성'…올트먼, 안보리서 브리핑한다",
-     "url": "https://www.hankyung.com/article/2026092063891",
-     "source": "한국경제IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 0,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 4.5,
-   "publishedAt": "2026-09-20 11:30"
-  },
-  {
-   "rank": 24,
-   "title": "[TSG] 최휘영 장관 \"K- 게임 옛 위상 되찾도록 돕겠다\"",
-   "url": "https://www.dt.co.kr/article/12084987?ref=naver",
-   "source": "디지털타임스",
-   "sources": [
-    "디지털데일리",
-    "디지털타임스"
-   ],
-   "outlets": 5,
-   "naverN": 5,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "[TGS 2026] 최휘영 장관·국회 문체위, 韓게임 현장 점검…\"글로벌 경쟁 지원 약속\"",
-     "url": "https://n.news.naver.com/article/138/0002242119",
-     "source": "디지털데일리"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609201700_00000001",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 4.39,
-   "publishedAt": "2026-09-20 16:56"
   },
   {
    "rank": 25,
@@ -1344,182 +1397,102 @@
   },
   {
    "rank": 26,
-   "title": "레드브릭하우스 '보이드 다이버', 내년 1월 출시... TGS서 글로벌 공략 시동[TGS 2026]",
-   "url": "https://www.etnews.com/20260919000009",
-   "source": "전자신문",
+   "title": "LG전자, AI 데이터센터용 공랭식 터보 칠러 출시…\"레고처럼 조립\"",
+   "url": "https://www.ddaily.co.kr/page/view/2026092011533187427",
+   "source": "디지털데일리",
    "sources": [
-    "전자신문",
-    "테크M",
-    "디지털데일리"
+    "IT조선",
+    "조선비즈",
+    "디지털데일리",
+    "연합뉴스IT",
+    "디지털타임스",
+    "아이뉴스24"
    ],
-   "outlets": 4,
-   "naverN": 4,
-   "ownN": 3,
+   "outlets": 6,
+   "naverN": 0,
+   "ownN": 6,
    "members": [
     {
-     "title": "[TGS 2026] 레드브릭하우스 '보이드 다이버', 내년 1월 정식 출시 발표",
-     "url": "https://n.news.naver.com/article/138/0002242063",
-     "source": "디지털데일리"
+     "title": "LG전자, AI 데이터센터용 대용량 터보 칠러 출시",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170538",
+     "source": "IT조선"
     },
     {
-     "title": "[TGS 26] 위시리스트 25만 '보이드 다이버' 내년 1월 출격...김혁진 대표 \"日 시장 넘어 서구권 공략 강화할 것\"",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=155406",
-     "source": "테크M"
+     "title": "“AI로 LG 트윈스 투수 제구력 분석”… LG, AI인재 아이디어 발굴",
+     "url": "https://www.dt.co.kr/article/12084886?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“유지비↓·냉각성능↑”… LG전자, ‘AIDC 최적화’ 공랭식 터보 칠러...",
+     "url": "https://www.dt.co.kr/article/12084880?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "LG전자, AI 데이터센터용 칠러 출시…효율 20% 높이고 설치는 빠르게",
+     "url": "http://www.inews24.com/view/2007499",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "LG전자, AI 데이터센터용 터보 칠러 출시",
+     "url": "https://www.yna.co.kr/view/PYH20260920018500003?input=1196m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "LG전자, AI 데이터센터용 터보 칠러 출시…전력소비 30%↓",
+     "url": "https://www.yna.co.kr/view/AKR20260920014600003?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "LG전자, 냉각 효율 높인 AI 데이터센터용 터보 칠러 출시",
+     "url": "https://biz.chosun.com/it-science/ict/2026/09/20/LBVXR5WZHZARHFLIIOUSWCC7CI/",
+     "source": "조선비즈"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202609180850_00000001",
-   "placement": "section",
+   "naverCluster": null,
+   "placement": null,
    "unconf": {
     "sources": 0,
-    "items": 3,
+    "items": 9,
     "applied": false
    },
-   "vs": 4.21,
-   "publishedAt": "2026-09-19 12:42"
+   "vs": 4.15,
+   "publishedAt": "2026-09-20 12:00"
   },
   {
    "rank": 27,
-   "title": "[ 게임 위드인] K 게임 의 도쿄 게임 쇼 키워드는…모바일·서브컬처",
-   "url": "https://www.yna.co.kr/view/AKR20260918170400017?input=1195m",
-   "source": "연합뉴스IT",
+   "title": "대한약사회 “의약품 배송 전면 확대 철회하라”",
+   "url": "https://www.etnews.com/20260920000090",
+   "source": "전자신문",
    "sources": [
-    "전자신문",
     "연합뉴스IT",
-    "테크M",
-    "서울경제",
-    "뉴시스"
-   ],
-   "outlets": 5,
-   "naverN": 5,
-   "ownN": 5,
-   "members": [
-    {
-     "title": "\"콘솔·모바일·PC 벽 허문다\"…'경계 없는 게임' 시대 활짝[TGS 2026 上]",
-     "url": "https://n.news.naver.com/mnews/article/003/0014202006",
-     "source": "뉴시스"
-    },
-    {
-     "title": "도쿄게임쇼에서 주목 받은 ‘AI혁명’ [빛이 나는 비즈]",
-     "url": "https://n.news.naver.com/mnews/article/011/0004663551",
-     "source": "서울경제"
-    },
-    {
-     "title": "전남정보문화산업진흥원, '도쿄게임쇼 2026' 전남글로벌게임센터 공동관 운영",
-     "url": "https://www.etnews.com/20260918000122",
-     "source": "전자신문"
-    },
-    {
-     "title": "지스타, TGS서 '유미의 세포들'로 눈도장... 글로벌 게임쇼 협력 확대[TGS 2026]",
-     "url": "https://www.etnews.com/20260919000010",
-     "source": "전자신문"
-    },
-    {
-     "title": "[TGS 26] \"韓 대표 게임쇼 '지스타' 활성화 고민할 것\"...'게임人' 최휘영 장관이 도쿄게임쇼 찾은 이유",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=155418",
-     "source": "테크M"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609190620_00001930",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 4,
-    "applied": false
-   },
-   "vs": 4.18,
-   "publishedAt": "2026-09-19 11:00"
-  },
-  {
-   "rank": 28,
-   "title": "챗GPT 쓰면 네이버 떠난다더니…10명 중 9명 둘 다 썼다",
-   "url": "https://n.news.naver.com/mnews/article/022/0004160324",
-   "source": "세계일보",
-   "sources": [
-    "뉴스1",
-    "세계일보"
-   ],
-   "outlets": 4,
-   "naverN": 4,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "\"추석선물 뭐가 좋을까?\"…네이버 AI가 후기·예산 따져 골라준다",
-     "url": "https://n.news.naver.com/mnews/article/421/0009180000",
-     "source": "뉴스1"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609200430_00000502",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 0,
-    "applied": false
-   },
-   "vs": 4.1,
-   "publishedAt": "2026-09-19 13:16"
-  },
-  {
-   "rank": 29,
-   "title": "촬영물 삭제 요청했더니 피해자 신상 노출…정부 피해 규모도 '제각각'",
-   "url": "https://n.news.naver.com/mnews/article/014/0005578417",
-   "source": "파이낸셜뉴스",
-   "sources": [
-    "뉴스1",
-    "파이낸셜뉴스"
-   ],
-   "outlets": 5,
-   "naverN": 5,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "AI업계 번진 '속도조절론'…아이폰18 출격, 듀오는 아직[뉴스잇(IT)쥬]",
-     "url": "https://n.news.naver.com/mnews/article/421/0009181012",
-     "source": "뉴스1"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202609201110_00000285",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 0,
-    "applied": false
-   },
-   "vs": 4.05,
-   "publishedAt": "2026-09-20 13:24"
-  },
-  {
-   "rank": 30,
-   "title": "李 대통령, 청년의 날 기념식서 \"별도 청년 정책 전담 조직 신설 고민\"",
-   "url": "http://www.inews24.com/view/2007468",
-   "source": "아이뉴스24",
-   "sources": [
-    "매일경제IT",
-    "조선비즈",
+    "전자신문",
     "디지털타임스",
-    "아이뉴스24"
+    "매일경제IT"
    ],
    "outlets": 4,
    "naverN": 0,
    "ownN": 4,
    "members": [
     {
-     "title": "“청년 고통 개인 탓 아냐”…李대통령 “청년정책 전담 조직 신설 고민...",
-     "url": "https://www.dt.co.kr/article/12084827?ref=naver",
+     "title": "“약 배송 확대 정책 철회하라”…1만여 약사들 ‘전국 약사 총궐기대회...",
+     "url": "https://www.dt.co.kr/article/12084994?ref=naver",
      "source": "디지털타임스"
     },
     {
-     "title": "이재명 대통령 “별도 청년정책 전담 조직 신설 고민중”",
-     "url": "https://www.mk.co.kr/article/12157109",
+     "title": "[속보] ‘약 배송 확대 정책’에 뿔난 약사들…“건보재정, 민간 플랫폼...",
+     "url": "https://www.dt.co.kr/article/12084970?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "\"의약품 배송 확대 철회하라\"…광화문에 모인 전국 약사들",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5220416",
      "source": "매일경제IT"
     },
     {
-     "title": "李대통령 “청년 정책 총괄할 전담 조직 신설 고민”",
-     "url": "https://biz.chosun.com/policy/politics/president_office/2026/09/19/QLDZC5AOZRFDNI63J42F2VMDHM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
+     "title": "\"약 배송 확대 정책 철회하라\"…광화문에 모인 약사들",
+     "url": "https://www.yna.co.kr/view/AKR20260920026100017?input=1195m",
+     "source": "연합뉴스IT"
     }
    ],
    "scoop": null,
@@ -1527,11 +1500,101 @@
    "placement": "ranking",
    "unconf": {
     "sources": 0,
-    "items": 4,
+    "items": 5,
     "applied": false
    },
-   "vs": 4.01,
-   "publishedAt": "2026-09-19 18:05"
+   "vs": 3.8,
+   "publishedAt": "2026-09-20 16:07"
+  },
+  {
+   "rank": 28,
+   "title": "PC 넘어 AI 인프라로…그래픽카드 제조사들 AI 서버로 영토 확장 [GPU 시장 재편③]",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170496",
+   "source": "IT조선",
+   "sources": [
+    "전자신문",
+    "IT조선"
+   ],
+   "outlets": 2,
+   "naverN": 0,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "[ET시론]지속가능한 AI 인프라 경쟁력을 확보해야",
+     "url": "https://www.etnews.com/20260920000022",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 3.8,
+   "publishedAt": "2026-09-21 06:00"
+  },
+  {
+   "rank": 29,
+   "title": "샘 알트먼, 유엔 안보리서 'AI와 국제 안보' 브리핑 예정",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215498",
+   "source": "AI타임스",
+   "sources": [
+    "AI타임스",
+    "한국경제IT"
+   ],
+   "outlets": 2,
+   "naverN": 0,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "유엔 총회로 가는 ' AI 안전성'…올트먼, 안보리서 브리핑한다",
+     "url": "https://www.hankyung.com/article/2026092063891",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 3.8,
+   "publishedAt": "2026-09-20 11:30"
+  },
+  {
+   "rank": 30,
+   "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=215499",
+   "source": "AI타임스",
+   "sources": [
+    "AI타임스",
+    "IT조선"
+   ],
+   "outlets": 2,
+   "naverN": 0,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "트럼프 “AI 기술 불안은 사기”…AI 차르 임명 추진",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092170534",
+     "source": "IT조선"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 3.8,
+   "publishedAt": "2026-09-20 09:25"
   }
  ]
 }
