@@ -1,35 +1,75 @@
 {
- "updated": "2026-10-24 08:52",
+ "updated": "2026-10-24 18:31",
  "window_hours": 36,
  "articles": [
   {
    "rank": 1,
+   "title": "대한항공·아시아나 고객 정보 유출…협력사 '아마데우스' 해킹 피해",
+   "url": "https://www.ddaily.co.kr/page/view/2026102321552900048",
+   "source": "디지털데일리",
+   "sources": [
+    "전자신문",
+    "디지털데일리",
+    "ZDNet Korea"
+   ],
+   "outlets": 3,
+   "naverN": 0,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "대한항공·아시아나, 개인정보 유출 확인…IT 협력사가 '구멍'",
+     "url": "https://zdnet.co.kr/view/?no=20261024111553",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "대한항공·아시아나 고객정보 유출…글로벌 IT 협력사 해킹 피해",
+     "url": "https://www.etnews.com/20261023000363",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-hero",
+   "unconf": {
+    "sources": 2,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 7.6,
+   "publishedAt": "2026-10-23 21:56"
+  },
+  {
+   "rank": 2,
    "title": "\"아이폰·패드 따로 사는 것보다 낫다\"…애플 '아이폰 듀오' 국내 출시",
    "url": "https://zdnet.co.kr/view/?no=20261023110931",
    "source": "ZDNet Korea",
    "sources": [
-    "IT조선",
     "매일경제IT",
     "전자신문",
     "ZDNet Korea",
     "테크M",
     "디지털데일리",
+    "매경이코노미",
+    "IT조선",
     "IT데일리",
     "한국경제IT",
     "데일리안",
     "디지털타임스",
-    "이데일리",
+    "블로터",
     "뉴스1",
+    "이데일리",
     "중앙일보",
     "연합뉴스IT",
     "문화일보",
     "한국일보",
     "아이뉴스24",
-    "경기일보"
+    "경기일보",
+    "머니투데이",
+    "파이낸셜뉴스"
    ],
-   "outlets": 63,
-   "naverN": 63,
-   "ownN": 18,
+   "outlets": 73,
+   "naverN": 73,
+   "ownN": 22,
    "members": [
     {
      "title": "이통3사, 아이폰 듀오 정식 출시…사전예약 1분 만에 종료",
@@ -40,11 +80,6 @@
      "title": "[현장] “개인용은 프로, 업무용은 듀오”…애플 첫 폴더블 구매자들의 선택",
      "url": "https://www.itdaily.kr/news/articleView.html?idxno=242404",
      "source": "IT데일리"
-    },
-    {
-     "title": "‘삼성 패널’로 ‘삼성 폴더블폰’ 잡으러 간 아이폰 듀오",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172609",
-     "source": "IT조선"
     },
     {
      "title": "509만원에도 새벽부터 줄…아이폰 듀오 첫날 [가보니]",
@@ -90,6 +125,11 @@
      "title": "[르포] '329만원' 애플 첫 아이폰 듀오, 누가 샀나 봤더니…\"업무폰에 제...",
      "url": "https://www.ddaily.co.kr/page/view/2026102311043835616",
      "source": "디지털데일리"
+    },
+    {
+     "title": "“한 손 조작도, 멀티태스킹도 불편”…329만원짜리 첫 폴더블 아이폰...",
+     "url": "https://www.dt.co.kr/article/12090883?ref=naver",
+     "source": "디지털타임스"
     }
    ],
    "scoop": null,
@@ -97,50 +137,62 @@
    "placement": "hero",
    "unconf": {
     "sources": 1,
-    "items": 18,
+    "items": 20,
     "applied": false
    },
    "vs": 7,
    "publishedAt": "2026-10-23 11:45"
   },
   {
-   "rank": 2,
-   "title": "AI 에이전트도 '빨리빨리'...한국, 오픈AI '닷츠' 이용 세계 3위",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216560",
-   "source": "AI타임스",
+   "rank": 3,
+   "title": "삼성전자, 리센느와 폴드8 협업 예고⋯1030 여성 공략",
+   "url": "http://www.inews24.com/view/2018570",
+   "source": "아이뉴스24",
    "sources": [
+    "ZDNet Korea",
     "조선비즈",
-    "AI타임스",
-    "전자신문"
+    "연합뉴스IT",
+    "아이뉴스24",
+    "한경비즈니스"
    ],
-   "outlets": 10,
-   "naverN": 10,
-   "ownN": 3,
+   "outlets": 13,
+   "naverN": 13,
+   "ownN": 5,
    "members": [
     {
-     "title": "오픈AI “韓 '닷츠' 이용자 수 세계 3위…AI에 높은 관심”",
-     "url": "https://www.etnews.com/20261023000340",
-     "source": "전자신문"
+     "title": "아이폰 듀오가 갤럭시Z폴드8 판매량 늘렸나",
+     "url": "https://zdnet.co.kr/view/?no=20261023134410",
+     "source": "ZDNet Korea"
     },
     {
-     "title": "오픈AI “한국, 닷츠 이용 세계 3위”… ‘AI와 일하는 시대’ 청사진 제시",
-     "url": "https://biz.chosun.com/it-science/ict/2026/10/24/73EJ2F4SD5HGPOWU4VV7QRWFUI/",
+     "title": "삼성전자, 리센느와 손잡고 폴드8 여심 잡기 나선다",
+     "url": "https://www.yna.co.kr/view/AKR20261023169900017?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "갤럭시 Z 폴드8, 유럽 판매량 전작 대비 45% 증가",
+     "url": "https://biz.chosun.com/it-science/ict/2026/10/23/UTUUPROWZFGC3HEYDCIKGJSPHI/",
      "source": "조선비즈"
+    },
+    {
+     "title": "[속보]삼성전자 스마트폰, 유럽 시장서 '돌풍'",
+     "url": "https://n.news.naver.com/mnews/article/050/0000112289",
+     "source": "한경비즈니스"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202610221630_00000070",
+   "naverCluster": "c_202610230940_00000027",
    "placement": "home-hero",
    "unconf": {
-    "sources": 0,
-    "items": 3,
+    "sources": 1,
+    "items": 4,
     "applied": false
    },
-   "vs": 7,
-   "publishedAt": "2026-10-23 13:33"
+   "vs": 6.8,
+   "publishedAt": "2026-10-24 15:05"
   },
   {
-   "rank": 3,
+   "rank": 4,
    "title": "홍범식 LG U+ 대표 \"해킹 은폐 사실이면 책임\"…위약금 면제는 확답 회피",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=64202",
    "source": "디일렉",
@@ -150,15 +202,18 @@
     "디지털데일리",
     "ZDNet Korea",
     "블로터",
+    "KBS",
     "아이뉴스24",
     "IT데일리",
     "디일렉",
     "IT조선",
-    "매일경제IT"
+    "이데일리",
+    "매일경제IT",
+    "뉴스1"
    ],
    "outlets": 22,
    "naverN": 22,
-   "ownN": 10,
+   "ownN": 13,
    "members": [
     {
      "title": "[국감] 홍범식 LGU+ 대표 “사법 판단 따라 책임”…서버 폐기 의혹 질의",
@@ -171,9 +226,24 @@
      "source": "IT조선"
     },
     {
+     "title": "LGU+ 홍범식 “해킹 은폐 사실로 확인되면 합당한 책임 다 하겠다”",
+     "url": "https://n.news.naver.com/mnews/article/056/0012279722",
+     "source": "KBS"
+    },
+    {
      "title": "홍범식 LGU+ \"해킹 은폐 확인되면 합당한 책임지겠다”",
      "url": "https://zdnet.co.kr/view/?no=20261023174347",
      "source": "ZDNet Korea"
+    },
+    {
+     "title": "홍범식 LGU+ 대표, 위약금 면제 요구에 \"조사 결과 따라 합당한 책임지겠다\"",
+     "url": "https://n.news.naver.com/mnews/article/421/0009246881",
+     "source": "뉴스1"
+    },
+    {
+     "title": "\"위약금 면제하라\" 거듭 추궁…홍범식 \"사법판단 따를 것\"",
+     "url": "https://n.news.naver.com/mnews/article/421/0009247043",
+     "source": "뉴스1"
     },
     {
      "title": "LGU+ 홍범식 \"해킹 은폐 사실로 확인되면 합당한 책임\" [2026 국감]",
@@ -196,19 +266,14 @@
      "source": "아이뉴스24"
     },
     {
+     "title": "LG유플 대표 \"해킹 은폐 확인시 책임\"…위약금 면제엔 즉답 피해",
+     "url": "https://n.news.naver.com/mnews/article/018/0006394941",
+     "source": "이데일리"
+    },
+    {
      "title": "홍범식 LG유플러스 사장 “해킹 은폐 사실로 확인되면 합당한 책임 지겠다”",
      "url": "https://biz.chosun.com/it-science/ict/2026/10/23/N7YWSEWK4ZBVXBGBVZUN6VTONY/",
      "source": "조선비즈"
-    },
-    {
-     "title": "국감장 나온 홍범식 LG유플러스 사장 “해킹 은폐 확인되면 책임질 것”… 위약금 면제엔 확답 없어",
-     "url": "https://biz.chosun.com/it-science/ict/2026/10/23/FVNHW4HV4RCSJIVT3MGVBJUCKY/",
-     "source": "조선비즈"
-    },
-    {
-     "title": "[국감 26] 홍범식 LG유플러스 \"고의 은폐 확인되면 책임\"...'위약금 면제'엔 확답 회피",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=156460",
-     "source": "테크M"
     }
    ],
    "scoop": null,
@@ -223,37 +288,30 @@
    "publishedAt": "2026-10-23 16:44"
   },
   {
-   "rank": 4,
-   "title": "PHP투셸 사이버위기 경보 상향…점검만으론 못 막는다",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172697",
-   "source": "IT조선",
+   "rank": 5,
+   "title": "日소프트뱅크, PHP 보안 취약점에 긴급재난문자 중단",
+   "url": "https://zdnet.co.kr/view/?no=20261024052538",
+   "source": "ZDNet Korea",
    "sources": [
-    "디일렉",
     "데일리시큐",
     "ZDNet Korea",
-    "IT조선",
     "조선비즈",
-    "IT데일리",
     "한국경제IT",
-    "MBC",
-    "중앙일보",
-    "매일경제IT",
     "YTN",
-    "동아일보"
+    "MBN",
+    "아시아경제",
+    "파이낸셜뉴스",
+    "동행미디어 시대",
+    "경향신문"
    ],
-   "outlets": 124,
-   "naverN": 124,
-   "ownN": 12,
+   "outlets": 103,
+   "naverN": 103,
+   "ownN": 10,
    "members": [
     {
-     "title": "[인터뷰] “PHP투셸, 올해 최악의 취약점…수백만 사이트 위험 노출”",
-     "url": "https://www.itdaily.kr/news/articleView.html?idxno=242417",
-     "source": "IT데일리"
-    },
-    {
-     "title": "AI가 보안 허점 발견‥전 세계 해킹 비상",
-     "url": "https://n.news.naver.com/mnews/article/214/0001530863",
-     "source": "MBC"
+     "title": "PHP '보안 취약' 이틀째 비상…해킹될까 전 세계 초긴장",
+     "url": "https://n.news.naver.com/mnews/article/057/0001974764",
+     "source": "MBN"
     },
     {
      "title": "청와대, 'PHP 취약점' 대응에 민관군 긴급회의...\"원팀 신속 조치\"",
@@ -261,9 +319,9 @@
      "source": "YTN"
     },
     {
-     "title": "日소프트뱅크, PHP 보안 취약점에 긴급재난문자 중단",
-     "url": "https://zdnet.co.kr/view/?no=20261024052538",
-     "source": "ZDNet Korea"
+     "title": "행안부 “PHP 보안 패치 적용 안내” 지자체·공공기관에 긴급 공문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003478118",
+     "source": "경향신문"
     },
     {
      "title": "개인정보위, PHP 보안 취약점 악용한 대규모 개인정보 유출 위험 경고",
@@ -271,24 +329,14 @@
      "source": "데일리시큐"
     },
     {
-     "title": "PHP·Node.js 보안 취약점 여파에 사이버위기 경보 상향...넥시얼, 무료 진단 지원",
-     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209029",
-     "source": "데일리시큐"
+     "title": "지자체 서버, 해킹 표적 될라…'웹 제작 언어' 보안 빨간불",
+     "url": "https://n.news.naver.com/mnews/article/417/0001161912",
+     "source": "동행미디어 시대"
     },
     {
-     "title": "정부, ‘PHP 해킹’ 우려에 위기 경보 격상… 민관군 긴급 회의도",
-     "url": "https://n.news.naver.com/mnews/article/020/0003757112",
-     "source": "동아일보"
-    },
-    {
-     "title": "\"로그인 없이 뚫린다\" PHP 결함에 전 세계 비상",
-     "url": "https://www.thelec.kr/news/articleView.html?idxno=64158",
-     "source": "디일렉"
-    },
-    {
-     "title": "전세계 웹페이지 70% 보안결함 찾아낸 AI…해커 돌변땐 사이버재난",
-     "url": "https://n.news.naver.com/mnews/article/009/0005752803",
-     "source": "매일경제IT"
+     "title": "AI가 찾아낸 인터넷의 치명적 약점…전 세계 비상[과학을읽다]",
+     "url": "https://n.news.naver.com/mnews/article/277/0005832401",
+     "source": "아시아경제"
     },
     {
      "title": "“PHP 해킹 피해 아직 없어… 취약점 악용에 시간 걸릴 듯”",
@@ -296,9 +344,9 @@
      "source": "조선비즈"
     },
     {
-     "title": "전 세계 웹사이트 보안 비상…치명적 해킹 구멍, AI가 찾다",
-     "url": "https://n.news.naver.com/mnews/article/025/0003559941",
-     "source": "중앙일보"
+     "title": "\"PHP 패치 후에는 서버 재시작 필수…업데이트 못하면 사이트 닫아야\"",
+     "url": "https://n.news.naver.com/mnews/article/014/0005593463",
+     "source": "파이낸셜뉴스"
     },
     {
      "title": "[천자칼럼] PHP 결함 찾아낸 AI",
@@ -308,87 +356,47 @@
    ],
    "scoop": null,
    "naverCluster": "c_202610211750_00000060",
-   "placement": "home-featured",
+   "placement": "featured",
    "unconf": {
-    "sources": 2,
-    "items": 8,
+    "sources": 1,
+    "items": 4,
     "applied": false
    },
    "vs": 6,
-   "publishedAt": "2026-10-23 18:15"
-  },
-  {
-   "rank": 5,
-   "title": "‘AI 거품론’에…SK하이닉스, 솔리다임 IPO 접은 속내는",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172646",
-   "source": "IT조선",
-   "sources": [
-    "매일경제IT",
-    "ZDNet Korea",
-    "IT조선",
-    "한국경제IT",
-    "블로터",
-    "디지털데일리",
-    "AI타임스"
-   ],
-   "outlets": 7,
-   "naverN": 0,
-   "ownN": 7,
-   "members": [
-    {
-     "title": "SK하이닉스, 미국 손자회사 솔리다임 IPO 검토 중단",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=216601",
-     "source": "AI타임스"
-    },
-    {
-     "title": "SK하이닉스, 美 솔리다임 IPO 검토 중단…“시장 여건 고려”",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172623",
-     "source": "IT조선"
-    },
-    {
-     "title": "솔리다임 IPO 중단에도 하이닉스 약세… 美기술주 급락 부담",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172629",
-     "source": "IT조선"
-    },
-    {
-     "title": "[1보] SK하이닉스 \"솔리다임 프리IPO·IPO 검토 중단\"",
-     "url": "https://zdnet.co.kr/view/?no=20261023073816",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "SK하이닉스, 솔리다임 IPO 접었다…키움證 “반도체 투자심리 개선 기대”",
-     "url": "https://n.news.naver.com/article/138/0002245762",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "솔리다임 IPO 딜레마 빠진 SK하이닉스",
-     "url": "https://www.mk.co.kr/article/12177796",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "솔리다임 IPO 접은 SK하이닉스…美 낸드 투자 재원 확보 '새 과제’",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=676524",
-     "source": "블로터"
-    },
-    {
-     "title": "SK하이닉스, 솔리다임 IPO 검토 중단에도…프리장서 120만원 붕괴",
-     "url": "https://www.hankyung.com/article/2026102300706",
-     "source": "한국경제IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 0,
-    "items": 9,
-    "applied": false
-   },
-   "vs": 6,
-   "publishedAt": "2026-10-23 17:00"
+   "publishedAt": "2026-10-24 06:00"
   },
   {
    "rank": 6,
+   "title": "\"조작인 줄 알았는데 진짜 깨졌다\"…아이폰 듀오, 6시간만에 '크랙게이트'",
+   "url": "https://n.news.naver.com/article/138/0002245876",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리",
+    "머니투데이"
+   ],
+   "outlets": 4,
+   "naverN": 4,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "\"쩍\" 하더니 깨졌다…300만원대 아이폰 듀오 사자마자 박살[IT썰]",
+     "url": "https://n.news.naver.com/mnews/article/008/0005431047",
+     "source": "머니투데이"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202610241000_00000004",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 1,
+    "applied": false
+   },
+   "vs": 5.65,
+   "publishedAt": "2026-10-24 10:37"
+  },
+  {
+   "rank": 7,
    "title": "네이버, '통합교섭' 갈등서 일단 승기⋯노조 \"중노위에 재심 청구\"",
    "url": "http://www.inews24.com/view/2018467",
    "source": "아이뉴스24",
@@ -426,22 +434,117 @@
    ],
    "scoop": null,
    "naverCluster": "c_202610221000_00000003",
-   "placement": "home-ranking",
+   "placement": "section",
    "unconf": {
     "sources": 1,
     "items": 2,
     "applied": false
    },
-   "vs": 5.88,
+   "vs": 5.53,
    "publishedAt": "2026-10-23 16:35"
   },
   {
-   "rank": 7,
+   "rank": 8,
+   "title": "배경훈 부총리 “PHP 문제 넘어 근본 대책 필요…범부처 종합 대책·조직 개편 검토”",
+   "url": "https://biz.chosun.com/it-science/ict/2026/10/23/AWDMKTDLRNHBPJZYMTYN3VZPDI/",
+   "source": "조선비즈",
+   "sources": [
+    "조선비즈",
+    "디지털데일리",
+    "아이뉴스24",
+    "서울신문",
+    "데일리안",
+    "뉴시스",
+    "MBC",
+    "이데일리",
+    "연합뉴스TV",
+    "YTN",
+    "서울경제",
+    "머니투데이",
+    "한겨레"
+   ],
+   "outlets": 26,
+   "naverN": 26,
+   "ownN": 13,
+   "members": [
+    {
+     "title": "배경훈 \"PHP 취약점 계기로 범부처 종합대책 마련할 것\"",
+     "url": "https://n.news.naver.com/mnews/article/214/0001531002",
+     "source": "MBC"
+    },
+    {
+     "title": "배경훈 \"PHP 보안 취약 계기...범부처 종합대책 마련 필요\"",
+     "url": "https://n.news.naver.com/mnews/article/052/0002422748",
+     "source": "YTN"
+    },
+    {
+     "title": "PHP 취약점 사고 우려에…배경훈 부총리 \"범부처 사이버보안 종합대책 내놓겠다\"",
+     "url": "https://n.news.naver.com/mnews/article/003/0014274303",
+     "source": "뉴시스"
+    },
+    {
+     "title": "배경훈 “PHP 취약점 대응 범부처 종합대책 마련…조직 구성 검토”[2026 국감]",
+     "url": "https://n.news.naver.com/mnews/article/119/0003146279",
+     "source": "데일리안"
+    },
+    {
+     "title": "PHP 취약점 파장 계속…배경훈 부총리 \"범부처 대책 마련하겠다\" [2026 국감]",
+     "url": "https://n.news.naver.com/article/138/0002245794",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "\"전 세계 PHP난린데 한국은 안일\"…국감서 與野 한목소리 질타",
+     "url": "https://n.news.naver.com/mnews/article/008/0005430709",
+     "source": "머니투데이"
+    },
+    {
+     "title": "PHP 취약점 계기…배경훈 “국가 사이버 보안 컨트롤타워 체계 정비 검토”",
+     "url": "https://n.news.naver.com/mnews/article/011/0004674636",
+     "source": "서울경제"
+    },
+    {
+     "title": "배경훈 “PHP 취약점 계기 범부처 종합대책 마련할 것”",
+     "url": "https://n.news.naver.com/mnews/article/081/0003691948",
+     "source": "서울신문"
+    },
+    {
+     "title": "[2026 국감] \"PHP 취약점 금융 전반 조사해야\"…배경훈 \"범부처 종합대책...",
+     "url": "http://www.inews24.com/view/2018327",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "KISA \"PHP 취약 버전 사용 현황, 아직 파악 못 해\"[2026 국감]",
+     "url": "https://n.news.naver.com/mnews/article/031/0001068769",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "PHP 대응 질타…정부 \"범부처 종합대책 마련\"",
+     "url": "https://n.news.naver.com/mnews/article/422/0000918913",
+     "source": "연합뉴스TV"
+    },
+    {
+     "title": "野 \"PHP 해킹 대응 늑장\"…과기부 \"20분 만에 보안 공지\" 반박",
+     "url": "https://n.news.naver.com/mnews/article/018/0006394637",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202610231320_00000001",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 5.42,
+   "publishedAt": "2026-10-23 14:25"
+  },
+  {
+   "rank": 9,
    "title": "안랩, 테크 서밋 2026 개최...고객사 AI 보안 역량 강화",
    "url": "https://www.dailysecu.com/news/articleView.html?idxno=209019",
    "source": "데일리시큐",
    "sources": [
-    "벤처스퀘어",
     "조선비즈",
     "데일리시큐",
     "이데일리",
@@ -449,17 +552,12 @@
    ],
    "outlets": 10,
    "naverN": 10,
-   "ownN": 5,
+   "ownN": 4,
    "members": [
     {
      "title": "안랩 테크서밋 26 개최…고객사 'AI 보안' 강조",
      "url": "https://n.news.naver.com/article/138/0002245737",
      "source": "디지털데일리"
-    },
-    {
-     "title": "젠스파크, ‘CMS 2026’서 AI 기반 콘텐츠 마케팅 협업 전략 공개",
-     "url": "https://www.venturesquare.net/1122094/",
-     "source": "벤처스퀘어"
     },
     {
      "title": "안랩, 테크 서밋서 AI 네이티브 보안 전략 공유",
@@ -477,136 +575,11 @@
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 4,
+    "items": 3,
     "applied": false
    },
    "vs": 5.42,
    "publishedAt": "2026-10-23 13:51"
-  },
-  {
-   "rank": 8,
-   "title": "대한항공·아시아나 고객 정보 유출…협력사 '아마데우스' 해킹 피해",
-   "url": "https://www.ddaily.co.kr/page/view/2026102321552900048",
-   "source": "디지털데일리",
-   "sources": [
-    "전자신문",
-    "디지털데일리"
-   ],
-   "outlets": 2,
-   "naverN": 0,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "대한항공·아시아나 고객정보 유출…글로벌 IT 협력사 해킹 피해",
-     "url": "https://www.etnews.com/20261023000363",
-     "source": "전자신문"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 1,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 5.4,
-   "publishedAt": "2026-10-23 21:56"
-  },
-  {
-   "rank": 9,
-   "title": "[2026 국감] \"PHP 취약점 금융 전반 조사해야\"…배경훈 \"범부처 종합대책...",
-   "url": "http://www.inews24.com/view/2018327",
-   "source": "아이뉴스24",
-   "sources": [
-    "디일렉",
-    "ZDNet Korea",
-    "데일리시큐",
-    "조선비즈",
-    "디지털데일리",
-    "아이뉴스24",
-    "서울신문",
-    "데일리안",
-    "이데일리",
-    "연합뉴스TV",
-    "YTN",
-    "머니투데이"
-   ],
-   "outlets": 26,
-   "naverN": 26,
-   "ownN": 12,
-   "members": [
-    {
-     "title": "배경훈 \"PHP 보안 취약 계기...범부처 종합대책 마련 필요\"",
-     "url": "https://n.news.naver.com/mnews/article/052/0002422748",
-     "source": "YTN"
-    },
-    {
-     "title": "엔키화이트햇, 치명적 보안 취약점 'PHP2shell' 진단 스캐너 배포",
-     "url": "https://zdnet.co.kr/view/?no=20261023110724",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "파이오링크, PHP 치명적 취약점 ‘PHP2Shell’ 긴급 점검 페이지 공개",
-     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209015",
-     "source": "데일리시큐"
-    },
-    {
-     "title": "엔키화이트햇, PHP2Shell 취약점 무료 진단 스캐너·분석 보고서 공개",
-     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209014",
-     "source": "데일리시큐"
-    },
-    {
-     "title": "배경훈 “PHP 취약점 대응 범부처 종합대책 마련…조직 구성 검토”[2026 국감]",
-     "url": "https://n.news.naver.com/mnews/article/119/0003146279",
-     "source": "데일리안"
-    },
-    {
-     "title": "엔키화이트햇, 'PHP2Shell' 진단 스캐너 무상 공개",
-     "url": "https://www.thelec.kr/news/articleView.html?idxno=64169",
-     "source": "디일렉"
-    },
-    {
-     "title": "PHP 취약점 파장 계속…배경훈 부총리 \"범부처 대책 마련하겠다\" [2026 국감]",
-     "url": "https://n.news.naver.com/article/138/0002245794",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "\"전 세계 PHP난린데 한국은 안일\"…국감서 與野 한목소리 질타",
-     "url": "https://n.news.naver.com/mnews/article/008/0005430709",
-     "source": "머니투데이"
-    },
-    {
-     "title": "배경훈 “PHP 취약점 계기 범부처 종합대책 마련할 것”",
-     "url": "https://n.news.naver.com/mnews/article/081/0003691948",
-     "source": "서울신문"
-    },
-    {
-     "title": "PHP 대응 질타…정부 \"범부처 종합대책 마련\"",
-     "url": "https://n.news.naver.com/mnews/article/422/0000918913",
-     "source": "연합뉴스TV"
-    },
-    {
-     "title": "野 \"PHP 해킹 대응 늑장\"…과기부 \"20분 만에 보안 공지\" 반박",
-     "url": "https://n.news.naver.com/mnews/article/018/0006394637",
-     "source": "이데일리"
-    },
-    {
-     "title": "배경훈 부총리 “PHP 문제 넘어 근본 대책 필요…범부처 종합 대책·조직 개편 검토”",
-     "url": "https://biz.chosun.com/it-science/ict/2026/10/23/AWDMKTDLRNHBPJZYMTYN3VZPDI/",
-     "source": "조선비즈"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202610231320_00000001",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 7,
-    "applied": false
-   },
-   "vs": 5.3,
-   "publishedAt": "2026-10-23 14:08"
   },
   {
    "rank": 10,
@@ -652,6 +625,88 @@
   },
   {
    "rank": 11,
+   "title": "PHP 취약점 악용한 공격 계획 포착…북한 해킹조직 연계 여부 주목",
+   "url": "https://www.etnews.com/20261024000009",
+   "source": "전자신문",
+   "sources": [
+    "디일렉",
+    "ZDNet Korea",
+    "데일리시큐",
+    "조선비즈",
+    "전자신문",
+    "한국경제IT",
+    "이데일리",
+    "중앙일보",
+    "연합뉴스IT"
+   ],
+   "outlets": 54,
+   "naverN": 54,
+   "ownN": 9,
+   "members": [
+    {
+     "title": "엔키화이트햇, 치명적 보안 취약점 'PHP2shell' 진단 스캐너 배포",
+     "url": "https://zdnet.co.kr/view/?no=20261023110724",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "파이오링크, PHP 치명적 취약점 ‘PHP2Shell’ 긴급 점검 페이지 공개",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209015",
+     "source": "데일리시큐"
+    },
+    {
+     "title": "엔키화이트햇, PHP2Shell 취약점 무료 진단 스캐너·분석 보고서 공개",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209014",
+     "source": "데일리시큐"
+    },
+    {
+     "title": "북한 연계 의심 해킹조직, ‘PHP2Shell’ 공격 준비 정황 포착…한국 정부·금융기관도 표적 후보",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209035",
+     "source": "데일리시큐"
+    },
+    {
+     "title": "엔키화이트햇, 'PHP2Shell' 진단 스캐너 무상 공개",
+     "url": "https://www.thelec.kr/news/articleView.html?idxno=64169",
+     "source": "디일렉"
+    },
+    {
+     "title": "PHP 취약' 공개 나흘전부터 공격 포착…\"해킹 시도 수백만건\"",
+     "url": "https://n.news.naver.com/mnews/article/001/0016395783",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "北 라자루스 연계 의심 해커, PHP 취약점 공격 준비…한국도 표적",
+     "url": "https://n.news.naver.com/mnews/article/018/0006395211",
+     "source": "이데일리"
+    },
+    {
+     "title": "“20년 숨은 보안 결함도 AI가 찾는다”… PHP 사태로 본 ‘버그마게돈’ 공포",
+     "url": "https://biz.chosun.com/it-science/ict/2026/10/24/PZJU3OZLDVEM3JZTRO4R6QNXF4/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "패치 나오기 나흘 전부터 공격…PHP 허점이 일깨운 것들",
+     "url": "https://n.news.naver.com/mnews/article/025/0003560029",
+     "source": "중앙일보"
+    },
+    {
+     "title": "北 연계 의심 해킹조직, 'PHP 취약점' 공격 준비 정황…정부·금융 타깃",
+     "url": "https://www.hankyung.com/article/2026102423207",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202610241010_00000002",
+   "placement": "section",
+   "unconf": {
+    "sources": 3,
+    "items": 8,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-10-24 11:31"
+  },
+  {
+   "rank": 12,
    "title": "늦여름 비구름 200㎞ 더 북상...'폭우·폭염 함께 올 수 있다'",
    "url": "https://www.etnews.com/20261023000273",
    "source": "전자신문",
@@ -666,11 +721,12 @@
     "아시아경제",
     "KBS",
     "이데일리",
-    "뉴시스"
+    "뉴시스",
+    "아이뉴스24"
    ],
    "outlets": 25,
    "naverN": 25,
-   "ownN": 11,
+   "ownN": 12,
    "members": [
     {
      "title": "9월 비구름 20년 새 200km 북상…한반도 폭우·무더위 겹칠 위험 커져",
@@ -701,6 +757,11 @@
      "title": "한반도 늦여름 '폭우·폭염' 동시 발생 위험 경고",
      "url": "https://n.news.naver.com/mnews/article/277/0005832501",
      "source": "아시아경제"
+    },
+    {
+     "title": "조금씩 북상하는 '여름 전선'…한반도 여름 폭우·폭염 왔다 [지금은 기후위기]",
+     "url": "https://n.news.naver.com/mnews/article/031/0001068625",
+     "source": "아이뉴스24"
     },
     {
      "title": "늦여름 200㎞ 넘게 더 올라온 비구름…'폭우·폭염' 동시 위험",
@@ -740,12 +801,11 @@
    "publishedAt": "2026-10-23 15:21"
   },
   {
-   "rank": 12,
+   "rank": 13,
    "title": "AWS·업스테이지, AI 성과 창출 조건 제시…목표·연동·신뢰 강조",
    "url": "https://www.itdaily.kr/news/articleView.html?idxno=242408",
    "source": "IT데일리",
    "sources": [
-    "한국경제IT",
     "IT데일리",
     "디지털데일리",
     "연합뉴스IT",
@@ -753,7 +813,7 @@
    ],
    "outlets": 11,
    "naverN": 11,
-   "ownN": 5,
+   "ownN": 4,
    "members": [
     {
      "title": "“AI 도입과 성과 간극 좁혀야”…AWS, 전사적 AI 활용 기반 강조",
@@ -774,11 +834,6 @@
      "title": "AWS \"기업 AI 전략, 도입 넘어 실전 업무 성과로 확장\"",
      "url": "https://www.yna.co.kr/view/AKR20261023102300017?input=1195m",
      "source": "연합뉴스IT"
-    },
-    {
-     "title": "AI 도입 넘어 성과 창출로…기업 AX 전환의 핵심 과제는?",
-     "url": "https://magazine.hankyung.com/business/article/202610229144b",
-     "source": "한국경제IT"
     }
    ],
    "scoop": null,
@@ -786,14 +841,14 @@
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 6,
+    "items": 5,
     "applied": false
    },
    "vs": 5.2,
    "publishedAt": "2026-10-23 16:18"
   },
   {
-   "rank": 13,
+   "rank": 14,
    "title": "정석근 SK하이퍼 대표 \"연말 첫 투자 유치 추진\"",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=64194",
    "source": "디일렉",
@@ -847,43 +902,37 @@
    "publishedAt": "2026-10-23 16:36"
   },
   {
-   "rank": 14,
-   "title": "아이폰 듀오가 갤럭시Z폴드8 판매량 늘렸나",
-   "url": "https://zdnet.co.kr/view/?no=20261023134410",
-   "source": "ZDNet Korea",
+   "rank": 15,
+   "title": "“내 사진 취향은 어떤 체질?” 캐논 ‘사진 한방당’ 팝업 가보니",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092172715",
+   "source": "IT조선",
    "sources": [
-    "ZDNet Korea",
-    "조선비즈",
-    "한경비즈니스"
+    "디지털데일리",
+    "IT조선"
    ],
-   "outlets": 5,
-   "naverN": 5,
-   "ownN": 3,
+   "outlets": 4,
+   "naverN": 4,
+   "ownN": 2,
    "members": [
     {
-     "title": "갤럭시 Z 폴드8, 유럽 판매량 전작 대비 45% 증가",
-     "url": "https://biz.chosun.com/it-science/ict/2026/10/23/UTUUPROWZFGC3HEYDCIKGJSPHI/",
-     "source": "조선비즈"
-    },
-    {
-     "title": "[속보]삼성전자 스마트폰, 유럽 시장서 '돌풍'",
-     "url": "https://n.news.naver.com/mnews/article/050/0000112289",
-     "source": "한경비즈니스"
+     "title": "캐논코리아, 서촌에 체험형 팝업 '캐논 사진 한방당' 개장",
+     "url": "https://n.news.naver.com/article/138/0002245780",
+     "source": "디지털데일리"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202610230940_00000027",
-   "placement": "featured",
+   "naverCluster": "c_202610231320_00002209",
+   "placement": "home-featured",
    "unconf": {
     "sources": 0,
     "items": 2,
     "applied": false
    },
    "vs": 5.2,
-   "publishedAt": "2026-10-23 14:19"
+   "publishedAt": "2026-10-24 08:50"
   },
   {
-   "rank": 15,
+   "rank": 16,
    "title": "이건희 선대회장 6주기 추도식…이재용 회장 선영 찾아 추모",
    "url": "https://zdnet.co.kr/view/?no=20261023104545",
    "source": "ZDNet Korea",
@@ -925,7 +974,7 @@
    "publishedAt": "2026-10-23 10:57"
   },
   {
-   "rank": 16,
+   "rank": 17,
    "title": "“2000원 스티커면 촬영등 무력화”…스마트글래스 ‘도촬’ 문제 국감 도마위[2026 국감]",
    "url": "https://n.news.naver.com/article/138/0002245750",
    "source": "디지털데일리",
@@ -955,7 +1004,7 @@
    "publishedAt": "2026-10-23 11:38"
   },
   {
-   "rank": 17,
+   "rank": 18,
    "title": "넥슨, ‘블루 아카이브’ 5주년 페스티벌 11월 7일 개최",
    "url": "https://zdnet.co.kr/view/?no=20261023151436",
    "source": "ZDNet Korea",
@@ -1009,7 +1058,7 @@
    "publishedAt": "2026-10-23 15:14"
   },
   {
-   "rank": 18,
+   "rank": 19,
    "title": "방미통위, SKB AIDC 분할 심사 착수",
    "url": "https://www.etnews.com/20261023000250",
    "source": "전자신문",
@@ -1063,14 +1112,15 @@
    "publishedAt": "2026-10-23 14:28"
   },
   {
-   "rank": 19,
-   "title": "정부, AIDC 인허가 간소화…내년 2000억 지원 추진",
-   "url": "https://www.dt.co.kr/article/12090882?ref=naver",
-   "source": "디지털타임스",
+   "rank": 20,
+   "title": "[단독] AI 키운다더니…정부 전력계획 반토막",
+   "url": "https://www.mk.co.kr/article/12184442",
+   "source": "매일경제IT",
    "sources": [
     "ZDNet Korea",
     "디지털타임스",
     "전자신문",
+    "매일경제IT",
     "연합뉴스IT",
     "머니투데이",
     "서울경제",
@@ -1078,9 +1128,9 @@
     "한겨레",
     "부산일보"
    ],
-   "outlets": 15,
-   "naverN": 15,
-   "ownN": 9,
+   "outlets": 16,
+   "naverN": 16,
+   "ownN": 10,
    "members": [
     {
      "title": "정부, AIDC 인허가·시설 규제 정비…기술 육성에 2000억원 투입",
@@ -1091,6 +1141,11 @@
      "title": "정부, AI데이터센터 인허가 묶어 풀고 주차 규제 완화한다",
      "url": "https://n.news.naver.com/mnews/article/119/0003146317",
      "source": "데일리안"
+    },
+    {
+     "title": "정부, AIDC 인허가 간소화…내년 2000억 지원 추진",
+     "url": "https://www.dt.co.kr/article/12090882?ref=naver",
+     "source": "디지털타임스"
     },
     {
      "title": "\"복잡한 인허가 한 번에\"…과기정통부, AIDC 규제 줄여 생태계 활성화",
@@ -1128,14 +1183,14 @@
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 3,
+    "items": 4,
     "applied": false
    },
    "vs": 5.1,
-   "publishedAt": "2026-10-23 15:14"
+   "publishedAt": "2026-10-23 17:48"
   },
   {
-   "rank": 20,
+   "rank": 21,
    "title": "SOOP, 서브컬처 축제 ‘AGF 2026’에 공식 스폰서로 첫 참가",
    "url": "https://biz.chosun.com/it-science/ict/2026/10/23/NBMURUMR5FH6RA77BFVLN6PXKE/",
    "source": "조선비즈",
@@ -1171,7 +1226,7 @@
    "publishedAt": "2026-10-23 11:26"
   },
   {
-   "rank": 21,
+   "rank": 22,
    "title": "[국감] 배경훈 “독파모로 역량 축적…프론티어 AI 도전할 수준 갖췄다”",
    "url": "https://www.itdaily.kr/news/articleView.html?idxno=242420",
    "source": "IT데일리",
@@ -1219,7 +1274,43 @@
    "publishedAt": "2026-10-23 18:44"
   },
   {
-   "rank": 22,
+   "rank": 23,
+   "title": "오픈AI “韓 '닷츠' 이용자 수 세계 3위…AI에 높은 관심”",
+   "url": "https://www.etnews.com/20261023000340",
+   "source": "전자신문",
+   "sources": [
+    "조선비즈",
+    "AI타임스",
+    "전자신문"
+   ],
+   "outlets": 10,
+   "naverN": 10,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "AI 에이전트도 '빨리빨리'...한국, 오픈AI '닷츠' 이용 세계 3위",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216560",
+     "source": "AI타임스"
+    },
+    {
+     "title": "오픈AI “한국, 닷츠 이용 세계 3위”… ‘AI와 일하는 시대’ 청사진 제시",
+     "url": "https://biz.chosun.com/it-science/ict/2026/10/24/73EJ2F4SD5HGPOWU4VV7QRWFUI/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202610221630_00000070",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 5.1,
+   "publishedAt": "2026-10-23 17:31"
+  },
+  {
+   "rank": 24,
    "title": "[국감] AIDC 투자 확대에 인허가·세제 정비 요구…배경훈 “신속 협의”",
    "url": "https://www.itdaily.kr/news/articleView.html?idxno=242416",
    "source": "IT데일리",
@@ -1261,7 +1352,7 @@
    "publishedAt": "2026-10-23 17:20"
   },
   {
-   "rank": 23,
+   "rank": 25,
    "title": "野김장겸 \"AI에 국무회의 질문? 보안은 누가?\" 부총리 \"유출 없을것\"",
    "url": "https://n.news.naver.com/mnews/article/008/0005430680",
    "source": "머니투데이",
@@ -1297,22 +1388,21 @@
    "publishedAt": "2026-10-23 11:53"
   },
   {
-   "rank": 24,
+   "rank": 26,
    "title": "AI 데이터센터, 땅·바다 넘어 우주로",
    "url": "https://www.mk.co.kr/article/12177755",
    "source": "매일경제IT",
    "sources": [
-    "벤처스퀘어",
-    "디지털데일리",
     "전자신문",
     "ZDNet Korea",
     "조선비즈",
+    "디지털데일리",
     "연합뉴스IT",
     "매일경제IT"
    ],
    "outlets": 10,
    "naverN": 10,
-   "ownN": 7,
+   "ownN": 6,
    "members": [
     {
      "title": "카카오모빌리티, 강릉 ITS 세계총회서 AI 주차 기술 공개",
@@ -1328,16 +1418,6 @@
      "title": "슈나이더, AI 데이터센터 전력 모듈 공개",
      "url": "https://n.news.naver.com/article/138/0002245752",
      "source": "디지털데일리"
-    },
-    {
-     "title": "버티브, AI 데이터센터 전력·액체 냉각 기술 공유…마스터클래스에 업계 관계자 160명 참석",
-     "url": "https://www.venturesquare.net/1122147/",
-     "source": "벤처스퀘어"
-    },
-    {
-     "title": "데이터빈·한국남동발전, 발전소 해수 활용 AI 데이터센터 냉각 기술 공동개발",
-     "url": "https://www.venturesquare.net/1122067/",
-     "source": "벤처스퀘어"
     },
     {
      "title": "[AI픽] 카카오 모빌리티, AI로 주차장 바꾼다…스마트시티 기술 공개",
@@ -1360,14 +1440,14 @@
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 9,
+    "items": 7,
     "applied": false
    },
    "vs": 5.01,
    "publishedAt": "2026-10-23 21:01"
   },
   {
-   "rank": 25,
+   "rank": 27,
    "title": "\"장애에도 로그 데이타 수집\"...이글루, 클라우드 장애 대응 특허 취득",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=64170",
    "source": "디일렉",
@@ -1415,7 +1495,48 @@
    "publishedAt": "2026-10-23 10:22"
   },
   {
-   "rank": 26,
+   "rank": 28,
+   "title": "우주항공청, 제24회 우주항공경진대회 개최 外[사이언스게시판]",
+   "url": "https://n.news.naver.com/mnews/article/584/0000039836",
+   "source": "동아사이언스",
+   "sources": [
+    "데일리안",
+    "뉴시스",
+    "동아사이언스"
+   ],
+   "outlets": 17,
+   "naverN": 17,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "우주항공 신기술, 공공조달로 판로 연다…최대 6년 수의계약",
+     "url": "https://n.news.naver.com/mnews/article/003/0014274091",
+     "source": "뉴시스"
+    },
+    {
+     "title": "우주항공청, 아태 다자회의 참석…태국 공공조달 민관사절단 파견",
+     "url": "https://n.news.naver.com/mnews/article/119/0003146234",
+     "source": "데일리안"
+    },
+    {
+     "title": "우주항공청, 전국우주항공경진대회 개최…600명 본선 진출",
+     "url": "https://n.news.naver.com/mnews/article/119/0003146231",
+     "source": "데일리안"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202610211130_00000004",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 0,
+    "applied": false
+   },
+   "vs": 4.89,
+   "publishedAt": "2026-10-23 18:13"
+  },
+  {
+   "rank": 29,
    "title": "롯데이노베이트, 말레이 통행료 징수 시장 공략...카타르 투자그룹과 협약",
    "url": "https://www.techm.kr/news/articleView.html?idxno=156435",
    "source": "테크M",
@@ -1463,91 +1584,31 @@
    "publishedAt": "2026-10-23 10:44"
   },
   {
-   "rank": 27,
-   "title": "한화에어로, 2029년 달에 통신 위성 보낼 궤도 수송선 개발",
-   "url": "https://n.news.naver.com/mnews/article/366/0001199771",
-   "source": "조선비즈",
-   "sources": [
-    "뉴시스",
-    "조선비즈"
-   ],
-   "outlets": 9,
-   "naverN": 9,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "한화에어로, 누리호 타고 달 향할 '궤도수송선' 개발 맡는다",
-     "url": "https://n.news.naver.com/mnews/article/003/0014272931",
-     "source": "뉴시스"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202610221710_00000096",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 0,
-    "applied": false
-   },
-   "vs": 4.85,
-   "publishedAt": "2026-10-22 21:39"
-  },
-  {
-   "rank": 28,
-   "title": "‘별이 빛나는 밤’은 7월 22일 새벽… 과학과 예술의 만남 ‘고흐 과학’[사이언스카페]",
-   "url": "https://n.news.naver.com/mnews/article/366/0001199782",
-   "source": "조선비즈",
-   "sources": [
-    "조선일보",
-    "조선비즈",
-    "한겨레",
-    "아이뉴스24"
-   ],
-   "outlets": 8,
-   "naverN": 8,
-   "ownN": 4,
-   "members": [
-    {
-     "title": "고흐는 하늘 올려본 뒤 '별이 빛나는 밤' 그렸나 [지금은 우주]",
-     "url": "https://n.news.naver.com/mnews/article/031/0001068632",
-     "source": "아이뉴스24"
-    },
-    {
-     "title": "고흐 ‘별이 빛나는 밤’은 상상이 아니었다?…137년 전 실제 새벽하늘과 닮았다",
-     "url": "https://n.news.naver.com/mnews/article/023/0004005432",
-     "source": "조선일보"
-    },
-    {
-     "title": "고흐의 ‘별이 빛나는 밤’은 1889년 7월22일 새벽 하늘?",
-     "url": "https://n.news.naver.com/mnews/article/028/0002828816",
-     "source": "한겨레"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202610230010_00000016",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 0,
-    "applied": false
-   },
-   "vs": 4.85,
-   "publishedAt": "2026-10-23 05:01"
-  },
-  {
-   "rank": 29,
+   "rank": 30,
    "title": "넷플릭스, 한국 진출 '10년' 발자취 공개...창작 생태계 변화 조명",
    "url": "https://www.techm.kr/news/articleView.html?idxno=156444",
    "source": "테크M",
    "sources": [
     "한국경제IT",
+    "머니투데이",
     "테크M",
-    "전자신문"
+    "전자신문",
+    "뉴시스"
    ],
-   "outlets": 11,
-   "naverN": 11,
-   "ownN": 3,
+   "outlets": 13,
+   "naverN": 13,
+   "ownN": 5,
    "members": [
+    {
+     "title": "숫자로 보는 '넷플릭스 10년'…韓 작품 200편, 회원 80%가 봤다",
+     "url": "https://n.news.naver.com/mnews/article/003/0014275194",
+     "source": "뉴시스"
+    },
+    {
+     "title": "넷플릭스 한국 진출 10년…200편 제작·전 세계 회원 80% K콘텐츠 시청",
+     "url": "https://n.news.naver.com/mnews/article/008/0005430654",
+     "source": "머니투데이"
+    },
     {
      "title": "넷플릭스 한국 진출 10년…“3편 중 1편은 신인 데뷔작”",
      "url": "https://n.news.naver.com/mnews/article/030/0003478000",
@@ -1567,38 +1628,8 @@
     "items": 2,
     "applied": false
    },
-   "vs": 4.75,
+   "vs": 4.85,
    "publishedAt": "2026-10-23 12:25"
-  },
-  {
-   "rank": 30,
-   "title": "\"대학 정보부터 수능 등급컷까지\"...네이버, 교육 검색 '고도화'",
-   "url": "https://www.techm.kr/news/articleView.html?idxno=156441",
-   "source": "테크M",
-   "sources": [
-    "테크M",
-    "ZDNet Korea"
-   ],
-   "outlets": 9,
-   "naverN": 9,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "네이버, 교육 검색 고도화…대학·학과 정보 제공",
-     "url": "https://zdnet.co.kr/view/?no=20261023103743",
-     "source": "ZDNet Korea"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202610230930_00000035",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 4.75,
-   "publishedAt": "2026-10-23 11:33"
   }
  ]
 }
