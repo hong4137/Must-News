@@ -1,15 +1,54 @@
 {
- "updated": "2026-11-15 18:31",
+ "updated": "2026-11-16 08:52",
  "window_hours": 36,
  "articles": [
   {
    "rank": 1,
+   "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217428",
+   "source": "AI타임스",
+   "sources": [
+    "AI타임스",
+    "아이뉴스24",
+    "전자신문"
+   ],
+   "outlets": 3,
+   "naverN": 0,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\"",
+     "url": "http://www.inews24.com/view/2026358",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "FT “젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도”",
+     "url": "https://www.etnews.com/20261116000004",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-hero",
+   "unconf": {
+    "sources": 2,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 7,
+   "publishedAt": "2026-11-16 05:32"
+  },
+  {
+   "rank": 2,
    "title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\"",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217408",
    "source": "AI타임스",
    "sources": [
     "조선비즈",
     "ZDNet Korea",
+    "경향신문",
+    "이데일리",
+    "매일경제IT",
     "블로터",
     "AI타임스",
     "한국경제IT",
@@ -17,11 +56,13 @@
     "연합뉴스IT",
     "디지털데일리",
     "IT데일리",
-    "뉴시스"
+    "뉴시스",
+    "아시아경제",
+    "서울경제"
    ],
-   "outlets": 23,
-   "naverN": 23,
-   "ownN": 10,
+   "outlets": 28,
+   "naverN": 28,
+   "ownN": 15,
    "members": [
     {
      "title": "LGU+, AI 코딩 모델 운영비 90% 절감…내년 B2B 사업화",
@@ -34,6 +75,11 @@
      "source": "ZDNet Korea"
     },
     {
+     "title": "코딩 AI 비용 최대 90% ‘뚝’…LG유플러스, ‘토큰 절감’ 사업 뛰어든다",
+     "url": "https://n.news.naver.com/mnews/article/032/0003482662",
+     "source": "경향신문"
+    },
+    {
      "title": "재주 부리는 곰' 이제 그만…AI 시대엔 달라질까[AI 간판 단 통신사③]",
      "url": "https://n.news.naver.com/mnews/article/003/0014322497",
      "source": "뉴시스"
@@ -44,9 +90,29 @@
      "source": "디지털데일리"
     },
     {
+     "title": "\"토큰 최적화로 AI 코딩 비용 90%까지 절감\"",
+     "url": "https://n.news.naver.com/mnews/article/009/0005763917",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "가입자 늘고, AI 사업 호재… 바닥 다진 KT 내년 청신호",
+     "url": "https://www.mk.co.kr/article/12209350",
+     "source": "매일경제IT"
+    },
+    {
      "title": "커지는 AI 청구서 잡는다…LGU+, '토큰 최적화' 승부수 [현장+]",
      "url": "https://www.bloter.net/news/articleView.html?idxno=678501",
      "source": "블로터"
+    },
+    {
+     "title": "LGU+, 모델·칩 최적화로 AX 승부수…“최대 90% 토큰 절감”",
+     "url": "https://n.news.naver.com/mnews/article/011/0004682328",
+     "source": "서울경제"
+    },
+    {
+     "title": "\"토큰 총 비용 낮출 것\"…LGU+ 토큰 최적화로 기업 고객 공략",
+     "url": "https://n.news.naver.com/mnews/article/277/0005842635",
+     "source": "아시아경제"
     },
     {
      "title": "\"AI 성능 높이고 비용 낮춘다\"…LGU+, 내년 토큰 사업 추진[가보니]",
@@ -54,19 +120,9 @@
      "source": "연합뉴스IT"
     },
     {
-     "title": "LG유플러스, 내년 AI 토큰 사업 진출…“기업 AX 청구서 낮춘다”",
-     "url": "https://n.news.naver.com/mnews/article/030/0003485602",
-     "source": "전자신문"
-    },
-    {
-     "title": "LG유플러스, 토큰 최적화 사업 본격화… “코딩 AI 비용 90% 절감”",
-     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/CDGZDVABNZCNRN7WBOC4BYZMWE/",
-     "source": "조선비즈"
-    },
-    {
-     "title": "LGU+, 토큰사업 진출…\"AI 비용 확 줄일 것\"",
-     "url": "https://www.hankyung.com/article/2026111574531",
-     "source": "한국경제IT"
+     "title": "AI 코딩 비용 90% 절감…LG유플러스, 토큰 사업 진출",
+     "url": "https://n.news.naver.com/mnews/article/018/0006410118",
+     "source": "이데일리"
     }
    ],
    "scoop": null,
@@ -74,81 +130,26 @@
    "placement": "home-featured",
    "unconf": {
     "sources": 0,
-    "items": 7,
+    "items": 9,
     "applied": false
    },
    "vs": 6.45,
    "publishedAt": "2026-11-15 09:00"
   },
   {
-   "rank": 2,
+   "rank": 3,
    "title": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217414",
    "source": "AI타임스",
    "sources": [
-    "매일경제IT",
-    "SBS",
-    "AI타임스",
-    "조선비즈",
-    "연합뉴스IT",
-    "이데일리",
-    "디지털데일리",
-    "한국경제IT",
-    "KBS",
-    "테크M",
-    "서울경제",
-    "한국경제TV",
-    "대전일보",
     "디지털타임스",
-    "YTN",
-    "경기일보",
-    "헤럴드경제",
-    "한국일보"
+    "AI타임스",
+    "디지털데일리"
    ],
-   "outlets": 96,
-   "naverN": 96,
-   "ownN": 18,
+   "outlets": 88,
+   "naverN": 88,
+   "ownN": 3,
    "members": [
-    {
-     "title": "MS, 전 세계 서비스 장애 복구 진전...\"원인은 네트워크 작업 오류\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217398",
-     "source": "AI타임스"
-    },
-    {
-     "title": "정부, MS 서비스 장애에 비상대응반 가동…국내 피해 점검",
-     "url": "https://n.news.naver.com/mnews/article/056/0012293951",
-     "source": "KBS"
-    },
-    {
-     "title": "\"메일 안 돼서 팩스 썼다\"…이틀째 먹통에 고개 숙인 MS",
-     "url": "https://n.news.naver.com/mnews/article/055/0001402986",
-     "source": "SBS"
-    },
-    {
-     "title": "MS 서비스 36시간 만에 복구...전세계 장애 신고 740만 건",
-     "url": "https://n.news.naver.com/mnews/article/052/0002432892",
-     "source": "YTN"
-    },
-    {
-     "title": "“전 세계 직장인 발 묶은 MS”…36시간 만에 복구, 피해액 최대 6천700억",
-     "url": "https://n.news.naver.com/mnews/article/666/0000132050",
-     "source": "경기일보"
-    },
-    {
-     "title": "전 세계 덮친 MS 장애 36시간 만에 정상화…보험 손실 최대 6700억",
-     "url": "https://n.news.naver.com/mnews/article/656/0000192381",
-     "source": "대전일보"
-    },
-    {
-     "title": "‘아웃룩·팀즈 먹통’ MS 공식 사과…“점진적 복구 진행 중, 사후 보고서 공개”",
-     "url": "https://n.news.naver.com/article/138/0002248550",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "‘아웃룩·팀즈 먹통’ MS 공식 사과…“점진적 복구 진행 중, 사후 보고...",
-     "url": "https://www.ddaily.co.kr/page/view/2026111414204523752",
-     "source": "디지털데일리"
-    },
     {
      "title": "36시간 멈췄던 MS 365 복구 완료…챗GPT·클로드 업무 연동도 연쇄 오류",
      "url": "https://n.news.naver.com/article/138/0002248580",
@@ -158,99 +159,188 @@
      "title": "전세계 업무 마비시킨 MS 장애, 36시간만에 복구…막대한 피해 발생",
      "url": "https://www.dt.co.kr/article/12095128?ref=naver",
      "source": "디지털타임스"
-    },
-    {
-     "title": "“오늘 일 못 합니다”…이틀째 ‘먹통 대란’에 고개 숙인 MS",
-     "url": "https://www.mk.co.kr/article/12208721",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "“1년 365일 된다더니 ‘MS364’냐”… 24시간 넘긴 MS 먹통에 전 세계 조롱 봇물",
-     "url": "https://n.news.naver.com/mnews/article/009/0005763667",
-     "source": "매일경제IT"
     }
    ],
    "scoop": null,
    "naverCluster": "c_202611130600_00000004",
-   "placement": "home-featured",
+   "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 14,
+    "items": 3,
     "applied": false
    },
-   "vs": 6,
+   "vs": 6.22,
    "publishedAt": "2026-11-15 08:20"
   },
   {
-   "rank": 3,
-   "title": "허준·심양홍 \"SWC 월드 파이널, 10년 비결은 누구나 즐기는 재미\"",
-   "url": "https://zdnet.co.kr/view/?no=20261114133000",
+   "rank": 4,
+   "title": "북한 해킹조직, 정부·금융 서버 겨냥…국내 30곳 표적 명단 확인",
+   "url": "https://zdnet.co.kr/view/?no=20261115140951",
    "source": "ZDNet Korea",
    "sources": [
-    "ZDNet Korea",
-    "한국경제IT",
+    "조선비즈",
     "디지털데일리",
-    "테크M",
-    "매일경제IT"
+    "ZDNet Korea",
+    "헤럴드경제",
+    "SBS",
+    "YTN",
+    "MBC",
+    "MBN",
+    "연합뉴스IT",
+    "매일경제IT",
+    "중앙일보",
+    "동아일보",
+    "아시아경제"
    ],
-   "outlets": 14,
-   "naverN": 14,
-   "ownN": 5,
+   "outlets": 36,
+   "naverN": 36,
+   "ownN": 13,
    "members": [
     {
-     "title": "세계 최강 소환사 가린다…'SWC 2026' 월드 파이널 개막",
-     "url": "https://zdnet.co.kr/view/?no=20261114111303",
-     "source": "ZDNet Korea"
+     "title": "\"북한 라자루스, 국내 서버 30 곳 겨냥‥정부·금융기관 포함\"",
+     "url": "https://n.news.naver.com/mnews/article/214/0001535660",
+     "source": "MBC"
     },
     {
-     "title": "SWC 2026' 세계 챔피언은 TARS…4년 만에 왕좌 탈환",
-     "url": "https://zdnet.co.kr/view/?no=20261114184917",
-     "source": "ZDNet Korea"
+     "title": "북한 라자루스, 국내 서버 30곳 노렸다…금융 탈취·첩보 수집 목적",
+     "url": "https://n.news.naver.com/mnews/article/057/0001978242",
+     "source": "MBN"
     },
     {
-     "title": "\"손자 때에도 사랑받을 게임\"…컴투스 'SWC' 10년 맞은 중계진의 기대",
-     "url": "https://n.news.naver.com/article/138/0002248546",
+     "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
+     "url": "https://n.news.naver.com/mnews/article/055/0001403100",
+     "source": "SBS"
+    },
+    {
+     "title": "\"북한 라자루스, 국내 서버 30곳 노려...공격 시도\"",
+     "url": "https://n.news.naver.com/mnews/article/052/0002432979",
+     "source": "YTN"
+    },
+    {
+     "title": "“한국 IP 대역 유망” 北 해킹조직 라자루스, 국내 서버 30곳 노렸다",
+     "url": "https://n.news.naver.com/mnews/article/020/0003762509",
+     "source": "동아일보"
+    },
+    {
+     "title": "[PHP 비상] 北 라자루스, 한국 서버 30곳 노렸다…국가기관·금융 표적",
+     "url": "https://n.news.naver.com/article/138/0002248584",
      "source": "디지털데일리"
     },
     {
-     "title": "타스', 4년 만에 '서머너즈워' 세계 정상 탈환…'SWC2026' 우승",
-     "url": "https://n.news.naver.com/article/138/0002248559",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "‘타스’, ‘SWC2026’ 월드 파이널 우승…4년 만에 정상 탈환",
-     "url": "https://n.news.naver.com/mnews/article/009/0005763721",
+     "title": "정부·은행·통신까지 겨눴다…북한 해킹조직, 한국 서버 30곳 공격",
+     "url": "https://n.news.naver.com/mnews/article/009/0005763777",
      "source": "매일경제IT"
     },
     {
-     "title": "‘SWC2026’ 4강 대진 확정…‘지엘이’·‘타스’·‘제자스’·‘사피’",
-     "url": "https://n.news.naver.com/mnews/article/009/0005763669",
-     "source": "매일경제IT"
+     "title": "북한 해킹조직, 전 세계 서버 581곳 노렸다…한국 정부도 겨냥",
+     "url": "https://n.news.naver.com/mnews/article/277/0005842672",
+     "source": "아시아경제"
     },
     {
-     "title": "컴투스 'SWC 2026' 월드 파이널 성료...中 '타스' 2회 우승 진기록 수립",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=157366",
-     "source": "테크M"
+     "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
+     "url": "https://n.news.naver.com/mnews/article/001/0016442123",
+     "source": "연합뉴스IT"
     },
     {
-     "title": "2026 대구국제기계산업대전 17일 개막",
-     "url": "https://www.hankyung.com/article/202611156865h",
-     "source": "한국경제IT"
+     "title": "“북한 해킹 조직 라자루스, 韓 서버 30곳 노렸다”… 정부·금융기관이 표적",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/IZV2K2PTVNEFFHBBAOPJ5HO4YI/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "“韓 IP 대역 유망”…‘北해킹조직’ 라자루스 찍은 국내 서버 30곳",
+     "url": "https://n.news.naver.com/mnews/article/025/0003565197",
+     "source": "중앙일보"
+    },
+    {
+     "title": "北 해킹조직 ‘라자루스’, 국내 서버 30곳 노렸다…차단 방법은?",
+     "url": "https://n.news.naver.com/mnews/article/016/0002723522",
+     "source": "헤럴드경제"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202611141330_00000051",
+   "naverCluster": "c_202611150820_00000026",
    "placement": "featured",
    "unconf": {
-    "sources": 0,
-    "items": 7,
+    "sources": 1,
+    "items": 3,
     "applied": false
    },
    "vs": 6,
-   "publishedAt": "2026-11-14 13:32"
+   "publishedAt": "2026-11-15 15:12"
   },
   {
-   "rank": 4,
+   "rank": 5,
+   "title": "BLG, 젠지 꺾고 창단 첫 롤드컵 우승…LPL 5년 만에 정상 탈환",
+   "url": "https://zdnet.co.kr/view/?no=20261115095323",
+   "source": "ZDNet Korea",
+   "sources": [
+    "조선비즈",
+    "테크M",
+    "ZDNet Korea",
+    "디지털데일리",
+    "전자신문",
+    "뉴시스",
+    "한겨레",
+    "연합뉴스IT"
+   ],
+   "outlets": 20,
+   "naverN": 20,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "젠지, BLG에 역전 허용…우승 도전 벼랑 끝[롤드컵]",
+     "url": "https://n.news.naver.com/mnews/article/003/0014322529",
+     "source": "뉴시스"
+    },
+    {
+     "title": "젠지마저 무너졌다…中 BLG, LCK 4팀 꺾고 '롤드컵' 우승",
+     "url": "https://n.news.naver.com/article/138/0002248577",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "젠지, 롤드컵 결승전서 BLG와 1-1 동점…막상막하 승부",
+     "url": "https://n.news.naver.com/mnews/article/001/0016442106",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "2회 우승' BLG 바이퍼 \"역대 최고 되려면 아직 도전 남았다\"",
+     "url": "https://n.news.naver.com/mnews/article/001/0016442288",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "中 BLG, 젠지 꺾고 롤드컵 첫 우승... LCK 4연패 저지",
+     "url": "https://www.etnews.com/20261115000111",
+     "source": "전자신문"
+    },
+    {
+     "title": "중국 BLG, 젠지 꺾고 롤드컵 우승… LCK 4개 팀 모두 격파",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/UCSGQJHAKFBCZETNT2ZBQKPCQ4/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "[롤드컵 브리핑] LCK 독식 끝났다...'바이퍼' 앞세운 BLG, LCK 4팀 모두 꺾고 롤드컵 우승",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=157360",
+     "source": "테크M"
+    },
+    {
+     "title": "4년 한국 독주 깨고…중국 BLG, 롤드컵 첫 우승",
+     "url": "https://n.news.naver.com/mnews/article/028/0002832236",
+     "source": "한겨레"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611131640_00000925",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 5,
+    "applied": false
+   },
+   "vs": 6,
+   "publishedAt": "2026-11-15 10:06"
+  },
+  {
+   "rank": 6,
    "title": "LG 테네시 공장, 세탁기 1000만대 생산…휴머노이드 '클로이드'도 투입",
    "url": "https://zdnet.co.kr/view/?no=20261115093449",
    "source": "ZDNet Korea",
@@ -316,282 +406,44 @@
    ],
    "scoop": null,
    "naverCluster": null,
-   "placement": "featured",
+   "placement": "ranking",
    "unconf": {
     "sources": 0,
     "items": 10,
     "applied": false
    },
-   "vs": 6,
+   "vs": 5.5,
    "publishedAt": "2026-11-15 10:00"
   },
   {
-   "rank": 5,
-   "title": "MS 365 대규모 장애 근본 원인 해결…일부 고객·지역 복구 지속",
-   "url": "https://zdnet.co.kr/view/?no=20261114164446",
-   "source": "ZDNet Korea",
-   "sources": [
-    "전자신문",
-    "ZDNet Korea",
-    "경향신문",
-    "아시아경제",
-    "디지털데일리",
-    "MBC",
-    "아이뉴스24"
-   ],
-   "outlets": 7,
-   "naverN": 6,
-   "ownN": 7,
-   "members": [
-    {
-     "title": "정부, 마이크로소프트 서비스 장애에 비상대응반 구성하고 점검",
-     "url": "https://n.news.naver.com/mnews/article/214/0001535609",
-     "source": "MBC"
-    },
-    {
-     "title": "과기정통부, MS365 장애 대응 비상대응반 구성",
-     "url": "https://zdnet.co.kr/view/?no=20261114181913",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "정부, MS365 오류에 비상 대응반 구성···“불편 최소화”",
-     "url": "https://n.news.naver.com/mnews/article/032/0003482640",
-     "source": "경향신문"
-    },
-    {
-     "title": "과기부, MS 장애 비상대응 가동…AI수석 “디지털 영역 안전지킴 만전”",
-     "url": "https://n.news.naver.com/article/138/0002248557",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "과기부, MS 장애 비상대응 가동… AI 수석 “디지털 영역 안전지킴 만전”",
-     "url": "https://www.ddaily.co.kr/page/view/2026111419304217443",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "MS365 접속 장애에 정부, 비상대응반 구성",
-     "url": "https://n.news.naver.com/mnews/article/277/0005842594",
-     "source": "아시아경제"
-    },
-    {
-     "title": "과기정통부, MS365 장애에 비상대응반 가동",
-     "url": "https://n.news.naver.com/mnews/article/031/0001075059",
-     "source": "아이뉴스24"
-    },
-    {
-     "title": "정부, MS365 장애 비상대응반 구성…MS “근본 문제 해결”",
-     "url": "https://www.etnews.com/20261114000035",
-     "source": "전자신문"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611141830_00000001",
-   "placement": "featured",
-   "unconf": {
-    "sources": 1,
-    "items": 5,
-    "applied": false
-   },
-   "vs": 6,
-   "publishedAt": "2026-11-14 18:22"
-  },
-  {
-   "rank": 6,
-   "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
-   "source": "AI타임스",
-   "sources": [
-    "한국경제IT",
-    "전자신문",
-    "AI타임스"
-   ],
-   "outlets": 3,
-   "naverN": 0,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "FT “엔비디아, 차기 수장 선임 위해 Arm CEO 접촉”…엔비디아는 부인",
-     "url": "https://www.etnews.com/20261114000005",
-     "source": "전자신문"
-    },
-    {
-     "title": "엔비디아, Arm CEO 접촉설에 선 그어…\"공식 연락 안해\"",
-     "url": "https://www.hankyung.com/article/2026111462027",
-     "source": "한국경제IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 2,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 6,
-   "publishedAt": "2026-11-14 17:03"
-  },
-  {
    "rank": 7,
-   "title": "배경훈 “젠슨 황 떠나도 GPU 동맹 문제없어…26만장 공급 약속 유지”",
-   "url": "https://www.ddaily.co.kr/page/view/2026111408535993745",
-   "source": "디지털데일리",
-   "sources": [
-    "IT조선",
-    "디지털데일리"
-   ],
-   "outlets": 55,
-   "naverN": 55,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "[젠슨 황 스캔들] 배경훈 부총리“젠슨 황 사임에도 엔비디아 韓 GPU 공급 유지”",
-     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001058",
-     "source": "IT조선"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611131520_00000001",
-   "placement": "featured",
-   "unconf": {
-    "sources": 0,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 5.53,
-   "publishedAt": "2026-11-14 09:23"
-  },
-  {
-   "rank": 8,
-   "title": "북한 해킹조직, 정부·금융 서버 겨냥…국내 30곳 표적 명단 확인",
-   "url": "https://zdnet.co.kr/view/?no=20261115140951",
-   "source": "ZDNet Korea",
-   "sources": [
-    "조선비즈",
-    "디지털데일리",
-    "ZDNet Korea",
-    "SBS",
-    "YTN",
-    "MBN",
-    "매일경제IT",
-    "중앙일보",
-    "동아일보",
-    "아시아경제"
-   ],
-   "outlets": 28,
-   "naverN": 28,
-   "ownN": 10,
-   "members": [
-    {
-     "title": "북한 라자루스, 국내 서버 30곳 노렸다…금융 탈취·첩보 수집 목적",
-     "url": "https://n.news.naver.com/mnews/article/057/0001978242",
-     "source": "MBN"
-    },
-    {
-     "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
-     "url": "https://n.news.naver.com/mnews/article/055/0001403100",
-     "source": "SBS"
-    },
-    {
-     "title": "\"북한 라자루스, 국내 서버 30곳 노려...공격 시도\"",
-     "url": "https://n.news.naver.com/mnews/article/052/0002432979",
-     "source": "YTN"
-    },
-    {
-     "title": "“한국 IP 대역 유망” 北 해킹조직 라자루스, 국내 서버 30곳 노렸다",
-     "url": "https://n.news.naver.com/mnews/article/020/0003762509",
-     "source": "동아일보"
-    },
-    {
-     "title": "[PHP 비상] 北 라자루스, 한국 서버 30곳 노렸다…국가기관·금융 표적",
-     "url": "https://n.news.naver.com/article/138/0002248584",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "정부·은행·통신까지 겨눴다…북한 해킹조직, 한국 서버 30곳 공격",
-     "url": "https://n.news.naver.com/mnews/article/009/0005763777",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "북한 해킹조직, 전 세계 서버 581곳 노렸다…한국 정부도 겨냥",
-     "url": "https://n.news.naver.com/mnews/article/277/0005842672",
-     "source": "아시아경제"
-    },
-    {
-     "title": "“북한 해킹 조직 라자루스, 韓 서버 30곳 노렸다”… 정부·금융기관이 표적",
-     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/IZV2K2PTVNEFFHBBAOPJ5HO4YI/",
-     "source": "조선비즈"
-    },
-    {
-     "title": "“韓 IP 대역 유망”…‘北해킹조직’ 라자루스 찍은 국내 서버 30곳",
-     "url": "https://n.news.naver.com/mnews/article/025/0003565197",
-     "source": "중앙일보"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611150820_00000026",
-   "placement": "section",
-   "unconf": {
-    "sources": 1,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 5.53,
-   "publishedAt": "2026-11-15 15:12"
-  },
-  {
-   "rank": 9,
-   "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
-   "source": "AI타임스",
-   "sources": [
-    "디지털데일리",
-    "AI타임스"
-   ],
-   "outlets": 9,
-   "naverN": 9,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "오픈AI, 'AI 대리구매' 결제 수단 챗GPT 월렛 공개…카드 3사와 협력",
-     "url": "https://n.news.naver.com/article/138/0002248527",
-     "source": "디지털데일리"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611140850_00000042",
-   "placement": "home-ranking",
-   "unconf": {
-    "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 5.5,
-   "publishedAt": "2026-11-14 10:41"
-  },
-  {
-   "rank": 10,
    "title": "[IT돋보기] 20년 만에 지도 반출⋯구글, 韓 서비스 강화 추진",
    "url": "http://www.inews24.com/view/2026182",
    "source": "아이뉴스24",
    "sources": [
     "아이뉴스24",
-    "뉴시스",
-    "이데일리"
+    "이데일리",
+    "머니투데이",
+    "파이낸셜뉴스"
    ],
    "outlets": 8,
    "naverN": 8,
-   "ownN": 3,
+   "ownN": 4,
    "members": [
     {
-     "title": "구글 지도 빗장 풀렸다…티맵·네이버·카카오 '내비 삼국지' 흔들까",
-     "url": "https://n.news.naver.com/mnews/article/003/0014321886",
-     "source": "뉴시스"
+     "title": "\"구글 고정밀 지도 온다\"…바빠진 네이버·카카오, 길찾기 주도권 강화",
+     "url": "https://n.news.naver.com/mnews/article/008/0005441120",
+     "source": "머니투데이"
     },
     {
      "title": "구글 지도 ‘20년 빗장’ 풀렸다…사후 관리에 촉각",
      "url": "https://n.news.naver.com/mnews/article/018/0006410060",
      "source": "이데일리"
+    },
+    {
+     "title": "구글 지도 반출 허용에… \"구글맵이냐, 티맵이냐\" 車 내비시장 술렁",
+     "url": "https://n.news.naver.com/mnews/article/014/0005604472",
+     "source": "파이낸셜뉴스"
     }
    ],
    "scoop": null,
@@ -606,37 +458,327 @@
    "publishedAt": "2026-11-15 08:01"
   },
   {
-   "rank": 11,
-   "title": "VM웨어 의존 낮추는 옴니사… AI 통제 ‘엘라라’가 차별화 핵심 무기 [옴...",
-   "url": "https://www.ddaily.co.kr/page/view/2026111317265207741",
+   "rank": 8,
+   "title": "美 AI 투자에 한국 ICT 수출 지형 변화…대미 수출 522% 급증",
+   "url": "https://www.ddaily.co.kr/page/view/2026111422375041430",
    "source": "디지털데일리",
    "sources": [
     "디지털데일리",
-    "전자신문"
+    "연합뉴스IT",
+    "조선비즈",
+    "아이뉴스24",
+    "디지털타임스",
+    "YTN",
+    "서울경제",
+    "ZDNet Korea",
+    "테크M",
+    "MBC",
+    "아시아경제",
+    "한국경제IT",
+    "매일경제IT",
+    "국제신문",
+    "한겨레"
    ],
-   "outlets": 6,
-   "naverN": 6,
-   "ownN": 2,
+   "outlets": 23,
+   "naverN": 23,
+   "ownN": 15,
    "members": [
     {
-     "title": "[옴니사 원 도쿄 2026] 옴니사, AI 에이전트 통제 솔루션 '엘라라' 내년 출시",
-     "url": "https://www.etnews.com/20261113000244",
+     "title": "AI 특수에 ICT 수출 703억달러‥증가율 202% '역대 최고'",
+     "url": "https://n.news.naver.com/mnews/article/214/0001535668",
+     "source": "MBC"
+    },
+    {
+     "title": "인공지능 특수...반도체 등 ICT 수출 증가율 '역대 최고'",
+     "url": "https://n.news.naver.com/mnews/article/052/0002433030",
+     "source": "YTN"
+    },
+    {
+     "title": "AI 반도체 호황에 ICT 수출 증가율 첫 200% 돌파",
+     "url": "https://zdnet.co.kr/view/?no=20261115004601",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "10월 정보통신산업(ICT) 수출액, 전년 동기 대비 202.0% 성장",
+     "url": "https://n.news.naver.com/mnews/article/658/0000161250",
+     "source": "국제신문"
+    },
+    {
+     "title": "트럼프, AI 반도체 수출통제 풀기 직전에 엔비디아 주식 매수?…이해충돌 논란",
+     "url": "https://n.news.naver.com/article/138/0002248558",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "트럼프, AI 반도체 수출통제 풀기 직전에 엔비디아 주식 매수?…이해충...",
+     "url": "https://www.ddaily.co.kr/page/view/2026111416582223965",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "AI 특수에 ICT 수출 703억달러…증가율 ‘역대 최고’",
+     "url": "https://www.dt.co.kr/article/12095186?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "ICT수출 703억달러… 증가율 202% 최대",
+     "url": "https://www.mk.co.kr/article/12209425",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "반도체 수출 3.6배 급증…10월 ICT 수출 증가율 사상 최고",
+     "url": "https://n.news.naver.com/mnews/article/011/0004682261",
+     "source": "서울경제"
+    },
+    {
+     "title": "AI 산업 성장으로 ICT 수출 두 달 연속 700억 달러 돌파…증가율 202%",
+     "url": "https://n.news.naver.com/mnews/article/277/0005842748",
+     "source": "아시아경제"
+    },
+    {
+     "title": "반도체 수출 259% 폭증…10월 ICT 수출 703억 달러 '역대 최대'",
+     "url": "http://www.inews24.com/view/2026282",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "테슬라 반도체",
+     "url": "https://www.yna.co.kr/view/PYH20261115004800089?input=1196m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611151110_00000009",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 12,
+    "applied": false
+   },
+   "vs": 5.3,
+   "publishedAt": "2026-11-15 11:01"
+  },
+  {
+   "rank": 9,
+   "title": "컴투스 'SWC 2026' 월드 파이널 성료...中 '타스' 2회 우승 진기록 수립",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=157366",
+   "source": "테크M",
+   "sources": [
+    "디지털데일리",
+    "전자신문",
+    "테크M",
+    "연합뉴스IT",
+    "이데일리",
+    "국민일보"
+   ],
+   "outlets": 18,
+   "naverN": 18,
+   "ownN": 6,
+   "members": [
+    {
+     "title": "‘SWC2026’ 열 번째 세계 챔피언 탄생",
+     "url": "https://n.news.naver.com/mnews/article/005/0001885237",
+     "source": "국민일보"
+    },
+    {
+     "title": "타스', 4년 만에 '서머너즈워' 세계 정상 탈환…'SWC2026' 우승",
+     "url": "https://n.news.naver.com/article/138/0002248559",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "컴투스 '서머너즈 워' e스포츠 결승전 개최…챔피언에 TARS",
+     "url": "https://n.news.naver.com/mnews/article/001/0016441974",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "서머너즈워' 챔피언 가린 컴투스 'SWC2026', 성황 속 마무리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006410130",
+     "source": "이데일리"
+    },
+    {
+     "title": "컴투스 'SWC2026', TARS 우승... 4년 만에 세계 정상 복귀",
+     "url": "https://n.news.naver.com/mnews/article/030/0003485644",
      "source": "전자신문"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202611131150_00001653",
+   "naverCluster": "c_202611141330_00000051",
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 3,
+    "items": 2,
     "applied": false
    },
-   "vs": 5.19,
-   "publishedAt": "2026-11-14 08:47"
+   "vs": 5.3,
+   "publishedAt": "2026-11-15 15:33"
+  },
+  {
+   "rank": 10,
+   "title": "KT, 인천 남동산단에 AI기반 산업안전 솔루션 공급",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217424",
+   "source": "AI타임스",
+   "sources": [
+    "IT데일리",
+    "조선비즈",
+    "ZDNet Korea",
+    "AI타임스",
+    "전자신문",
+    "디지털타임스",
+    "아시아경제",
+    "연합뉴스IT"
+   ],
+   "outlets": 12,
+   "naverN": 12,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "KT, 인천 남동산단 20개사에 AI 화재감지기…야간·휴일에도 원격 대응",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=242938",
+     "source": "IT데일리"
+    },
+    {
+     "title": "KT, 인천 남동산단에 AI 화재안전 서비스 ‘세이프메이트’ 구축",
+     "url": "https://zdnet.co.kr/view/?no=20261115104316",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "KT, ‘세이프메이트’ 인천 남동국가산업단지에 적용… 화재 예방부터 대응까지",
+     "url": "https://n.news.naver.com/mnews/article/029/0003059184",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "KT, '세이프메이트'로 산업단지 화재안전 강화",
+     "url": "https://n.news.naver.com/mnews/article/277/0005842749",
+     "source": "아시아경제"
+    },
+    {
+     "title": "\"AI가 불꽃·연기 분석\"…KT, 산업단지 화재안전 강화[AI픽]",
+     "url": "https://n.news.naver.com/mnews/article/001/0016442281",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "KT, AI 기반 화재 안전 '세이프메이트' 인천 남동공단에 적용",
+     "url": "https://n.news.naver.com/mnews/article/030/0003485685",
+     "source": "전자신문"
+    },
+    {
+     "title": "KT, AI 화재감지 ‘세이프메이트’ 인천 남동산단에 적용",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/VCGWSS7PIJFVVKWVWCKW2CK2JA/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611150940_00000001",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-11-15 16:55"
+  },
+  {
+   "rank": 11,
+   "title": "세무사 수석 합격자 “AI로 부정행위” 자백…경찰에 자수",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001069",
+   "source": "IT조선",
+   "sources": [
+    "IT조선",
+    "연합뉴스IT",
+    "전자신문",
+    "AI타임스"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+     "source": "AI타임스"
+    },
+    {
+     "title": "세무사 수석 합격자 AI 부정행위 자수…초소형 카메라로 촬영(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261115020551004?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "AI 안경 의혹' 세무사 수석 합격자, 결국 부정행위 자수… “진짜 수석에 죄송”",
+     "url": "https://www.etnews.com/20261115000036",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 5.2,
+   "publishedAt": "2026-11-15 10:13"
   },
   {
    "rank": 12,
+   "title": "UNIST, 북극 해빙 분포 한 달 앞서 예측하는 AI '아이스네스트' 개발",
+   "url": "https://n.news.naver.com/mnews/article/277/0005842654",
+   "source": "아시아경제",
+   "sources": [
+    "이데일리",
+    "동아사이언스",
+    "한국일보",
+    "뉴스1",
+    "아시아경제",
+    "디지털타임스",
+    "전자신문"
+   ],
+   "outlets": 8,
+   "naverN": 8,
+   "ownN": 7,
+   "members": [
+    {
+     "title": "북극 해빙 분포 30일 앞서 예측…UNIST, 북극항로 운항 돕는 AI 개발",
+     "url": "https://n.news.naver.com/mnews/article/421/0009289929",
+     "source": "뉴스1"
+    },
+    {
+     "title": "UNIST, 북극 항로 운항 돕는 AI 개발 外[과기원NOW]",
+     "url": "https://n.news.naver.com/mnews/article/584/0000040162",
+     "source": "동아사이언스"
+    },
+    {
+     "title": "북극 얼음 분포, 최대 30일 앞서 예측…해빙 예보 ‘AI 모델’",
+     "url": "https://n.news.naver.com/mnews/article/029/0003059198",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“북극 뱃길 언제 열릴까”…UNIST, 항로 예측 AI 개발",
+     "url": "https://n.news.naver.com/mnews/article/018/0006409919",
+     "source": "이데일리"
+    },
+    {
+     "title": "북극항로 더 빠르고 안전하게 간다",
+     "url": "https://n.news.naver.com/mnews/article/030/0003485632",
+     "source": "전자신문"
+    },
+    {
+     "title": "한 달 뒤 북극 바닷길 미리 본다… UNIST, 해빙 분포 예측 AI 개발",
+     "url": "https://n.news.naver.com/mnews/article/469/0000965654",
+     "source": "한국일보"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611150940_00000045",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 0,
+    "applied": false
+   },
+   "vs": 5.1,
+   "publishedAt": "2026-11-15 10:02"
+  },
+  {
+   "rank": 13,
    "title": "KAIST, 소리 없이 입 모양 만으로 글자 변환하는 AI 고도화",
    "url": "https://biz.chosun.com/it-science/ict/2026/11/15/2H46OVESRND2ZPEPXNPMEBW4PA/",
    "source": "조선비즈",
@@ -645,12 +787,20 @@
     "조선비즈",
     "아이뉴스24",
     "디지털타임스",
-    "뉴스1"
+    "뉴스1",
+    "경향신문",
+    "조선일보",
+    "헤럴드경제"
    ],
-   "outlets": 13,
-   "naverN": 13,
-   "ownN": 5,
+   "outlets": 15,
+   "naverN": 15,
+   "ownN": 8,
    "members": [
+    {
+     "title": "안 들린 말 있다면…AI가 문맥 보고 찾아낸다",
+     "url": "https://n.news.naver.com/mnews/article/032/0003482761",
+     "source": "경향신문"
+    },
     {
      "title": "입모양 읽는 AI, 헷갈리면 문맥으로 파악…정확도 향상 기술 개발",
      "url": "https://n.news.naver.com/mnews/article/421/0009289563",
@@ -670,6 +820,21 @@
      "title": "모호한 부분도 문맥 읽어 파악...KAIST, 소리 없이 알아듣는 고정확도 AI 개발",
      "url": "https://www.etnews.com/20261113000113",
      "source": "전자신문"
+    },
+    {
+     "title": "청각 장애인 특급 도우미… 입 모양 보고 대화 읽는 AI",
+     "url": "https://n.news.naver.com/mnews/article/023/0004009738",
+     "source": "조선일보"
+    },
+    {
+     "title": "청각장애인 새 희망 될까…소리 없이 입 모양만 보고 대화 읽는 AI",
+     "url": "https://n.news.naver.com/mnews/article/023/0004009694",
+     "source": "조선일보"
+    },
+    {
+     "title": "“목소리 안 들려도 입술만 보고 척척”…KAIST, 대화 읽는 AI 개발",
+     "url": "https://n.news.naver.com/mnews/article/016/0002723590",
+     "source": "헤럴드경제"
     }
    ],
    "scoop": null,
@@ -680,104 +845,103 @@
     "items": 2,
     "applied": false
    },
-   "vs": 4.85,
+   "vs": 5.09,
    "publishedAt": "2026-11-15 13:20"
   },
   {
-   "rank": 13,
-   "title": "美 항공대란에 1.4만편 결항…“15일 완전 정상화”",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001067",
-   "source": "IT조선",
+   "rank": 14,
+   "title": "과기정통부, MS365 장애에 비상대응반 가동",
+   "url": "https://n.news.naver.com/mnews/article/031/0001075059",
+   "source": "아이뉴스24",
    "sources": [
-    "연합뉴스IT",
-    "IT조선"
+    "아이뉴스24",
+    "이데일리"
    ],
-   "outlets": 2,
-   "naverN": 0,
+   "outlets": 6,
+   "naverN": 6,
    "ownN": 2,
    "members": [
     {
-     "title": "美항공당국 \"최악의 상황 지나가…항공운항 15일 완전 정상화\"",
-     "url": "https://www.yna.co.kr/view/AKR20261115001400071?input=1195m",
-     "source": "연합뉴스IT"
+     "title": "MS365 먹통에 국내 기업도 업무 차질…MS 공식 사과, 정부 비상대응반 가동",
+     "url": "https://n.news.naver.com/mnews/article/018/0006409876",
+     "source": "이데일리"
     }
    ],
    "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 4.8,
-   "publishedAt": "2026-11-15 09:53"
-  },
-  {
-   "rank": 14,
-   "title": "KT, AI 화재감지 ‘세이프메이트’ 인천 남동산단에 적용",
-   "url": "https://biz.chosun.com/it-science/ict/2026/11/15/VCGWSS7PIJFVVKWVWCKW2CK2JA/",
-   "source": "조선비즈",
-   "sources": [
-    "IT데일리",
-    "조선비즈",
-    "ZDNet Korea",
-    "아시아경제"
-   ],
-   "outlets": 12,
-   "naverN": 12,
-   "ownN": 4,
-   "members": [
-    {
-     "title": "KT, 인천 남동산단 20개사에 AI 화재감지기…야간·휴일에도 원격 대응",
-     "url": "https://www.itdaily.kr/news/articleView.html?idxno=242938",
-     "source": "IT데일리"
-    },
-    {
-     "title": "KT, 인천 남동산단에 AI 화재안전 서비스 ‘세이프메이트’ 구축",
-     "url": "https://zdnet.co.kr/view/?no=20261115104316",
-     "source": "ZDNet Korea"
-    },
-    {
-     "title": "KT, '세이프메이트'로 산업단지 화재안전 강화",
-     "url": "https://n.news.naver.com/mnews/article/277/0005842749",
-     "source": "아시아경제"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611150940_00000001",
+   "naverCluster": "c_202611141830_00000001",
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 3,
+    "items": 0,
     "applied": false
    },
-   "vs": 4.75,
-   "publishedAt": "2026-11-15 13:35"
+   "vs": 4.81,
+   "publishedAt": "2026-11-15 04:02"
   },
   {
    "rank": 15,
-   "title": "세무사 수석 합격자 “AI로 부정행위” 자백…경찰에 자수",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001069",
-   "source": "IT조선",
+   "title": "BTS, MMA2026서 6관왕…임영웅 '베스트 솔로'·아이브·에스파 대상",
+   "url": "https://zdnet.co.kr/view/?no=20261116000043",
+   "source": "ZDNet Korea",
    "sources": [
-    "IT조선",
     "연합뉴스IT",
-    "전자신문"
+    "한국경제IT",
+    "ZDNet Korea"
    ],
    "outlets": 3,
    "naverN": 0,
    "ownN": 3,
    "members": [
     {
-     "title": "세무사 수석 합격자 AI 부정행위 자수…초소형 카메라로 촬영(종합)",
-     "url": "https://www.yna.co.kr/view/AKR20261115020551004?input=1195m",
+     "title": "BTS, MMA2026서 대상 2개 등 6관왕 '최다'…\"늘 멋지게 빛날 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261115056300005?input=1195m",
      "source": "연합뉴스IT"
     },
     {
-     "title": "AI 안경 의혹' 세무사 수석 합격자, 결국 부정행위 자수… “진짜 수석에 죄송”",
-     "url": "https://www.etnews.com/20261115000036",
-     "source": "전자신문"
+     "title": "BTS 대상 2개 포함 '6관왕'·아이브 눈물의 '5관왕'…MMA 2026 피날레 [종...",
+     "url": "https://www.hankyung.com/article/202611157614H",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "featured",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 4.5,
+   "publishedAt": "2026-11-16 00:00"
+  },
+  {
+   "rank": 16,
+   "title": "코인원, 고객상담 외주업체 해킹으로 개인정보 유출",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001074",
+   "source": "IT조선",
+   "sources": [
+    "데일리시큐",
+    "ZDNet Korea",
+    "IT조선"
+   ],
+   "outlets": 3,
+   "naverN": 0,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "코인원 고객상담 수탁사 해킹…주민번호·계좌번호 등 개인정보 유출",
+     "url": "https://zdnet.co.kr/view/?no=20261115131536",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "메타엠 고객상담 시스템 해킹…전화번호·상담 내용 등 개인정보 유출 확인",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209525",
+     "source": "데일리시큐"
+    },
+    {
+     "title": "[단독] 대구한의대 연구행정시스템 해킹…개인정보 1,281건 유출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209537",
+     "source": "데일리시큐"
     }
    ],
    "scoop": null,
@@ -785,80 +949,14 @@
    "placement": "home-featured",
    "unconf": {
     "sources": 0,
-    "items": 3,
+    "items": 4,
     "applied": false
    },
    "vs": 4.5,
-   "publishedAt": "2026-11-15 10:13"
-  },
-  {
-   "rank": 16,
-   "title": "그라비티, 3분기 영업익 287억원 35%↑…'라그나로크' 글로벌 흥행",
-   "url": "https://n.news.naver.com/article/138/0002248535",
-   "source": "디지털데일리",
-   "sources": [
-    "디지털데일리",
-    "아이뉴스24"
-   ],
-   "outlets": 5,
-   "naverN": 5,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "\"고맙다 라그나로크\" 그라비티, 3분기 성장세 지속",
-     "url": "https://n.news.naver.com/mnews/article/031/0001075032",
-     "source": "아이뉴스24"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611131730_00002198",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 4.33,
-   "publishedAt": "2026-11-14 08:25"
+   "publishedAt": "2026-11-15 13:03"
   },
   {
    "rank": 17,
-   "title": "UNIST, 북극 해빙 분포 한 달 앞서 예측하는 AI '아이스네스트' 개발",
-   "url": "https://n.news.naver.com/mnews/article/277/0005842654",
-   "source": "아시아경제",
-   "sources": [
-    "이데일리",
-    "동아사이언스",
-    "아시아경제"
-   ],
-   "outlets": 5,
-   "naverN": 5,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "UNIST, 북극 항로 운항 돕는 AI 개발 外[과기원NOW]",
-     "url": "https://n.news.naver.com/mnews/article/584/0000040162",
-     "source": "동아사이언스"
-    },
-    {
-     "title": "“북극 뱃길 언제 열릴까”…UNIST, 항로 예측 AI 개발",
-     "url": "https://n.news.naver.com/mnews/article/018/0006409919",
-     "source": "이데일리"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611150940_00000045",
-   "placement": "section",
-   "unconf": {
-    "sources": 0,
-    "items": 0,
-    "applied": false
-   },
-   "vs": 4.3,
-   "publishedAt": "2026-11-15 10:02"
-  },
-  {
-   "rank": 18,
    "title": "엔비디아 톱다운 시대 종말… 美 빅테크 잡은 삼성 파운드리 '턴키 전략...",
    "url": "https://www.ddaily.co.kr/page/view/2026111501043292230",
    "source": "디지털데일리",
@@ -888,7 +986,114 @@
    "publishedAt": "2026-11-15 08:17"
   },
   {
+   "rank": 18,
+   "title": "초소형 카메라에 뚫린 시험장…진짜 인재 찾는 대기업들, 'AI 커닝' 차단 고심",
+   "url": "https://n.news.naver.com/mnews/article/003/0014323197",
+   "source": "뉴시스",
+   "sources": [
+    "매일경제IT",
+    "경향신문",
+    "뉴시스"
+   ],
+   "outlets": 4,
+   "naverN": 4,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "시험장 침투한 AI, 수능 만점 수준 성능···부정행위 탐지 장비는 수백만~수천만원, 기술도 ‘한계’",
+     "url": "https://n.news.naver.com/mnews/article/032/0003482724",
+     "source": "경향신문"
+    },
+    {
+     "title": "전자기기 탐지·통신 차단 거론 되지만… AI 부정방지 뾰족수 없어",
+     "url": "https://n.news.naver.com/mnews/article/009/0005764001",
+     "source": "매일경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611151700_00000002",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 0,
+    "applied": false
+   },
+   "vs": 4.18,
+   "publishedAt": "2026-11-15 16:53"
+  },
+  {
    "rank": 19,
+   "title": "삼성전자, CES 2027 혁신상 19개 수상…갤럭시 Z 폴드8 등 최고 혁신상...",
+   "url": "https://www.ddaily.co.kr/page/view/2026111508432430543",
+   "source": "디지털데일리",
+   "sources": [
+    "연합뉴스IT",
+    "조선비즈",
+    "ZDNet Korea",
+    "IT조선",
+    "디지털데일리",
+    "디지털타임스",
+    "아이뉴스24",
+    "매일경제IT"
+   ],
+   "outlets": 7,
+   "naverN": 0,
+   "ownN": 7,
+   "members": [
+    {
+     "title": "삼성전자 19개·LG전자 8개…‘CES 혁신상’ 나란히 수상",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001072",
+     "source": "IT조선"
+    },
+    {
+     "title": "삼성전자, 메모리부터 가전까지 'CES 2027'서 19개 혁신상 수상",
+     "url": "https://zdnet.co.kr/view/?no=20261115083056",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "삼성전자, CES 2027 혁신상 19개…TV·폴드8·메모리 등 선정",
+     "url": "https://www.dt.co.kr/article/12095182?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "삼성, CES 2027 휩쓸었다… ‘갤럭시 Z 폴드8’ 등 최고혁신상 4개 싹쓸...",
+     "url": "https://www.mk.co.kr/article/12209184",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "삼성전자, CES 2027 혁신상 19개 휩쓸어…‘갤럭시 Z 폴드8’ 최고 혁신...",
+     "url": "https://www.mk.co.kr/article/12209137",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "삼성전자, CES 혁신상 19개 싹쓸이…최고 혁신상은 역대급 4개",
+     "url": "http://www.inews24.com/view/2026278",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "삼성전자, CES 2027 혁신상 19개…폴드8·메모리 등 선정",
+     "url": "https://www.yna.co.kr/view/AKR20261115009500003?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "삼성전자, CES 2027 혁신상 19개 수상",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/KTDRZSDDZZCFVOXVYMRST4MOJY/",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": null,
+   "unconf": {
+    "sources": 0,
+    "items": 10,
+    "applied": false
+   },
+   "vs": 4.15,
+   "publishedAt": "2026-11-15 10:35"
+  },
+  {
+   "rank": 20,
    "title": "LG엔솔, 美 RE+서 차세대 배터리 전력 솔루션 공개",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=65451",
    "source": "디일렉",
@@ -947,37 +1152,109 @@
    "publishedAt": "2026-11-15 17:04"
   },
   {
-   "rank": 20,
-   "title": "코인원, 고객상담 외주업체 해킹으로 개인정보 유출",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001074",
-   "source": "IT조선",
+   "rank": 21,
+   "title": "시험장선 부정행위, 일상선 AI 비서…스마트 안경의 명암",
+   "url": "https://www.yna.co.kr/view/AKR20261113127500017?input=1195m",
+   "source": "연합뉴스IT",
    "sources": [
-    "데일리시큐",
-    "IT조선"
+    "연합뉴스IT",
+    "헤럴드경제"
+   ],
+   "outlets": 4,
+   "naverN": 4,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "부정행위와 일상비서 사이, 스마트안경은 정말 ‘사회악’일까 [세모금]",
+     "url": "https://n.news.naver.com/mnews/article/016/0002723529",
+     "source": "헤럴드경제"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611150000_00000321",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 1,
+    "applied": false
+   },
+   "vs": 4.09,
+   "publishedAt": "2026-11-15 07:33"
+  },
+  {
+   "rank": 22,
+   "title": "[르포] 승조원 없는 600톤급 군함이 떴다…HD현대·안두릴이 만든 미래...",
+   "url": "https://www.ddaily.co.kr/page/view/2026111420574752748",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리",
+    "ZDNet Korea"
    ],
    "outlets": 2,
    "naverN": 0,
    "ownN": 2,
    "members": [
     {
-     "title": "메타엠 고객상담 시스템 해킹…전화번호·상담 내용 등 개인정보 유출 확인",
-     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209525",
-     "source": "데일리시큐"
+     "title": "승조원 없는 함정, 미 해역으로…HD현대·안두릴, 무인수상함 진수",
+     "url": "https://zdnet.co.kr/view/?no=20261115124842",
+     "source": "ZDNet Korea"
     }
    ],
    "scoop": null,
    "naverCluster": null,
-   "placement": "home-featured",
+   "placement": "hero",
    "unconf": {
     "sources": 0,
-    "items": 2,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 4.02,
+   "publishedAt": "2026-11-15 12:04"
+  },
+  {
+   "rank": 23,
+   "title": "최태원 SK그룹 회장, “기존 사업의 틀 깨고 'AI 플라이휠' 구조 만들어야”",
+   "url": "https://www.etnews.com/20261115000033",
+   "source": "전자신문",
+   "sources": [
+    "조선비즈",
+    "테크M",
+    "매일경제IT",
+    "전자신문"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "최태원 “AI 플라이휠 장착하라”… SK 리밸런싱 2.0 시동",
+     "url": "https://www.mk.co.kr/article/12209175",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "최태원 SK 회장 “AI 플라이휠로 성장이 다음 성장을 만들어야”",
+     "url": "https://biz.chosun.com/industry/company/2026/11/15/TRJSN665CJF65JV4UUH7R5DT24/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    },
+    {
+     "title": "최태원 SK 회장 \"'AI 플라이휠' 추진...'토큰 경제' 핵심 목표\"",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=157361",
+     "source": "테크M"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "ranking",
+   "unconf": {
+    "sources": 0,
+    "items": 4,
     "applied": false
    },
    "vs": 3.8,
-   "publishedAt": "2026-11-15 13:03"
+   "publishedAt": "2026-11-15 09:48"
   },
   {
-   "rank": 21,
+   "rank": 24,
    "title": "[젠슨 황 스캔들] ‘불륜에 낙마’…젠슨 황도 못 피한 CEO 잔혹사",
    "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001070",
    "source": "IT조선",
@@ -1007,7 +1284,7 @@
    "publishedAt": "2026-11-15 10:48"
   },
   {
-   "rank": 22,
+   "rank": 25,
    "title": "두산에너빌리티, 발전사와 AI 기반 설비 운영 기술 공유",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=65449",
    "source": "디일렉",
@@ -1049,53 +1326,101 @@
    "publishedAt": "2026-11-15 13:22"
   },
   {
-   "rank": 23,
-   "title": "세미파이브, 3분기 신규 수주 1784억 '역대 최대'…매출도 첫 500억 돌파",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=65444",
+   "rank": 26,
+   "title": "고려아연, 美 핵심광물 통합제련소 전력 사용 승인",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=65447",
    "source": "디일렉",
    "sources": [
-    "디일렉"
+    "전자신문",
+    "디일렉",
+    "조선비즈",
+    "디지털타임스"
    ],
-   "outlets": 1,
+   "outlets": 4,
    "naverN": 0,
-   "ownN": 1,
-   "members": [],
+   "ownN": 4,
+   "members": [
+    {
+     "title": "고려아연, 美 ‘프로젝트 크루서블’ 전력 사용승인…통합제련소 순항",
+     "url": "https://www.dt.co.kr/article/12095293?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "고려아연 '프로젝트 크루서블', 美 대규모 전력 사용 승인…2029년부터 전력 공급",
+     "url": "https://www.etnews.com/20261115000094",
+     "source": "전자신문"
+    },
+    {
+     "title": "고려아연, 美 제련소 대규모 전력 사용 승인… ‘최대 난관’ 넘어서",
+     "url": "https://biz.chosun.com/industry/company/2026/11/15/Z2YDG247NNGM7CHKNEGQNKD2K4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    }
+   ],
    "scoop": null,
    "naverCluster": null,
-   "placement": "home-hero",
+   "placement": null,
    "unconf": {
     "sources": 0,
-    "items": 1,
+    "items": 4,
     "applied": false
    },
-   "vs": 3.22,
-   "publishedAt": "2026-11-14 10:21"
+   "vs": 3.35,
+   "publishedAt": "2026-11-15 13:22"
   },
   {
-   "rank": 24,
-   "title": "코인원 고객센터 수탁사 해킹으로 개인정보 유출…주민번호·계좌번호 등 11개 항목 가능성",
-   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209532",
-   "source": "데일리시큐",
+   "rank": 27,
+   "title": "인력공단, 세무사시험 AI 부정행위 사과…국가자격시험 전수조사",
+   "url": "https://www.yna.co.kr/view/AKR20261115034900530?input=1195m",
+   "source": "연합뉴스IT",
+   "sources": [
+    "연합뉴스IT",
+    "디지털데일리"
+   ],
+   "outlets": 2,
+   "naverN": 0,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "청와대, AI 부정행위 국가자격시험 전수 조사…수능 전 수험생 AI 기기 점검",
+     "url": "https://n.news.naver.com/article/138/0002248610",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "세무사시험 감독관 코앞서 AI 부정행위…국가자격시험 관리 '구멍'",
+     "url": "https://www.yna.co.kr/view/AKR20261115023500530?input=1195m",
+     "source": "연합뉴스IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "featured",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 3.33,
+   "publishedAt": "2026-11-15 15:42"
+  },
+  {
+   "rank": 28,
+   "title": "가상화폐 거래소 코인원, 외주업체 해킹으로 개인정보 유출",
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230907",
+   "source": "매일경제IT",
    "sources": [
     "매일경제IT",
     "한국경제IT",
     "연합뉴스IT",
-    "디지털타임스",
-    "데일리시큐"
+    "디지털타임스"
    ],
-   "outlets": 5,
+   "outlets": 4,
    "naverN": 0,
-   "ownN": 5,
+   "ownN": 4,
    "members": [
     {
      "title": "코인원, 고객 상담 수탁사 해킹으로 개인정보 유출",
      "url": "https://www.dt.co.kr/article/12095146?ref=naver",
      "source": "디지털타임스"
-    },
-    {
-     "title": "가상화폐 거래소 코인원, 외주업체 해킹으로 개인정보 유출",
-     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230907",
-     "source": "매일경제IT"
     },
     {
      "title": "코인원, 외주업체 해킹으로 고객 정보 유출",
@@ -1113,98 +1438,14 @@
    "placement": null,
    "unconf": {
     "sources": 0,
-    "items": 5,
-    "applied": false
-   },
-   "vs": 3.2,
-   "publishedAt": "2026-11-15 13:33"
-  },
-  {
-   "rank": 25,
-   "title": "중기부 ‘모두의 창업’ 개인정보 유출 업체, 제재 조치 나선다",
-   "url": "https://www.mk.co.kr/article/12209181",
-   "source": "매일경제IT",
-   "sources": [
-    "연합뉴스IT",
-    "조선비즈",
-    "전자신문",
-    "매일경제IT"
-   ],
-   "outlets": 4,
-   "naverN": 0,
-   "ownN": 4,
-   "members": [
-    {
-     "title": "중기부, 모두의창업 개인정보 유출 사흘 만에 \"진심으로 사과\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114046700030?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
-     "url": "https://www.etnews.com/20261115000103",
-     "source": "전자신문"
-    },
-    {
-     "title": "올해 두 번째 ‘모두의 창업’ 개인정보 유출…중기부 사흘 만에 사과",
-     "url": "https://biz.chosun.com/industry/business-venture/2026/11/15/EB7RHQ7U4ND4JNLLZOMWLT7LDQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "unconf": {
-    "sources": 0,
     "items": 4,
     "applied": false
    },
    "vs": 3.2,
-   "publishedAt": "2026-11-15 14:45"
+   "publishedAt": "2026-11-15 11:34"
   },
   {
-   "rank": 26,
-   "title": "최태원 “AI 플라이휠 장착하라”… SK 리밸런싱 2.0 시동",
-   "url": "https://www.mk.co.kr/article/12209175",
-   "source": "매일경제IT",
-   "sources": [
-    "조선비즈",
-    "테크M",
-    "매일경제IT",
-    "전자신문"
-   ],
-   "outlets": 4,
-   "naverN": 0,
-   "ownN": 4,
-   "members": [
-    {
-     "title": "최태원 SK그룹 회장, “기존 사업의 틀 깨고 'AI 플라이휠' 구조 만들어야”",
-     "url": "https://www.etnews.com/20261115000033",
-     "source": "전자신문"
-    },
-    {
-     "title": "최태원 SK 회장 “AI 플라이휠로 성장이 다음 성장을 만들어야”",
-     "url": "https://biz.chosun.com/industry/company/2026/11/15/TRJSN665CJF65JV4UUH7R5DT24/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    },
-    {
-     "title": "최태원 SK 회장 \"'AI 플라이휠' 추진...'토큰 경제' 핵심 목표\"",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=157361",
-     "source": "테크M"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "unconf": {
-    "sources": 0,
-    "items": 4,
-    "applied": false
-   },
-   "vs": 3.2,
-   "publishedAt": "2026-11-15 14:32"
-  },
-  {
-   "rank": 27,
+   "rank": 29,
    "title": "머스크 \"젠슨 황 없는 엔비디아, 공급망 핵심 계약 잃게 될 것\"",
    "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5230906",
    "source": "매일경제IT",
@@ -1246,100 +1487,22 @@
    "publishedAt": "2026-11-15 11:32"
   },
   {
-   "rank": 28,
-   "title": "中 전문가 “美 칩 규제 강화시 희토류 맞불”…젠슨 황 여파 지속",
-   "url": "https://biz.chosun.com/international/international_general/2026/11/14/LYY64QPS2BDFRLZPIOJLEPWCZY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-   "source": "조선비즈",
-   "sources": [
-    "조선비즈",
-    "매일경제IT",
-    "한국경제IT",
-    "연합뉴스IT"
-   ],
-   "outlets": 4,
-   "naverN": 0,
-   "ownN": 4,
-   "members": [
-    {
-     "title": "미국, 젠슨 황 퇴진 틈타 반도체 규제 강화할까…중국 전문가 \"희토류로...",
-     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5230843",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "젠슨황 여파 주목…中전문가 \"美 칩규제 강화시 中 희토류 맞불\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114031300089?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "젠슨 황 여파에 美 '칩 규제' 칼바람…중국 \"희토류 맞불\"",
-     "url": "https://www.hankyung.com/article/2026111464557",
-     "source": "한국경제IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "unconf": {
-    "sources": 0,
-    "items": 4,
-    "applied": false
-   },
-   "vs": 3.2,
-   "publishedAt": "2026-11-14 14:50"
-  },
-  {
-   "rank": 29,
-   "title": "‘9천피’ 고점에 발행된 ELS 만기 도래…원금 손실 우려 확산",
-   "url": "https://www.dt.co.kr/article/12095153?ref=naver",
-   "source": "디지털타임스",
-   "sources": [
-    "연합뉴스IT",
-    "조선비즈",
-    "디지털타임스"
-   ],
-   "outlets": 3,
-   "naverN": 0,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "9천피'에 발행된 ELS, 내달부터 만기 도래…원금 손실 우려",
-     "url": "https://www.yna.co.kr/view/AKR20261114023300008?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "‘9000피’에 찍은 고수익 ELS, 내달부터 만기 도래… 반도체 급락에 손실...",
-     "url": "https://biz.chosun.com/stock/stock_general/2026/11/15/AVXYYX3SIJDKBGJF6DJ5PV35ZA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "ranking",
-   "unconf": {
-    "sources": 0,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 2.95,
-   "publishedAt": "2026-11-15 10:18"
-  },
-  {
    "rank": 30,
-   "title": "제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
-   "url": "https://www.etnews.com/20261115000075",
-   "source": "전자신문",
+   "title": "휴머노이드가 마트 계산대에 섰다… 「제21회 국제로봇콘테스트」 성료",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=49586",
+   "source": "로봇신문",
    "sources": [
     "전자신문",
-    "디지털타임스"
+    "로봇신문"
    ],
    "outlets": 2,
    "naverN": 0,
    "ownN": 2,
    "members": [
     {
-     "title": "휴머노이드가 마트 계산대에 섰다…‘21회 국제로봇콘테스트’ 성료",
-     "url": "https://n.news.naver.com/mnews/article/029/0003059107",
-     "source": "디지털타임스"
+     "title": "제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
+     "url": "https://www.etnews.com/20261115000075",
+     "source": "전자신문"
     }
    ],
    "scoop": null,
@@ -1347,11 +1510,11 @@
    "placement": "section",
    "unconf": {
     "sources": 0,
-    "items": 1,
+    "items": 2,
     "applied": false
    },
    "vs": 2.9,
-   "publishedAt": "2026-11-15 12:26"
+   "publishedAt": "2026-11-15 18:50"
   }
  ]
 }
