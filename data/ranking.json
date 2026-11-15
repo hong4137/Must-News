@@ -1,63 +1,201 @@
 {
- "updated": "2026-11-15 08:51",
+ "updated": "2026-11-15 18:31",
  "window_hours": 36,
  "articles": [
   {
    "rank": 1,
-   "title": "“韓 시장, 혁신 영감 주는 곳…한국 거점 확대 검토” [옴니사 원 2026]",
-   "url": "https://www.ddaily.co.kr/page/view/2026111317134514152",
-   "source": "디지털데일리",
+   "title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\"",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217408",
+   "source": "AI타임스",
    "sources": [
+    "조선비즈",
+    "ZDNet Korea",
+    "블로터",
+    "AI타임스",
+    "한국경제IT",
+    "전자신문",
+    "연합뉴스IT",
     "디지털데일리",
-    "전자신문"
+    "IT데일리",
+    "뉴시스"
    ],
-   "outlets": 6,
-   "naverN": 6,
-   "ownN": 2,
+   "outlets": 23,
+   "naverN": 23,
+   "ownN": 10,
    "members": [
     {
-     "title": "VM웨어 의존 낮추는 옴니사…AI 통제 ‘엘라라’가 차별화 핵심 무기 [옴니사 원 2026]",
-     "url": "https://n.news.naver.com/article/138/0002248539",
+     "title": "LGU+, AI 코딩 모델 운영비 90% 절감…내년 B2B 사업화",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=242924",
+     "source": "IT데일리"
+    },
+    {
+     "title": "LGU+, 2027년 AI 비용 낮추는 토큰 사업 진출",
+     "url": "https://zdnet.co.kr/view/?no=20261113200433",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "재주 부리는 곰' 이제 그만…AI 시대엔 달라질까[AI 간판 단 통신사③]",
+     "url": "https://n.news.naver.com/mnews/article/003/0014322497",
+     "source": "뉴시스"
+    },
+    {
+     "title": "\"더 큰 모델 아닌 더 싼 업무완결\"…LGU+, 토큰 최적화로 B2B AI 출사표",
+     "url": "https://n.news.naver.com/article/138/0002248569",
      "source": "디지털데일리"
     },
     {
-     "title": "VM웨어 의존 낮추는 옴니사… AI 통제 ‘엘라라’가 차별화 핵심 무기 [옴...",
-     "url": "https://www.ddaily.co.kr/page/view/2026111317265207741",
-     "source": "디지털데일리"
+     "title": "커지는 AI 청구서 잡는다…LGU+, '토큰 최적화' 승부수 [현장+]",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=678501",
+     "source": "블로터"
     },
     {
-     "title": "[옴니사 원 도쿄 2026] 옴니사, AI 에이전트 통제 솔루션 '엘라라' 내년 출시",
-     "url": "https://www.etnews.com/20261113000244",
+     "title": "\"AI 성능 높이고 비용 낮춘다\"…LGU+, 내년 토큰 사업 추진[가보니]",
+     "url": "https://n.news.naver.com/mnews/article/001/0016442176",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "LG유플러스, 내년 AI 토큰 사업 진출…“기업 AX 청구서 낮춘다”",
+     "url": "https://n.news.naver.com/mnews/article/030/0003485602",
      "source": "전자신문"
+    },
+    {
+     "title": "LG유플러스, 토큰 최적화 사업 본격화… “코딩 AI 비용 90% 절감”",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/CDGZDVABNZCNRN7WBOC4BYZMWE/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "LGU+, 토큰사업 진출…\"AI 비용 확 줄일 것\"",
+     "url": "https://www.hankyung.com/article/2026111574531",
+     "source": "한국경제IT"
     }
    ],
    "scoop": null,
-   "naverCluster": "c_202611131150_00001653",
+   "naverCluster": "c_202611150710_00000024",
    "placement": "home-featured",
    "unconf": {
     "sources": 0,
-    "items": 5,
+    "items": 7,
     "applied": false
    },
    "vs": 6.45,
-   "publishedAt": "2026-11-14 06:01"
+   "publishedAt": "2026-11-15 09:00"
   },
   {
    "rank": 2,
+   "title": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=217414",
+   "source": "AI타임스",
+   "sources": [
+    "매일경제IT",
+    "SBS",
+    "AI타임스",
+    "조선비즈",
+    "연합뉴스IT",
+    "이데일리",
+    "디지털데일리",
+    "한국경제IT",
+    "KBS",
+    "테크M",
+    "서울경제",
+    "한국경제TV",
+    "대전일보",
+    "디지털타임스",
+    "YTN",
+    "경기일보",
+    "헤럴드경제",
+    "한국일보"
+   ],
+   "outlets": 96,
+   "naverN": 96,
+   "ownN": 18,
+   "members": [
+    {
+     "title": "MS, 전 세계 서비스 장애 복구 진전...\"원인은 네트워크 작업 오류\"",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=217398",
+     "source": "AI타임스"
+    },
+    {
+     "title": "정부, MS 서비스 장애에 비상대응반 가동…국내 피해 점검",
+     "url": "https://n.news.naver.com/mnews/article/056/0012293951",
+     "source": "KBS"
+    },
+    {
+     "title": "\"메일 안 돼서 팩스 썼다\"…이틀째 먹통에 고개 숙인 MS",
+     "url": "https://n.news.naver.com/mnews/article/055/0001402986",
+     "source": "SBS"
+    },
+    {
+     "title": "MS 서비스 36시간 만에 복구...전세계 장애 신고 740만 건",
+     "url": "https://n.news.naver.com/mnews/article/052/0002432892",
+     "source": "YTN"
+    },
+    {
+     "title": "“전 세계 직장인 발 묶은 MS”…36시간 만에 복구, 피해액 최대 6천700억",
+     "url": "https://n.news.naver.com/mnews/article/666/0000132050",
+     "source": "경기일보"
+    },
+    {
+     "title": "전 세계 덮친 MS 장애 36시간 만에 정상화…보험 손실 최대 6700억",
+     "url": "https://n.news.naver.com/mnews/article/656/0000192381",
+     "source": "대전일보"
+    },
+    {
+     "title": "‘아웃룩·팀즈 먹통’ MS 공식 사과…“점진적 복구 진행 중, 사후 보고서 공개”",
+     "url": "https://n.news.naver.com/article/138/0002248550",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "‘아웃룩·팀즈 먹통’ MS 공식 사과…“점진적 복구 진행 중, 사후 보고...",
+     "url": "https://www.ddaily.co.kr/page/view/2026111414204523752",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "36시간 멈췄던 MS 365 복구 완료…챗GPT·클로드 업무 연동도 연쇄 오류",
+     "url": "https://n.news.naver.com/article/138/0002248580",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "전세계 업무 마비시킨 MS 장애, 36시간만에 복구…막대한 피해 발생",
+     "url": "https://www.dt.co.kr/article/12095128?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“오늘 일 못 합니다”…이틀째 ‘먹통 대란’에 고개 숙인 MS",
+     "url": "https://www.mk.co.kr/article/12208721",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "“1년 365일 된다더니 ‘MS364’냐”… 24시간 넘긴 MS 먹통에 전 세계 조롱 봇물",
+     "url": "https://n.news.naver.com/mnews/article/009/0005763667",
+     "source": "매일경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611130600_00000004",
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 14,
+    "applied": false
+   },
+   "vs": 6,
+   "publishedAt": "2026-11-15 08:20"
+  },
+  {
+   "rank": 3,
    "title": "허준·심양홍 \"SWC 월드 파이널, 10년 비결은 누구나 즐기는 재미\"",
    "url": "https://zdnet.co.kr/view/?no=20261114133000",
    "source": "ZDNet Korea",
    "sources": [
-    "로봇신문",
-    "한국경제IT",
     "ZDNet Korea",
+    "한국경제IT",
     "디지털데일리",
-    "매일경제IT",
-    "아시아경제"
+    "테크M",
+    "매일경제IT"
    ],
    "outlets": 14,
    "naverN": 14,
-   "ownN": 6,
+   "ownN": 5,
    "members": [
     {
      "title": "세계 최강 소환사 가린다…'SWC 2026' 월드 파이널 개막",
@@ -80,11 +218,6 @@
      "source": "디지털데일리"
     },
     {
-     "title": "국내 최대 로봇경진대회 '2026 국제로봇콘테스트(IRC)' 13일 대구 엑스코에서 개막",
-     "url": "https://www.irobotnews.com/news/articleView.html?idxno=49582",
-     "source": "로봇신문"
-    },
-    {
      "title": "‘타스’, ‘SWC2026’ 월드 파이널 우승…4년 만에 정상 탈환",
      "url": "https://n.news.naver.com/mnews/article/009/0005763721",
      "source": "매일경제IT"
@@ -95,9 +228,9 @@
      "source": "매일경제IT"
     },
     {
-     "title": "컴투스 'SWC2026' 월드 파이널 성료…中 타스, 두 번째 우승",
-     "url": "https://n.news.naver.com/mnews/article/277/0005842611",
-     "source": "아시아경제"
+     "title": "컴투스 'SWC 2026' 월드 파이널 성료...中 '타스' 2회 우승 진기록 수립",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=157366",
+     "source": "테크M"
     },
     {
      "title": "2026 대구국제기계산업대전 17일 개막",
@@ -117,7 +250,83 @@
    "publishedAt": "2026-11-14 13:32"
   },
   {
-   "rank": 3,
+   "rank": 4,
+   "title": "LG 테네시 공장, 세탁기 1000만대 생산…휴머노이드 '클로이드'도 투입",
+   "url": "https://zdnet.co.kr/view/?no=20261115093449",
+   "source": "ZDNet Korea",
+   "sources": [
+    "조선비즈",
+    "ZDNet Korea",
+    "IT조선",
+    "디지털데일리",
+    "아이뉴스24",
+    "연합뉴스IT",
+    "디지털타임스",
+    "한국경제IT"
+   ],
+   "outlets": 8,
+   "naverN": 0,
+   "ownN": 8,
+   "members": [
+    {
+     "title": "LG전자, 美 테네시 공장 세탁가전 누적 1000만대 돌파",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001073",
+     "source": "IT조선"
+    },
+    {
+     "title": "LG전자 테네시 공장, 세탁가전 누적 생산 1000만대 돌파",
+     "url": "https://n.news.naver.com/article/138/0002248581",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "LG전자 테네시 공장, 세탁가전 누적 생산 1000만대 돌파",
+     "url": "https://www.ddaily.co.kr/page/view/2026111510242737843",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "LG전자 테네시 공장, 누적 생산 1000만대…“북미 세탁·건조기 1위 등극...",
+     "url": "https://www.dt.co.kr/article/12095156?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "LG전자 美 테네시 공장, 누적 생산 1000만대 돌파",
+     "url": "http://www.inews24.com/view/2026273",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "LG전자 테네시 공장, 세탁가전 누적 생산 1천만 대 돌파",
+     "url": "https://www.yna.co.kr/view/PYH20261115017400013?input=1196m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "LG전자 미국 테네시 공장, 세탁가전 누적 생산 1천만대 돌파",
+     "url": "https://www.yna.co.kr/view/AKR20261115010800003?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "LG전자 테네시 공장, 누적 생산 1000만대 돌파",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/QODPYAWPM5FOXH3OUZBRL4ITRQ/",
+     "source": "조선비즈"
+    },
+    {
+     "title": "LG전자 美테네시 공장, 1000만대 생산 달성",
+     "url": "https://www.hankyung.com/article/2026111574431",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "featured",
+   "unconf": {
+    "sources": 0,
+    "items": 10,
+    "applied": false
+   },
+   "vs": 6,
+   "publishedAt": "2026-11-15 10:00"
+  },
+  {
+   "rank": 5,
    "title": "MS 365 대규모 장애 근본 원인 해결…일부 고객·지역 복구 지속",
    "url": "https://zdnet.co.kr/view/?no=20261114164446",
    "source": "ZDNet Korea",
@@ -187,7 +396,7 @@
    "publishedAt": "2026-11-14 18:22"
   },
   {
-   "rank": 4,
+   "rank": 6,
    "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
    "source": "AI타임스",
@@ -223,139 +432,22 @@
    "publishedAt": "2026-11-14 17:03"
   },
   {
-   "rank": 5,
-   "title": "‘아웃룩·팀즈 먹통’ MS 공식 사과…“점진적 복구 진행 중, 사후 보고...",
-   "url": "https://www.ddaily.co.kr/page/view/2026111414204523752",
-   "source": "디지털데일리",
-   "sources": [
-    "매일경제IT",
-    "SBS",
-    "연합뉴스IT",
-    "AI타임스",
-    "조선비즈",
-    "디지털데일리",
-    "한국경제IT",
-    "KBS",
-    "이데일리",
-    "서울경제",
-    "한국경제TV",
-    "디지털타임스",
-    "YTN",
-    "경기일보",
-    "헤럴드경제",
-    "한국일보"
-   ],
-   "outlets": 96,
-   "naverN": 96,
-   "ownN": 16,
-   "members": [
-    {
-     "title": "MS, 전 세계 서비스 장애 복구 진전...\"원인은 네트워크 작업 오류\"",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217398",
-     "source": "AI타임스"
-    },
-    {
-     "title": "MS, 전 세계 서비스 장애 완전 복구…팩스 부활에 밈까지 등장",
-     "url": "https://www.aitimes.com/news/articleView.html?idxno=217414",
-     "source": "AI타임스"
-    },
-    {
-     "title": "정부, MS 서비스 장애에 비상대응반 가동…국내 피해 점검",
-     "url": "https://n.news.naver.com/mnews/article/056/0012293951",
-     "source": "KBS"
-    },
-    {
-     "title": "\"메일 안 돼서 팩스 썼다\"…이틀째 먹통에 고개 숙인 MS",
-     "url": "https://n.news.naver.com/mnews/article/055/0001402986",
-     "source": "SBS"
-    },
-    {
-     "title": "MS 서비스 36시간 만에 복구...전세계 장애 신고 740만 건",
-     "url": "https://n.news.naver.com/mnews/article/052/0002432892",
-     "source": "YTN"
-    },
-    {
-     "title": "“전 세계 직장인 발 묶은 MS”…36시간 만에 복구, 피해액 최대 6천700억",
-     "url": "https://n.news.naver.com/mnews/article/666/0000132050",
-     "source": "경기일보"
-    },
-    {
-     "title": "전세계 업무 마비시킨 MS 장애, 36시간만에 복구…막대한 피해 발생",
-     "url": "https://www.dt.co.kr/article/12095128?ref=naver",
-     "source": "디지털타임스"
-    },
-    {
-     "title": "“오늘 일 못 합니다”…이틀째 ‘먹통 대란’에 고개 숙인 MS",
-     "url": "https://www.mk.co.kr/article/12208721",
-     "source": "매일경제IT"
-    },
-    {
-     "title": "‘전 세계 행정·금융·항공 차질’…MS 서비스, 36시간 만에 정상화",
-     "url": "https://n.news.naver.com/mnews/article/011/0004682203",
-     "source": "서울경제"
-    },
-    {
-     "title": "이틀째 이어진 장애에 MS 사과…온라인서 'MS364'로 조롱받기도",
-     "url": "https://www.yna.co.kr/view/AKR20261114006400091?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "전세계 업무 마비시킨 MS 서비스 장애 36시간만에 복구",
-     "url": "https://www.yna.co.kr/view/AKR20261114045100009?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "MS365 먹통에 국내 기업도 업무 차질…MS 공식 사과, 정부 비상대응반 가동",
-     "url": "https://n.news.naver.com/mnews/article/018/0006409876",
-     "source": "이데일리"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611130600_00000004",
-   "placement": "featured",
-   "unconf": {
-    "sources": 0,
-    "items": 13,
-    "applied": false
-   },
-   "vs": 5.53,
-   "publishedAt": "2026-11-14 14:21"
-  },
-  {
-   "rank": 6,
+   "rank": 7,
    "title": "배경훈 “젠슨 황 떠나도 GPU 동맹 문제없어…26만장 공급 약속 유지”",
    "url": "https://www.ddaily.co.kr/page/view/2026111408535993745",
    "source": "디지털데일리",
    "sources": [
     "IT조선",
-    "디지털데일리",
-    "kbc광주방송",
-    "JTBC",
-    "연합뉴스TV"
+    "디지털데일리"
    ],
    "outlets": 55,
    "naverN": 55,
-   "ownN": 5,
+   "ownN": 2,
    "members": [
     {
      "title": "[젠슨 황 스캔들] 배경훈 부총리“젠슨 황 사임에도 엔비디아 韓 GPU 공급 유지”",
      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001058",
      "source": "IT조선"
-    },
-    {
-     "title": "젠슨 황 사임에 정부 긴급 점검…\"GPU 26만 장 공급 지속 추진\"",
-     "url": "https://n.news.naver.com/mnews/article/437/0000520719",
-     "source": "JTBC"
-    },
-    {
-     "title": "젠슨 황 없는 엔비디아' 긴급 대응…정부 \"엔비디아, GPU 26만 장 공급 재확인\"",
-     "url": "https://n.news.naver.com/mnews/article/660/0000121324",
-     "source": "kbc광주방송"
-    },
-    {
-     "title": "젠슨 황 리스크'에 정부도 총력 대응…긴급 점검",
-     "url": "https://n.news.naver.com/mnews/article/422/0000926169",
-     "source": "연합뉴스TV"
     }
    ],
    "scoop": null,
@@ -370,194 +462,85 @@
    "publishedAt": "2026-11-14 09:23"
   },
   {
-   "rank": 7,
-   "title": "\"이제는 젠지의 시간\"…'롤드컵' 첫 우승까지 단 한 걸음",
-   "url": "https://n.news.naver.com/article/138/0002248544",
-   "source": "디지털데일리",
-   "sources": [
-    "디지털데일리",
-    "뉴시스"
-   ],
-   "outlets": 10,
-   "naverN": 10,
-   "ownN": 2,
-   "members": [
-    {
-     "title": "바이퍼 \"마지막 LCK 팀도 꺾겠다\"…젠지에 도전장[롤드컵]",
-     "url": "https://n.news.naver.com/mnews/article/003/0014321816",
-     "source": "뉴시스"
-    },
-    {
-     "title": "쵸비 \"젠지의 해로\" vs 바이퍼 \"마지막 LCK 팀도 꺾겠다\"(종합)[롤드컵]",
-     "url": "https://n.news.naver.com/mnews/article/003/0014321823",
-     "source": "뉴시스"
-    },
-    {
-     "title": "쵸비 \"젠지의 해로\"…기인·캐니언 \"3대1로 우승 예상\"[롤드컵]",
-     "url": "https://n.news.naver.com/mnews/article/003/0014321815",
-     "source": "뉴시스"
-    },
-    {
-     "title": "젠지, BLG에 역전 허용…우승 도전 벼랑 끝[롤드컵]",
-     "url": "https://n.news.naver.com/mnews/article/003/0014322529",
-     "source": "뉴시스"
-    },
-    {
-     "title": "\"LCK 4팀 모두 꺾겠다\"…BLG 양대인·바이퍼, '롤드컵' 우승 자신감",
-     "url": "https://n.news.naver.com/article/138/0002248543",
-     "source": "디지털데일리"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611131640_00000925",
-   "placement": "featured",
-   "unconf": {
-    "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 5.53,
-   "publishedAt": "2026-11-14 11:37"
-  },
-  {
    "rank": 8,
-   "title": "젠슨 황이 '겁먹은 사슴'이라 비하한 임원, 엔비디아 새 수장으로… 콜레트 크레스는 누구?",
-   "url": "https://www.etnews.com/20261114000017",
-   "source": "전자신문",
+   "title": "북한 해킹조직, 정부·금융 서버 겨냥…국내 30곳 표적 명단 확인",
+   "url": "https://zdnet.co.kr/view/?no=20261115140951",
+   "source": "ZDNet Korea",
    "sources": [
-    "한국경제IT",
-    "아이뉴스24",
-    "연합뉴스IT",
-    "디지털타임스",
+    "조선비즈",
+    "디지털데일리",
+    "ZDNet Korea",
+    "SBS",
+    "YTN",
+    "MBN",
     "매일경제IT",
-    "전자신문"
+    "중앙일보",
+    "동아일보",
+    "아시아경제"
    ],
-   "outlets": 5,
-   "naverN": 0,
-   "ownN": 5,
+   "outlets": 28,
+   "naverN": 28,
+   "ownN": 10,
    "members": [
     {
-     "title": "“겁먹은 사슴”…엠비디아 임시 수장, 과거 젠슨 황에게 혹평 들었다",
-     "url": "https://www.dt.co.kr/article/12095068?ref=naver",
-     "source": "디지털타임스"
+     "title": "북한 라자루스, 국내 서버 30곳 노렸다…금융 탈취·첩보 수집 목적",
+     "url": "https://n.news.naver.com/mnews/article/057/0001978242",
+     "source": "MBN"
     },
     {
-     "title": "엔비디아 임시 CEO 누군가 했더니…젠슨 황 “겁먹은 사슴”",
-     "url": "https://www.mk.co.kr/article/12208413",
+     "title": "\"한국 IP 대역 유망\"…북한 라자루스, 국내 서버 30곳 노렸다",
+     "url": "https://n.news.naver.com/mnews/article/055/0001403100",
+     "source": "SBS"
+    },
+    {
+     "title": "\"북한 라자루스, 국내 서버 30곳 노려...공격 시도\"",
+     "url": "https://n.news.naver.com/mnews/article/052/0002432979",
+     "source": "YTN"
+    },
+    {
+     "title": "“한국 IP 대역 유망” 北 해킹조직 라자루스, 국내 서버 30곳 노렸다",
+     "url": "https://n.news.naver.com/mnews/article/020/0003762509",
+     "source": "동아일보"
+    },
+    {
+     "title": "[PHP 비상] 北 라자루스, 한국 서버 30곳 노렸다…국가기관·금융 표적",
+     "url": "https://n.news.naver.com/article/138/0002248584",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "정부·은행·통신까지 겨눴다…북한 해킹조직, 한국 서버 30곳 공격",
+     "url": "https://n.news.naver.com/mnews/article/009/0005763777",
      "source": "매일경제IT"
     },
     {
-     "title": "젠슨 황, 임시 CEO에 '겁먹은 사슴' 비난한 적 있어",
-     "url": "http://www.inews24.com/view/2026161",
-     "source": "아이뉴스24"
+     "title": "북한 해킹조직, 전 세계 서버 581곳 노렸다…한국 정부도 겨냥",
+     "url": "https://n.news.naver.com/mnews/article/277/0005842672",
+     "source": "아시아경제"
     },
     {
-     "title": "\"엔비디아 임시 CEO, 과거 젠슨황에게 '겁먹은 사슴' 혹평 들어\"",
-     "url": "https://www.yna.co.kr/view/AKR20261113175400009?input=1195m",
-     "source": "연합뉴스IT"
+     "title": "“북한 해킹 조직 라자루스, 韓 서버 30곳 노렸다”… 정부·금융기관이 표적",
+     "url": "https://biz.chosun.com/it-science/ict/2026/11/15/IZV2K2PTVNEFFHBBAOPJ5HO4YI/",
+     "source": "조선비즈"
     },
     {
-     "title": "\"엔비디아 임시 CEO, 젠슨 황이 '겁먹은 사슴'이라 혹평\"",
-     "url": "https://www.hankyung.com/article/2026111360417",
-     "source": "한국경제IT"
+     "title": "“韓 IP 대역 유망”…‘北해킹조직’ 라자루스 찍은 국내 서버 30곳",
+     "url": "https://n.news.naver.com/mnews/article/025/0003565197",
+     "source": "중앙일보"
     }
    ],
    "scoop": null,
-   "naverCluster": null,
-   "placement": "featured",
-   "unconf": {
-    "sources": 3,
-    "items": 6,
-    "applied": false
-   },
-   "vs": 4.8,
-   "publishedAt": "2026-11-14 14:30"
-  },
-  {
-   "rank": 9,
-   "title": "美 전역 항공기 이륙 중단…관제 통신 장애",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001061",
-   "source": "IT조선",
-   "sources": [
-    "전자신문",
-    "IT조선",
-    "아이뉴스24"
-   ],
-   "outlets": 3,
-   "naverN": 0,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "미국 전역 항공기 이륙 4시간여 중단⋯9·11 테러 이후 최장",
-     "url": "http://www.inews24.com/view/2026188",
-     "source": "아이뉴스24"
-    },
-    {
-     "title": "美 전역 항공기 이륙 중단…관제통신 장애에 항공대란",
-     "url": "https://www.etnews.com/20261114000013",
-     "source": "전자신문"
-    },
-    {
-     "title": "美 전역 공항 항공기 이륙 '올스톱'…통신 장애에 1만1000편 운항 차질",
-     "url": "https://www.etnews.com/20261114000009",
-     "source": "전자신문"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 0,
-    "items": 4,
-    "applied": false
-   },
-   "vs": 4.5,
-   "publishedAt": "2026-11-14 11:35"
-  },
-  {
-   "rank": 10,
-   "title": "그라비티, 3분기 영업익 287억원…전년比 35.0%↑",
-   "url": "https://zdnet.co.kr/view/?no=20261113210355",
-   "source": "ZDNet Korea",
-   "sources": [
-    "테크M",
-    "ZDNet Korea",
-    "디지털데일리",
-    "아이뉴스24"
-   ],
-   "outlets": 5,
-   "naverN": 5,
-   "ownN": 4,
-   "members": [
-    {
-     "title": "그라비티, 3분기 영업익 287억원 35%↑…'라그나로크' 글로벌 흥행",
-     "url": "https://n.news.naver.com/article/138/0002248535",
-     "source": "디지털데일리"
-    },
-    {
-     "title": "\"고맙다 라그나로크\" 그라비티, 3분기 성장세 지속",
-     "url": "https://n.news.naver.com/mnews/article/031/0001075032",
-     "source": "아이뉴스24"
-    },
-    {
-     "title": "라그나로크 IP'로 실적 키운 그라비티...3Q 영업익 35% '껑충'",
-     "url": "https://www.techm.kr/news/articleView.html?idxno=157347",
-     "source": "테크M"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": "c_202611131730_00002198",
+   "naverCluster": "c_202611150820_00000026",
    "placement": "section",
    "unconf": {
-    "sources": 0,
+    "sources": 1,
     "items": 3,
     "applied": false
    },
-   "vs": 4.33,
-   "publishedAt": "2026-11-13 21:03"
+   "vs": 5.53,
+   "publishedAt": "2026-11-15 15:12"
   },
   {
-   "rank": 11,
+   "rank": 9,
    "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
    "source": "AI타임스",
@@ -565,8 +548,8 @@
     "디지털데일리",
     "AI타임스"
    ],
-   "outlets": 2,
-   "naverN": 0,
+   "outlets": 9,
+   "naverN": 9,
    "ownN": 2,
    "members": [
     {
@@ -576,48 +559,497 @@
     }
    ],
    "scoop": null,
-   "naverCluster": null,
+   "naverCluster": "c_202611140850_00000042",
    "placement": "home-ranking",
    "unconf": {
     "sources": 0,
     "items": 2,
     "applied": false
    },
-   "vs": 3.68,
+   "vs": 5.5,
    "publishedAt": "2026-11-14 10:41"
   },
   {
-   "rank": 12,
-   "title": "라이엇 게임즈, 2027 롤드컵 한일 공동 개최…결승은 서울 아레나",
-   "url": "https://zdnet.co.kr/view/?no=20261114105315",
-   "source": "ZDNet Korea",
+   "rank": 10,
+   "title": "[IT돋보기] 20년 만에 지도 반출⋯구글, 韓 서비스 강화 추진",
+   "url": "http://www.inews24.com/view/2026182",
+   "source": "아이뉴스24",
+   "sources": [
+    "아이뉴스24",
+    "뉴시스",
+    "이데일리"
+   ],
+   "outlets": 8,
+   "naverN": 8,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "구글 지도 빗장 풀렸다…티맵·네이버·카카오 '내비 삼국지' 흔들까",
+     "url": "https://n.news.naver.com/mnews/article/003/0014321886",
+     "source": "뉴시스"
+    },
+    {
+     "title": "구글 지도 ‘20년 빗장’ 풀렸다…사후 관리에 촉각",
+     "url": "https://n.news.naver.com/mnews/article/018/0006410060",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611131220_00000001",
+   "placement": "home-ranking",
+   "unconf": {
+    "sources": 1,
+    "items": 1,
+    "applied": false
+   },
+   "vs": 5.38,
+   "publishedAt": "2026-11-15 08:01"
+  },
+  {
+   "rank": 11,
+   "title": "VM웨어 의존 낮추는 옴니사… AI 통제 ‘엘라라’가 차별화 핵심 무기 [옴...",
+   "url": "https://www.ddaily.co.kr/page/view/2026111317265207741",
+   "source": "디지털데일리",
    "sources": [
     "디지털데일리",
-    "ZDNet Korea"
+    "전자신문"
+   ],
+   "outlets": 6,
+   "naverN": 6,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "[옴니사 원 도쿄 2026] 옴니사, AI 에이전트 통제 솔루션 '엘라라' 내년 출시",
+     "url": "https://www.etnews.com/20261113000244",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611131150_00001653",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 5.19,
+   "publishedAt": "2026-11-14 08:47"
+  },
+  {
+   "rank": 12,
+   "title": "KAIST, 소리 없이 입 모양 만으로 글자 변환하는 AI 고도화",
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/15/2H46OVESRND2ZPEPXNPMEBW4PA/",
+   "source": "조선비즈",
+   "sources": [
+    "전자신문",
+    "조선비즈",
+    "아이뉴스24",
+    "디지털타임스",
+    "뉴스1"
+   ],
+   "outlets": 13,
+   "naverN": 13,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "입모양 읽는 AI, 헷갈리면 문맥으로 파악…정확도 향상 기술 개발",
+     "url": "https://n.news.naver.com/mnews/article/421/0009289563",
+     "source": "뉴스1"
+    },
+    {
+     "title": "입모양으로 알아 듣는 AI…시각적 음성인식 정확도 높여",
+     "url": "https://n.news.naver.com/mnews/article/029/0003059138",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "너의 입 모양만으로도 난 소통한다 [지금은 과학]",
+     "url": "https://n.news.naver.com/mnews/article/031/0001075085",
+     "source": "아이뉴스24"
+    },
+    {
+     "title": "모호한 부분도 문맥 읽어 파악...KAIST, 소리 없이 알아듣는 고정확도 AI 개발",
+     "url": "https://www.etnews.com/20261113000113",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611151210_00000003",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 4.85,
+   "publishedAt": "2026-11-15 13:20"
+  },
+  {
+   "rank": 13,
+   "title": "美 항공대란에 1.4만편 결항…“15일 완전 정상화”",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001067",
+   "source": "IT조선",
+   "sources": [
+    "연합뉴스IT",
+    "IT조선"
    ],
    "outlets": 2,
    "naverN": 0,
    "ownN": 2,
    "members": [
     {
-     "title": "2027년 '롤드컵' 韓日 공동 개최…결승 무대는 서울 아레나",
-     "url": "https://n.news.naver.com/article/138/0002248538",
-     "source": "디지털데일리"
+     "title": "美항공당국 \"최악의 상황 지나가…항공운항 15일 완전 정상화\"",
+     "url": "https://www.yna.co.kr/view/AKR20261115001400071?input=1195m",
+     "source": "연합뉴스IT"
     }
    ],
    "scoop": null,
    "naverCluster": null,
-   "placement": "ranking",
+   "placement": "home-hero",
    "unconf": {
     "sources": 0,
     "items": 2,
     "applied": false
    },
-   "vs": 3.3,
-   "publishedAt": "2026-11-14 10:53"
+   "vs": 4.8,
+   "publishedAt": "2026-11-15 09:53"
   },
   {
-   "rank": 13,
+   "rank": 14,
+   "title": "KT, AI 화재감지 ‘세이프메이트’ 인천 남동산단에 적용",
+   "url": "https://biz.chosun.com/it-science/ict/2026/11/15/VCGWSS7PIJFVVKWVWCKW2CK2JA/",
+   "source": "조선비즈",
+   "sources": [
+    "IT데일리",
+    "조선비즈",
+    "ZDNet Korea",
+    "아시아경제"
+   ],
+   "outlets": 12,
+   "naverN": 12,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "KT, 인천 남동산단 20개사에 AI 화재감지기…야간·휴일에도 원격 대응",
+     "url": "https://www.itdaily.kr/news/articleView.html?idxno=242938",
+     "source": "IT데일리"
+    },
+    {
+     "title": "KT, 인천 남동산단에 AI 화재안전 서비스 ‘세이프메이트’ 구축",
+     "url": "https://zdnet.co.kr/view/?no=20261115104316",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "KT, '세이프메이트'로 산업단지 화재안전 강화",
+     "url": "https://n.news.naver.com/mnews/article/277/0005842749",
+     "source": "아시아경제"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611150940_00000001",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 4.75,
+   "publishedAt": "2026-11-15 13:35"
+  },
+  {
+   "rank": 15,
+   "title": "세무사 수석 합격자 “AI로 부정행위” 자백…경찰에 자수",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001069",
+   "source": "IT조선",
+   "sources": [
+    "IT조선",
+    "연합뉴스IT",
+    "전자신문"
+   ],
+   "outlets": 3,
+   "naverN": 0,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "세무사 수석 합격자 AI 부정행위 자수…초소형 카메라로 촬영(종합)",
+     "url": "https://www.yna.co.kr/view/AKR20261115020551004?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "AI 안경 의혹' 세무사 수석 합격자, 결국 부정행위 자수… “진짜 수석에 죄송”",
+     "url": "https://www.etnews.com/20261115000036",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 4.5,
+   "publishedAt": "2026-11-15 10:13"
+  },
+  {
+   "rank": 16,
+   "title": "그라비티, 3분기 영업익 287억원 35%↑…'라그나로크' 글로벌 흥행",
+   "url": "https://n.news.naver.com/article/138/0002248535",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리",
+    "아이뉴스24"
+   ],
+   "outlets": 5,
+   "naverN": 5,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "\"고맙다 라그나로크\" 그라비티, 3분기 성장세 지속",
+     "url": "https://n.news.naver.com/mnews/article/031/0001075032",
+     "source": "아이뉴스24"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611131730_00002198",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 1,
+    "applied": false
+   },
+   "vs": 4.33,
+   "publishedAt": "2026-11-14 08:25"
+  },
+  {
+   "rank": 17,
+   "title": "UNIST, 북극 해빙 분포 한 달 앞서 예측하는 AI '아이스네스트' 개발",
+   "url": "https://n.news.naver.com/mnews/article/277/0005842654",
+   "source": "아시아경제",
+   "sources": [
+    "이데일리",
+    "동아사이언스",
+    "아시아경제"
+   ],
+   "outlets": 5,
+   "naverN": 5,
+   "ownN": 3,
+   "members": [
+    {
+     "title": "UNIST, 북극 항로 운항 돕는 AI 개발 外[과기원NOW]",
+     "url": "https://n.news.naver.com/mnews/article/584/0000040162",
+     "source": "동아사이언스"
+    },
+    {
+     "title": "“북극 뱃길 언제 열릴까”…UNIST, 항로 예측 AI 개발",
+     "url": "https://n.news.naver.com/mnews/article/018/0006409919",
+     "source": "이데일리"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": "c_202611150940_00000045",
+   "placement": "section",
+   "unconf": {
+    "sources": 0,
+    "items": 0,
+    "applied": false
+   },
+   "vs": 4.3,
+   "publishedAt": "2026-11-15 10:02"
+  },
+  {
+   "rank": 18,
+   "title": "엔비디아 톱다운 시대 종말… 美 빅테크 잡은 삼성 파운드리 '턴키 전략...",
+   "url": "https://www.ddaily.co.kr/page/view/2026111501043292230",
+   "source": "디지털데일리",
+   "sources": [
+    "디지털데일리",
+    "매일경제IT"
+   ],
+   "outlets": 2,
+   "naverN": 0,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "[매일경제TV] 엔비디아 변수 속 반도체 투자 전략",
+     "url": "https://www.mk.co.kr/article/12209256",
+     "source": "매일경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 3,
+    "applied": false
+   },
+   "vs": 4.25,
+   "publishedAt": "2026-11-15 08:17"
+  },
+  {
+   "rank": 19,
+   "title": "LG엔솔, 美 RE+서 차세대 배터리 전력 솔루션 공개",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=65451",
+   "source": "디일렉",
+   "sources": [
+    "IT조선",
+    "디지털데일리",
+    "조선비즈",
+    "디일렉",
+    "매일경제IT",
+    "한국경제IT"
+   ],
+   "outlets": 6,
+   "naverN": 0,
+   "ownN": 6,
+   "members": [
+    {
+     "title": "LG엔솔·삼성SDI, 美 ‘RE+ 2026’서 AI·ESS 솔루션 공개",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001071",
+     "source": "IT조선"
+    },
+    {
+     "title": "삼성SDI, 美 RE+서 ESS용 배터리 등 신제품 공개",
+     "url": "https://www.thelec.kr/news/articleView.html?idxno=65450",
+     "source": "디일렉"
+    },
+    {
+     "title": "삼성SDI, 美 RE+ 2026서 북미 ESS 공략…현지 생산 LFP 배터리 공개",
+     "url": "https://n.news.naver.com/article/138/0002248574",
+     "source": "디지털데일리"
+    },
+    {
+     "title": "삼성SDI, 차세대 배터리 토털 솔루션 공개...ESS시장 공략 잰걸음",
+     "url": "https://www.mk.co.kr/article/12209146",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "삼성SDI·LG엔솔, 美서 AI 데이터센터 배터리 맞대결…ESS 시장 공략 ‘...",
+     "url": "https://biz.chosun.com/industry/company/2026/11/15/V6YHXV5G3ZFHVP7U2N4AXXMDDA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    },
+    {
+     "title": "LG엔솔·삼성SDI, 美서 차세대 ESS 배터리 공개",
+     "url": "https://www.hankyung.com/article/2026111574441",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": null,
+   "unconf": {
+    "sources": 0,
+    "items": 7,
+    "applied": false
+   },
+   "vs": 4.15,
+   "publishedAt": "2026-11-15 17:04"
+  },
+  {
+   "rank": 20,
+   "title": "코인원, 고객상담 외주업체 해킹으로 개인정보 유출",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001074",
+   "source": "IT조선",
+   "sources": [
+    "데일리시큐",
+    "IT조선"
+   ],
+   "outlets": 2,
+   "naverN": 0,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "메타엠 고객상담 시스템 해킹…전화번호·상담 내용 등 개인정보 유출 확인",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209525",
+     "source": "데일리시큐"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 3.8,
+   "publishedAt": "2026-11-15 13:03"
+  },
+  {
+   "rank": 21,
+   "title": "[젠슨 황 스캔들] ‘불륜에 낙마’…젠슨 황도 못 피한 CEO 잔혹사",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001070",
+   "source": "IT조선",
+   "sources": [
+    "조선비즈",
+    "IT조선"
+   ],
+   "outlets": 2,
+   "naverN": 0,
+   "ownN": 2,
+   "members": [
+    {
+     "title": "젠슨 황도 예외 없었다… 사내 불륜에 불명예 퇴진한 美 CEO들",
+     "url": "https://biz.chosun.com/international/international_general/2026/11/15/KLEYIYDCSRC5RMSXWOSRNZQWZI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": "home-featured",
+   "unconf": {
+    "sources": 0,
+    "items": 2,
+    "applied": false
+   },
+   "vs": 3.8,
+   "publishedAt": "2026-11-15 10:48"
+  },
+  {
+   "rank": 22,
+   "title": "두산에너빌리티, 발전사와 AI 기반 설비 운영 기술 공유",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=65449",
+   "source": "디일렉",
+   "sources": [
+    "ZDNet Korea",
+    "디지털타임스",
+    "전자신문",
+    "디일렉"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "두산에너빌리티, 발전사들과 AI 기반 운영기술 공유",
+     "url": "https://zdnet.co.kr/view/?no=20261115105258",
+     "source": "ZDNet Korea"
+    },
+    {
+     "title": "두산에너빌리티, 발전사 고객과 AI 기반 발전운영·정비 기술 공유",
+     "url": "https://www.dt.co.kr/article/12095184?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "“AI 기반 과학기술 강국으로”…과총, 내년 AI 얼라이언스 출범",
+     "url": "https://www.etnews.com/20261113000266",
+     "source": "전자신문"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": null,
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 3.35,
+   "publishedAt": "2026-11-15 13:22"
+  },
+  {
+   "rank": 23,
    "title": "세미파이브, 3분기 신규 수주 1784억 '역대 최대'…매출도 첫 500억 돌파",
    "url": "https://www.thelec.kr/news/articleView.html?idxno=65444",
    "source": "디일렉",
@@ -640,7 +1072,181 @@
    "publishedAt": "2026-11-14 10:21"
   },
   {
-   "rank": 14,
+   "rank": 24,
+   "title": "코인원 고객센터 수탁사 해킹으로 개인정보 유출…주민번호·계좌번호 등 11개 항목 가능성",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209532",
+   "source": "데일리시큐",
+   "sources": [
+    "매일경제IT",
+    "한국경제IT",
+    "연합뉴스IT",
+    "디지털타임스",
+    "데일리시큐"
+   ],
+   "outlets": 5,
+   "naverN": 0,
+   "ownN": 5,
+   "members": [
+    {
+     "title": "코인원, 고객 상담 수탁사 해킹으로 개인정보 유출",
+     "url": "https://www.dt.co.kr/article/12095146?ref=naver",
+     "source": "디지털타임스"
+    },
+    {
+     "title": "가상화폐 거래소 코인원, 외주업체 해킹으로 개인정보 유출",
+     "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230907",
+     "source": "매일경제IT"
+    },
+    {
+     "title": "코인원, 외주업체 해킹으로 고객 정보 유출",
+     "url": "https://www.yna.co.kr/view/AKR20261115020900002?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "코인원 \"외주업체 해킹으로 이름·계좌번호 등 고객 정보 유출\"",
+     "url": "https://www.hankyung.com/article/2026111570777",
+     "source": "한국경제IT"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": null,
+   "unconf": {
+    "sources": 0,
+    "items": 5,
+    "applied": false
+   },
+   "vs": 3.2,
+   "publishedAt": "2026-11-15 13:33"
+  },
+  {
+   "rank": 25,
+   "title": "중기부 ‘모두의 창업’ 개인정보 유출 업체, 제재 조치 나선다",
+   "url": "https://www.mk.co.kr/article/12209181",
+   "source": "매일경제IT",
+   "sources": [
+    "연합뉴스IT",
+    "조선비즈",
+    "전자신문",
+    "매일경제IT"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "중기부, 모두의창업 개인정보 유출 사흘 만에 \"진심으로 사과\"",
+     "url": "https://www.yna.co.kr/view/AKR20261114046700030?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "중기부, '모두의 창업' 개인정보 유출 업체 제재 추진…AI 공급기업 긴급 보안점검",
+     "url": "https://www.etnews.com/20261115000103",
+     "source": "전자신문"
+    },
+    {
+     "title": "올해 두 번째 ‘모두의 창업’ 개인정보 유출…중기부 사흘 만에 사과",
+     "url": "https://biz.chosun.com/industry/business-venture/2026/11/15/EB7RHQ7U4ND4JNLLZOMWLT7LDQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": null,
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 3.2,
+   "publishedAt": "2026-11-15 14:45"
+  },
+  {
+   "rank": 26,
+   "title": "최태원 “AI 플라이휠 장착하라”… SK 리밸런싱 2.0 시동",
+   "url": "https://www.mk.co.kr/article/12209175",
+   "source": "매일경제IT",
+   "sources": [
+    "조선비즈",
+    "테크M",
+    "매일경제IT",
+    "전자신문"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "최태원 SK그룹 회장, “기존 사업의 틀 깨고 'AI 플라이휠' 구조 만들어야”",
+     "url": "https://www.etnews.com/20261115000033",
+     "source": "전자신문"
+    },
+    {
+     "title": "최태원 SK 회장 “AI 플라이휠로 성장이 다음 성장을 만들어야”",
+     "url": "https://biz.chosun.com/industry/company/2026/11/15/TRJSN665CJF65JV4UUH7R5DT24/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    },
+    {
+     "title": "최태원 SK 회장 \"'AI 플라이휠' 추진...'토큰 경제' 핵심 목표\"",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=157361",
+     "source": "테크M"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": null,
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 3.2,
+   "publishedAt": "2026-11-15 14:32"
+  },
+  {
+   "rank": 27,
+   "title": "머스크 \"젠슨 황 없는 엔비디아, 공급망 핵심 계약 잃게 될 것\"",
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5230906",
+   "source": "매일경제IT",
+   "sources": [
+    "연합뉴스IT",
+    "조선비즈",
+    "전자신문",
+    "매일경제IT"
+   ],
+   "outlets": 4,
+   "naverN": 0,
+   "ownN": 4,
+   "members": [
+    {
+     "title": "머스크 \"젠슨 황 없는 엔비디아, 공급망 핵심 계약 잃을 것\"",
+     "url": "https://www.yna.co.kr/view/AKR20261115000300072?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "젠슨 황 없는 엔비디아' 복귀론·책임론 정면충돌",
+     "url": "https://www.etnews.com/20261115000051",
+     "source": "전자신문"
+    },
+    {
+     "title": "머스크 “젠슨 황 부재에 엔비디아 공급망 핵심 계약 잃을 것”",
+     "url": "https://biz.chosun.com/international/international_economy/2026/11/15/KZMKSSTMV5DBJA3B4TZ3XQ3DJI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
+    }
+   ],
+   "scoop": null,
+   "naverCluster": null,
+   "placement": null,
+   "unconf": {
+    "sources": 0,
+    "items": 4,
+    "applied": false
+   },
+   "vs": 3.2,
+   "publishedAt": "2026-11-15 11:32"
+  },
+  {
+   "rank": 28,
    "title": "中 전문가 “美 칩 규제 강화시 희토류 맞불”…젠슨 황 여파 지속",
    "url": "https://biz.chosun.com/international/international_general/2026/11/14/LYY64QPS2BDFRLZPIOJLEPWCZY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
    "source": "조선비즈",
@@ -682,22 +1288,28 @@
    "publishedAt": "2026-11-14 14:50"
   },
   {
-   "rank": 15,
-   "title": "\"하루 매출 3500만원?\"…남대문 스카프 아저씨 온라인몰 '폭주'",
-   "url": "https://www.hankyung.com/article/2026111462677",
-   "source": "한국경제IT",
+   "rank": 29,
+   "title": "‘9천피’ 고점에 발행된 ELS 만기 도래…원금 손실 우려 확산",
+   "url": "https://www.dt.co.kr/article/12095153?ref=naver",
+   "source": "디지털타임스",
    "sources": [
-    "디지털데일리",
-    "한국경제IT"
+    "연합뉴스IT",
+    "조선비즈",
+    "디지털타임스"
    ],
-   "outlets": 2,
+   "outlets": 3,
    "naverN": 0,
-   "ownN": 2,
+   "ownN": 3,
    "members": [
     {
-     "title": "[D테일] 대중은 왜 남대문시장 '스카프 아저씨'에 열광할까",
-     "url": "https://n.news.naver.com/article/138/0002248536",
-     "source": "디지털데일리"
+     "title": "9천피'에 발행된 ELS, 내달부터 만기 도래…원금 손실 우려",
+     "url": "https://www.yna.co.kr/view/AKR20261114023300008?input=1195m",
+     "source": "연합뉴스IT"
+    },
+    {
+     "title": "‘9000피’에 찍은 고수익 ELS, 내달부터 만기 도래… 반도체 급락에 손실...",
+     "url": "https://biz.chosun.com/stock/stock_general/2026/11/15/AVXYYX3SIJDKBGJF6DJ5PV35ZA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "source": "조선비즈"
     }
    ],
    "scoop": null,
@@ -705,395 +1317,41 @@
    "placement": "ranking",
    "unconf": {
     "sources": 0,
-    "items": 2,
-    "applied": false
-   },
-   "vs": 2.98,
-   "publishedAt": "2026-11-14 09:12"
-  },
-  {
-   "rank": 16,
-   "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217413",
-   "source": "AI타임스",
-   "sources": [
-    "AI타임스"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.8,
-   "publishedAt": "2026-11-15 07:52"
-  },
-  {
-   "rank": 17,
-   "title": "“AI가 제대로 일하려면, ‘문서’부터 바뀌어야 하죠”, 이동재 올빅뎃 대표",
-   "url": "https://www.venturesquare.net/1118758/",
-   "source": "벤처스퀘어",
-   "sources": [
-    "벤처스퀘어"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.8,
-   "publishedAt": "2026-11-15 06:43"
-  },
-  {
-   "rank": 18,
-   "title": "[VS 기획] AI 안경은 일상을 바꾸는데, 시험장에선 부정행위 도구?…기술과 신뢰 사이의 딜레마",
-   "url": "https://www.venturesquare.net/1128607/",
-   "source": "벤처스퀘어",
-   "sources": [
-    "벤처스퀘어"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.8,
-   "publishedAt": "2026-11-14 19:22"
-  },
-  {
-   "rank": 19,
-   "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
-   "source": "AI타임스",
-   "sources": [
-    "AI타임스"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.8,
-   "publishedAt": "2026-11-14 17:56"
-  },
-  {
-   "rank": 20,
-   "title": "AI 안경·초소형 기기…전파 차단 해법 될까",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001004",
-   "source": "IT조선",
-   "sources": [
-    "IT조선"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 1,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.8,
-   "publishedAt": "2026-11-14 07:00"
-  },
-  {
-   "rank": 21,
-   "title": "[IT돋보기] 20년 만에 지도 반출⋯구글, 韓 서비스 강화 추진",
-   "url": "http://www.inews24.com/view/2026182",
-   "source": "아이뉴스24",
-   "sources": [
-    "아이뉴스24"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-hero",
-   "unconf": {
-    "sources": 1,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.66,
-   "publishedAt": "2026-11-15 08:01"
-  },
-  {
-   "rank": 22,
-   "title": "삼성메디슨, 홍천 신공장 준공…2030년 생산능력 두 배",
-   "url": "https://www.thelec.kr/news/articleView.html?idxno=65442",
-   "source": "디일렉",
-   "sources": [
-    "디일렉"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.53,
-   "publishedAt": "2026-11-13 22:17"
-  },
-  {
-   "rank": 23,
-   "title": "美연구소 \"中딥시크·키미, 엔비디아 최첨단 칩으로 훈련\"",
-   "url": "https://www.hankyung.com/article/2026111568077",
-   "source": "한국경제IT",
-   "sources": [
-    "연합뉴스IT",
-    "한국경제IT",
-    "조선비즈"
-   ],
-   "outlets": 3,
-   "naverN": 0,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "美연구소 \"中딥시크·키미, 美제재에도 엔비디아 최첨단칩 훈련\"",
-     "url": "https://www.yna.co.kr/view/AKR20261115001500091?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "美 연구소 “中 딥시크·키미 엔비디아 최첨단칩 훈련”",
-     "url": "https://biz.chosun.com/international/international_general/2026/11/15/6GZRFWC4SRBNFLCR4XSAHVBMDI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "source": "조선비즈"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "unconf": {
-    "sources": 0,
     "items": 3,
     "applied": false
    },
-   "vs": 2.5,
-   "publishedAt": "2026-11-15 08:11"
-  },
-  {
-   "rank": 24,
-   "title": "로이터 \"엔비디아 칩 의존 중국 AI 프로젝트, 규모 4조 6천억 이상\"",
-   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5230855",
-   "source": "매일경제IT",
-   "sources": [
-    "전자신문",
-    "연합뉴스IT",
-    "매일경제IT"
-   ],
-   "outlets": 3,
-   "naverN": 0,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "로이터 \"'엔비디아칩 의존' 中 AI프로젝트 규모 4조6천억 이상\"",
-     "url": "https://www.yna.co.kr/view/AKR20261114026400089?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
-     "url": "https://www.etnews.com/20261114000015",
-     "source": "전자신문"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "unconf": {
-    "sources": 0,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 2.5,
-   "publishedAt": "2026-11-14 16:08"
-  },
-  {
-   "rank": 25,
-   "title": "“젠슨 황 불륜 상대는 中국가안전부 ‘반도체팀’ 공작원”… 대만 자...",
-   "url": "https://www.dt.co.kr/article/12095067?ref=naver",
-   "source": "디지털타임스",
-   "sources": [
-    "디지털타임스",
-    "한국경제IT",
-    "연합뉴스IT"
-   ],
-   "outlets": 3,
-   "naverN": 0,
-   "ownN": 3,
-   "members": [
-    {
-     "title": "대만 매체 \"젠슨 황 불륜 상대, 中국가안전부 반도체팀 소속\"",
-     "url": "https://www.yna.co.kr/view/AKR20261113177100083?input=1195m",
-     "source": "연합뉴스IT"
-    },
-    {
-     "title": "\"젠슨 황 불륜녀, 中 국가안전부 반도체팀 소속 요원\"",
-     "url": "https://www.hankyung.com/article/2026111360497",
-     "source": "한국경제IT"
-    }
-   ],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": null,
-   "unconf": {
-    "sources": 0,
-    "items": 3,
-    "applied": false
-   },
-   "vs": 2.5,
-   "publishedAt": "2026-11-13 21:41"
-  },
-  {
-   "rank": 26,
-   "title": "[젠슨 황 스캔들] 대만 매체 “中 국가안전부 소속 요원”…美 “확인 안 돼”",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001060",
-   "source": "IT조선",
-   "sources": [
-    "IT조선"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 1,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.2,
-   "publishedAt": "2026-11-14 11:16"
-  },
-  {
-   "rank": 27,
-   "title": "[Deep Tech Insight] 보이지 않는 금융시장을 검증하는 기술…젠OTC는 수학적 모델을 어떻게 서비스로 만들었나",
-   "url": "https://www.venturesquare.net/1128593/",
-   "source": "벤처스퀘어",
-   "sources": [
-    "벤처스퀘어"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.2,
-   "publishedAt": "2026-11-14 11:07"
-  },
-  {
-   "rank": 28,
-   "title": "데이터센터는 왜 혐오시설이 됐을까",
-   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001033",
-   "source": "IT조선",
-   "sources": [
-    "IT조선"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.2,
-   "publishedAt": "2026-11-14 08:20"
-  },
-  {
-   "rank": 29,
-   "title": "3G는 역사 속으로, 5G 는 단독망으로… 통신 망 전환 가속",
-   "url": "http://www.inews24.com/view/2026243",
-   "source": "아이뉴스24",
-   "sources": [
-    "아이뉴스24"
-   ],
-   "outlets": 1,
-   "naverN": 0,
-   "ownN": 1,
-   "members": [],
-   "scoop": null,
-   "naverCluster": null,
-   "placement": "home-featured",
-   "unconf": {
-    "sources": 0,
-    "items": 1,
-    "applied": false
-   },
-   "vs": 2.09,
-   "publishedAt": "2026-11-15 07:01"
+   "vs": 2.95,
+   "publishedAt": "2026-11-15 10:18"
   },
   {
    "rank": 30,
-   "title": "젠슨 황 후임에 Arm CEO 부상⋯엔비디아, 르네 하스 접촉",
-   "url": "http://www.inews24.com/view/2026190",
-   "source": "아이뉴스24",
+   "title": "제21회 국제로봇콘테스트' 성료…올해 첫선 '마트 휴머노이드', 상품 배송·진열·계산 미션 생중계 관람객 호응",
+   "url": "https://www.etnews.com/20261115000075",
+   "source": "전자신문",
    "sources": [
-    "아이뉴스24"
+    "전자신문",
+    "디지털타임스"
    ],
-   "outlets": 1,
+   "outlets": 2,
    "naverN": 0,
-   "ownN": 1,
-   "members": [],
+   "ownN": 2,
+   "members": [
+    {
+     "title": "휴머노이드가 마트 계산대에 섰다…‘21회 국제로봇콘테스트’ 성료",
+     "url": "https://n.news.naver.com/mnews/article/029/0003059107",
+     "source": "디지털타임스"
+    }
+   ],
    "scoop": null,
    "naverCluster": null,
-   "placement": "hero",
+   "placement": "section",
    "unconf": {
     "sources": 0,
     "items": 1,
     "applied": false
    },
-   "vs": 1.98,
-   "publishedAt": "2026-11-14 14:51"
+   "vs": 2.9,
+   "publishedAt": "2026-11-15 12:26"
   }
  ]
 }
